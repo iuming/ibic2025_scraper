@@ -370,83 +370,136 @@ class IBIC2025Scraper:
         if cite_pos != -1:
             content = content[:cite_pos].strip()
         
-        # Split into lines and clean up
-        lines = [line.strip() for line in content.split('\n') if line.strip()]
+        # Remove metadata patterns
+        metadata_patterns = [
+            r'Paper:\s*' + re.escape(paper_id),
+            r'DOI:\s*reference for this paper:',
+            r'About:\s*Received:',
+            r'Received:\s*\d{1,2}\s+\w+\s+\d{4}',
+            r'Revised:\s*\d{1,2}\s+\w+\s+\d{4}',
+            r'Accepted:\s*\d{1,2}\s+\w+\s+\d{4}',
+            r'Issue date:\s*\d{1,2}\s+\w+\s+\d{4}'
+        ]
         
-        if not lines:
-            return None
+        for pattern in metadata_patterns:
+            content = re.sub(pattern, '', content, flags=re.IGNORECASE).strip()
+        
+        # Extract author and institution information
+        # Look for patterns like "Author Name  Institution Name"
+        author_institution_matches = re.findall(r'([A-Z][a-zA-Z\s]+(?:\s+[A-Z]\.)*)\s{2,}([A-Z][a-zA-Z\s]*(?:University|Laboratory|Institute|Center|National|Facility|Source|Accelerator|Synchrotron|Cockcroft|Elettra|ESRF|DESY|SLAC|LANL|BNL|CERN|KEK|Spring-8|Organization|Research|Technology|Council|College|School|Department|Division)[a-zA-Z\s]*(?:\([^)]*\))*)', content)
+        
+        authors = []
+        institutions = []
+        
+        for author_match, institution_match in author_institution_matches:
+            author_match = author_match.strip()
+            institution_match = institution_match.strip()
             
-        # First line is usually the title
-        paper_info['title'] = lines[0]
-        
-        # Look for author and institution information
-        # In IBIC2025, authors and institutions appear at the end, before "Cite:"
-        # They are typically in format: "Author Name  Institution Name"
-        
-        author_candidates = []
-        institution_candidates = []
-        
-        # Check the last few lines for author/institution info
-        # Usually 1-3 lines before the end
-        search_lines = lines[-3:] if len(lines) >= 3 else lines
-        
-        for line in search_lines:
-            # Skip if line is too long (likely part of abstract)
-            if len(line) > 100:
-                continue
-                
-            # Look for patterns like "A. Author  Institution"
-            # Split by double spaces or tabs
-            parts = re.split(r'\s{2,}', line)
+            # Clean up author name
+            author_match = re.sub(r'\s+', ' ', author_match).strip()
+            if author_match and len(author_match.split()) <= 5:  # Reasonable name length
+                authors.append(author_match)
             
-            if len(parts) >= 2:
-                author_part = parts[0].strip()
-                institution_part = ' '.join(parts[1:]).strip()
-                
-                # Check if author part looks like names
-                if (re.match(r'^[A-Z][a-z]+(\s+[A-Z][a-z]+)*(\s+[A-Z]\.)*$', author_part) or 
-                    re.match(r'^[A-Z]\.\s+[A-Z][a-z]+', author_part)):
-                    author_candidates.append(author_part)
-                    
-                # Check if institution part contains institution keywords
-                if any(keyword in institution_part.lower() for keyword in 
-                      ['university', 'laboratory', 'institute', 'center', 'national', 'facility', 'source', 'accelerator', 'synchrotron', 'collider', 'physics', 'research', 'technology']):
-                    institution_candidates.append(institution_part)
-            else:
-                # Single part - could be author or institution
-                if len(line.split()) <= 4 and not any(keyword in line.lower() for keyword in 
-                      ['university', 'laboratory', 'institute', 'center', 'national']):
-                    author_candidates.append(line)
-                elif any(keyword in line.lower() for keyword in 
-                      ['university', 'laboratory', 'institute', 'center', 'national', 'facility', 'source', 'accelerator']):
-                    institution_candidates.append(line)
+            # Clean up institution name
+            institution_match = re.sub(r'\s+', ' ', institution_match).strip()
+            if institution_match:
+                institutions.append(institution_match)
+            
+            # Remove this match from content
+            content = content.replace(f"{author_match}  {institution_match}", "").strip()
         
-        # Set authors and institutions
-        if author_candidates:
-            paper_info['authors'] = author_candidates
-        if institution_candidates:
-            paper_info['institutions'] = institution_candidates
+        # Also look for simpler author patterns at the end
+        author_only_patterns = [
+            r'\b([A-Z]\.\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*)\b',
+            r'\b([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s+[A-Z]\.)\b'
+        ]
         
-        # Extract abstract: everything between title and author/institution lines
-        abstract_parts = []
-        start_abstract = False
+        for pattern in author_only_patterns:
+            matches = re.findall(pattern, content)
+            for match in matches:
+                match = match.strip()
+                if match not in authors and len(match.split()) <= 4:
+                    authors.append(match)
+                    content = content.replace(match, "").strip()
         
-        for line in lines[1:]:  # Skip title
-            # Stop if we reach author/institution lines
-            if line in author_candidates or line in institution_candidates:
-                break
-                
-            # Skip very short lines or lines that are clearly metadata
-            if len(line) < 10 or any(keyword in line.lower() for keyword in ['paper:', 'doi:', 'about:', 'received:', 'accepted:']):
-                continue
-                
-            # Add to abstract if it's substantial content
-            if len(line) > 15:
-                abstract_parts.append(line)
-                start_abstract = True
+        paper_info['authors'] = list(set(authors))  # Remove duplicates
+        paper_info['institutions'] = list(set(institutions))  # Remove duplicates
         
-        if abstract_parts:
-            paper_info['abstract'] = ' '.join(abstract_parts)
+        # Now extract title and abstract from remaining content
+        content = content.strip()
+        
+        if not content:
+            return paper_info
+        
+        # For IBIC2025, titles are typically followed by the abstract without clear separation
+        # We'll use heuristics to split them
+        
+        # Look for common title-ending patterns
+        title_end_patterns = [
+            r'([A-Z][^.!?]*?:)',  # Title ending with colon
+            r'([A-Z][^.!?]*?\.)',  # Title ending with period
+            r'([A-Z][^.!?]*?!)',  # Title ending with exclamation
+            r'([A-Z][^.!?]*?\?)',  # Title ending with question
+        ]
+        
+        title = ""
+        abstract = content
+        
+        for pattern in title_end_patterns:
+            match = re.search(pattern, content)
+            if match:
+                potential_title = match.group(1).strip()
+                # Check if this looks like a reasonable title
+                if 20 <= len(potential_title) <= 150 and not any(word in potential_title.lower() for word in ['the', 'a', 'an', 'this', 'these', 'those']):
+                    # Additional check: title should not contain sentence connectors
+                    if not any(connector in potential_title.lower() for connector in [' however', ' therefore', ' thus', ' hence', ' consequently']):
+                        title = re.sub(r'[.:!?]$', '', potential_title).strip()
+                        abstract_start = match.end()
+                        abstract = content[abstract_start:].strip()
+                        break
+        
+        # If no pattern matched, try to find a natural break based on abstract starters
+        if not title:
+            # Look for the first occurrence of common abstract starters
+            abstract_starters = ['In this', 'This paper', 'The paper', 'We present', 'This work', 'In the', 'The system', 'A new', 'An improved', 'Recent', 'During', 'Since', 'As part', 'One of', 'Among the', 'In March', 'In April', 'In May', 'In June', 'In July', 'In August', 'In September', 'In October', 'In November', 'In December', 'In 2025', 'In 2024', 'In 2023']
+            
+            best_pos = -1
+            best_starter = ""
+            
+            for starter in abstract_starters:
+                pos = content.find(starter)
+                if pos > 30 and pos < 120:  # Reasonable title length
+                    if best_pos == -1 or pos < best_pos:
+                        best_pos = pos
+                        best_starter = starter
+            
+            if best_pos != -1:
+                title = content[:best_pos].strip()
+                # Clean up title - remove trailing punctuation
+                title = re.sub(r'[.:!?;,]$', '', title).strip()
+                abstract = content[best_pos:].strip()
+            
+            # Last resort: split at reasonable length
+            if not title and len(content) > 80:
+                # Find a break point around 80-120 characters, preferring word boundaries
+                break_point = content.rfind(' ', 80, 120)
+                if break_point == -1:
+                    break_point = 100
+                title = content[:break_point].strip()
+                # Clean up title
+                title = re.sub(r'[.:!?;,]$', '', title).strip()
+                abstract = content[break_point:].strip()
+        
+        paper_info['title'] = title if title else content[:100].strip()
+        paper_info['abstract'] = abstract if abstract != content else (content[100:].strip() if len(content) > 100 else "")
+        
+        # Clean up title
+        paper_info['title'] = re.sub(r'[.:;]$', '', paper_info['title']).strip()
+        
+        # Clean up abstract
+        paper_info['abstract'] = paper_info['abstract'].strip()
+        if paper_info['abstract'].startswith('.'):
+            paper_info['abstract'] = paper_info['abstract'][1:].strip()
         
         # Check PDF availability
         paper_info['pdf_available'] = self.check_pdf_exists(paper_info['pdf_url'])

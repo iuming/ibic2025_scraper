@@ -1,302 +1,421 @@
 Session: MOPMO - Monday Poster Session
 Session ID: 865-mopmo
 URL: https://meow.elettra.eu/90/session/865-mopmo/index.html
-Scrape time: 2025-09-29 18:49:31
+Scrape time: 2025-09-29 19:51:51
 Paper count: 42
 Available PDFs: 37/42
 ================================================================================
 
 1. Paper ID: MOPMO01
-   Title: Bunch-by-bunch beam current and lifetime measurement with interleaved sampling at HLS159To achieve high-precision, bunch-by-bunch beam cur-rent and lifetime measurements at the Hefei Light Source (HLS), we developed a beam diagnostics system based on interleaved sampling technology, achieving an equivalent sampling rate of 6.5 GHz. In single-bunch mode, amplitude extraction via cross-correlation with a single response function yieds a turn-by-turn current relative resolution of 0.12%. By averaging over 200 turns, the resolution is improved to 0.04% at a 23 kHz data refresh rate, enabling fast and accurate lifetime calculations. However, in multi-bunch high-current mode, large longitudinal oscillations degrade the accura-cy of amplitude extraction when using a fixed-response function. We propose an integration method to mitigate the effects of bunch length and phase oscillations on beam current measurements. The method and experi-mental results provide a practical solution for machines exhibiting large longitudinal oscillations, such as HLS.A. Wang  University of Science and Technology of China, National Synchrotron Radiation LaboratoryX. Yang, Y. Deng  University of Science and Technology of ChinaJ. Chen  Suzhou LaboratoryY. Leng  National Synchrotron Radiation LaboratoryPaper: MOPMO01DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO01About:  Received: 01 Sep 2025 — Revised: 07 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Bunch-by-bunch beam current and lifetime measurement with interleaved sampling at HLS159To achieve high-precision
+   Authors: Chen, Leng, Wang, Deng
+   Institutions: National Synchrotron Radiation Laboratory; University of Science and Technology of China; Suzhou LaboratoryY; University of Science and Technology of ChinaJ
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO01.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO01
+   Abstract: bunch-by-bunch beam cur-rent and lifetime measurements at the Hefei Light Source (HLS), we developed a beam diagnostics system based on interleaved sampling technology, achieving an equivalent sampling rate of 6.5 GHz. In single-bunch mode, amplitude extraction via cross-correlation with a single re...
 ------------------------------------------------------------
 2. Paper ID: MOPMO02
-   Title: Design studies of a retarding potential energy analyser (RPEA) for low-energy antimatter experiments163Retarding Potential Energy Analysers (RPEAs) are widely used diagnostic instruments for measuring energy distribution of charged particle beams. In this work we will discuss the conceptual design studies of a novel RPEA for low-energy antimatter beams (antiprotons/positrons). Simulation tools such as CST studio and G4Beamline were used for studying the prototype RPEA and to optimize its geometry for considering different parameters such as, beam characteristics, collector geometry, the losses occurring due to secondary electrons and annihilation, grid design etc. The proposed diagnostic can offer the potential for measuring the energy and current of low-energy (1–10 keV) antiproton/positron bunches in experiments such as AEgIS, with promising energy resolution. However, further detailed studies are required to assess its viability for implementation in a practical detector system.B. Rawat, N. Kumar, S. Chandran, C. Welsch  Cockcroft Institute, University of Liverpool, University of Liverpool; Cockcroft InstituteB. Rienäcker  University of LiverpoolPaper: MOPMO02DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO02About:  Received: 26 Aug 2025 — Revised: 06 Sep 2025 — Accepted: 07 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Design studies of a retarding potential energy analyser (RPEA) for low-energy antimatter experiments163Retarding
+   Authors: B. Rawat, S. Chandran, N. Kumar, Welsch
+   Institutions: Cockcroft Institute
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO02.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO02
+   Abstract: Potential Energy Analysers (RPEAs) are widely used diagnostic instruments for measuring energy distribution of charged particle beams. In this work we will discuss the conceptual design studies of a novel RPEA for low-energy antimatter beams (antiprotons/positrons). Simulation tools such as CST stud...
 ------------------------------------------------------------
 3. Paper ID: MOPMO03
-   Title: Development of a novel DC current monitor device, based on tunnelling magnetoresistive sensors, for ion beam current measurement167In this work, the development of a non-invasive DC Current Monitor device (DCCM), based on Tunnelling MagnetoResistive (TMR) sensors, is presented. The device is primarily intended for measuring the current intensity of an ion beam without the need of intercepting it (therefore not altering its characteristics), making it suitable for online current monitoring. Details are given about the design of the device and its performance assessment, namely the linearity of its static response and its frequency-domain behavior.C. Manna  Istituto Nazionale di Fisica Nucleare, Laboratori Nazionali del SudPaper: MOPMO03DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO03About:  Received: 15 Jul 2025 — Revised: 05 Sep 2025 — Accepted: 06 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Development of a novel DC current monitor device, based on tunnelling magnetoresistive sensors, for ion beam current
+   Authors: C. Manna  Istituto Nazionale
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO03.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO03
+   Abstract: measurement167In this work, the development of a non-invasive DC Current Monitor device (DCCM), based on Tunnelling MagnetoResistive (TMR) sensors, is presented. The device is primarily intended for measuring the current intensity of an ion beam without the need of intercepting it (therefore not alt...
 ------------------------------------------------------------
 4. Paper ID: MOPMO04
-   Title: Diagnostic Contributions to the Commissioning of SLS 2.0171In January 2025, beam was first stored in the SLS 2.0, and by April 2025, the milestone of a 400 mA beam was reached. A variety of diagnostics were utilized to reach these milestones; for example, charge, current and loss monitors for minimizing losses and optimizing transmission and injection efficiency, polarized visible light for vertical beam size measurement, and more. This paper will highlight the contributions of the various diagnostics to the machine commissioning process.C. Ozkan Loch, A. Citterio, A. Fazan, A. Foskolos, B. Keil, F. Armborst, J. Vila-Comamala, J. Kallestrup, M. Rey Barrera, M. Aiba, M. Dehler, R. Ischebeck  Paul Scherrer InstitutePaper: MOPMO04DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO04About:  Received: 18 Aug 2025 — Revised: 08 Sep 2025 — Accepted: 09 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Diagnostic Contributions to the Commissioning of SLS 2.0171In January 2025, beam was first stored in the SLS 2.0, and
+   Authors: A. Fazan, J. Vila, M. Aiba, A. Citterio, J. Kallestrup, C. Ozkan Loch, F. Armborst, Ischebeck, M. Dehler, B. Keil, A. Foskolos, M. Rey Barrera
+   Institutions: Paul Scherrer Institute
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO04.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO04
+   Abstract: by April 2025, the milestone of a 400 mA beam was reached. A variety of diagnostics were utilized to reach these milestones; for example, charge, current and loss monitors for minimizing losses and optimizing transmission and injection efficiency, polarized visible light for vertical beam size measu...
 ------------------------------------------------------------
 5. Paper ID: MOPMO05
-   Title: Development of a wide dynamic range and high-precision ammeter for beamline instrumentation at SIRIUS175Sirius beamlines require specialized electronic devices to monitor key parameters of the photon beam, such as position and flux, through the detection of extremely low-level electrical currents. Furthermore, experiments conducted in fly-scan mode usually demand fast, high-precision low-level current measurements. To address these requirements, the development of a wide dynamic range ammeter (from 1 pA to 10 mA) has been addressed, based on a logarithmic transimpedance amplifier, eliminating the need for scale switching and featuring high precision and fast response. The proposed device converts the input current into a logarithmic output voltage and offers two operation modes: the logarithmic ammeter and the logarithmic ratiometer, both of which are particularly useful in X-ray spectroscopy experiments. This paper considers an overview of the device as well as its preliminary characterization and results, including logarithmic conformity, bandwidth, and noise.V. Silva Oliveira, F. Cardoso, P. Nallin  Brazilian Synchrotron Light LaboratoryB. Oliveira  Brazilian Center for Research in Energy and MaterialsPaper: MOPMO05DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO05About:  Received: 03 Sep 2025 — Revised: 05 Sep 2025 — Accepted: 09 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Development of a wide dynamic range and high-precision ammeter for beamline instrumentation at SIRIUS175Sirius
+   Authors: F. Cardoso, Nallin, Oliveira, V. Silva Oliveira
+   Institutions: Brazilian Synchrotron Light LaboratoryB; Brazilian Center for Research in Energy and Materials
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO05.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO05
+   Abstract: beamlines require specialized electronic devices to monitor key parameters of the photon beam, such as position and flux, through the detection of extremely low-level electrical currents. Furthermore, experiments conducted in fly-scan mode usually demand fast, high-precision low-level current measur...
 ------------------------------------------------------------
 6. Paper ID: MOPMO06
-   Title: Challenges with the beam destinations for the ESS linac179For the ESS linac commissioning, twelve extremely compact beam destinations were designed in place of bulky and expensive beam dumps, in order to dump [0.075, 250] MeV protons. The beam destinations were either Faraday Cups (FC) for the NCL commissioning or Insertable Beam Stops (IBS) for the SCL commissioning. Both FC and IBS are beam-intercepting devices, operated under vacuum, water cooled and movable by means of a pneumatic actuator. The **manufacturing** of FC and IBS relied on high-precision machining. The limited installation space and vacuum requirements required strict tolerances, complex welding of small components and vacuum brazing of compact cooling pipes. The **installation** of the devices themselves, their radiation shielding and portable cleanrooms were particularly challenging due to the limited space not only outside but also inside the beamline. The main challenge during the **operation** was posed by the beam power density. Radiation transport calculations allowed to minimize residual dose rates. Thermo-mechanical simulations allowed to define the operational limits thus avoiding damage to the beam destinations themselves and linac components nearby.E. Donegani  European Spallation SourceA. Gevorgyan, A. Olsson, L. Page  European Spallation Source, European Spallation Source ERICV. Bertrand  Pantechnik, PANTECHNIKI. Bustinduy  ESS BilbaoJ. Herranz  Proactive R&D, European Organization for Nuclear ResearchM. Peli  Allectra Ltd.T. Hodgetts, M. Ruelas  RadiaBeam Technologies (United States)P. Brooker  The Welding InstitutePaper: MOPMO06DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO06About:  Received: 28 Aug 2025 — Revised: 04 Sep 2025 — Accepted: 06 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Challenges with the beam destinations for the ESS linac179For the ESS linac commissioning, twelve extremely compact
+   Authors: Brooker, A. Olsson, Donegani, M. Ruelas, Page, T. Hodgetts
+   Institutions: European Spallation SourceA; European Spallation Source; The Welding Institute
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO06.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO06
+   Abstract: beam destinations were designed in place of bulky and expensive beam dumps, in order to dump [0.075, 250] MeV protons. The beam destinations were either Faraday Cups (FC) for the NCL commissioning or Insertable Beam Stops (IBS) for the SCL commissioning. Both FC and IBS are beam-intercepting devices...
 ------------------------------------------------------------
 7. Paper ID: MOPMO07
-   Title: First Attila4MC simulations for the high-power proton accelerator of the European Spallation Source183Radiation transport simulations allow the design and operation of entire facilities such as the European Spallation Source (ESS) in Lund, Sweden. This paper summarizes three of the first applications of Attila4MC simulations to the high-power proton accelerator of ESS and its beam instrumentation. Entire linac sections and beam-interceptive instrumentation were modelled by implementing existing CAD models, relying on unstructured tetrahedral meshes and zeroing out the time spent in manually crafting MCNP6 models. As a result, it was possible to accurately quantify the beam power density within beam-interceptive devices and in turn their operational limits. Activation and 3D dose maps were computed and swiftly visualized in 3D, on top of the actual linac model. This work paves the way for e.g. advanced instrumentation design, linac operation, safe maintenance, categorization of radiation waste and future dismantling.E. Donegani  European Spallation SourcePaper: MOPMO07DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO07About:  Received: 26 Aug 2025 — Revised: 04 Sep 2025 — Accepted: 06 Sep 2025 — Issue date: 29 Sep 2025
+   Title: First Attila4MC simulations for the high-power proton accelerator of the European Spallation Source183Radiation
+   Authors: Donegani
+   Institutions: European Spallation Source
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO07.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO07
+   Abstract: transport simulations allow the design and operation of entire facilities such as the European Spallation Source (ESS) in Lund, Sweden. This paper summarizes three of the first applications of Attila4MC simulations to the high-power proton accelerator of ESS and its beam instrumentation. Entire lina...
 ------------------------------------------------------------
 8. Paper ID: MOPMO08
-   Title: Development and Characterization of a Radiation-Tolerant Power Supply for Beam Instrumentation186CERN’s Beam Instrumentation Group is developing a mini-crate to host the future Beam Loss Monitor (BLM) and Beam Positioning Monitor (BPM) systems acquisition electronics at HL-LHC and SPS accelerators. For this purpose, a new power supply has been designed to meet the low noise requirements, high reliability, and availability standards for these harsh radioactive environments. This design makes use of CERN-developed ASICs and radiation-tolerant qualified COTS and follows a modular architecture for quick interventions and safe handling. The paper presents the design, prototype characterisation results, identified issues, and mitigation methods to achieve the required radiation tolerance.W. Vigano, C. Zamantzas, E. Effinger, J. Meyer, S. Michelis  European Organization for Nuclear ResearchPaper: MOPMO08DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO08About:  Received: 01 Sep 2025 — Revised: 08 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Development and Characterization of a Radiation-Tolerant Power Supply for Beam Instrumentation186CERN’s Beam
+   Authors: E. Effinger, W. Vigano, C. Zamantzas, J. Meyer, Michelis
+   Institutions: European Organization for Nuclear Research
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO08.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO08
+   Abstract: Instrumentation Group is developing a mini-crate to host the future Beam Loss Monitor (BLM) and Beam Positioning Monitor (BPM) systems acquisition electronics at HL-LHC and SPS accelerators. For this purpose, a new power supply has been designed to meet the low noise requirements, high reliability, ...
 ------------------------------------------------------------
 9. Paper ID: MOPMO09
-   Title: Robotic solution for BLM detector maintenance in high radiation areas189CERN’s Beam Loss Monitoring (BLM) system is essential for the protection of machine elements against energy deposition due to beam losses. The protection function relies on approximately 5000 ionisation chamber type detectors installed along all of CERN's accelerators. Some of the areas where the detectors are installed have a high background dose (above 2mSv/h). Installation and maintenance times must be minimised to ensure person-nel safety. For this reason, a new solution was designed that allows the manipulation of detectors and their sup-ports by robotic action. Every aspect of the solution has been designed to reduce intervention time, using a rapid locking mechanism and the possibility of transporting the material by robot. The paper presents the design, prototype characterisation results, identified issues, and mitigation methods developed for the automated manipulation of these detectors.W. Vigano, M. Di Castro, S. Di Giovannantonio, E. Effinger, F. Sanda, J. Piehl, M. Sta, C. Zamantzas  European Organization for Nuclear ResearchPaper: MOPMO09DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO09About:  Received: 01 Sep 2025 — Revised: 08 Sep 2025 — Accepted: 08 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Robotic solution for BLM detector maintenance in high radiation areas189CERN’s Beam Loss Monitoring (BLM) system is
+   Authors: E. Effinger, W. Vigano, Zamantzas, M. Sta, J. Piehl, M. Di Castro, S. Di Giovannantonio, F. Sanda
+   Institutions: European Organization for Nuclear Research
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO09.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO09
+   Abstract: essential for the protection of machine elements against energy deposition due to beam losses. The protection function relies on approximately 5000 ionisation chamber type detectors installed along all of CERN's accelerators. Some of the areas where the detectors are installed have a high background...
 ------------------------------------------------------------
 10. Paper ID: MOPMO10
-   Title: Performance of the Cryogenic Beam Loss Monitors Developed at the LHC192Several systems protect the superconducting magnets of the Large Hadron Collider (LHC), which operate at -271.3C. The Beam Loss Monitoring (BLM) system is critical for detecting lost particles around the machine and reacting on their quantity and associated energy. It protects the machine from quenching and irreversible damage. To measure these losses, various detectors are used, primarily ionisation chambers (IC), but also other types of monitors depending on loss intensity. In injection and extraction areas, additional fast polycrystalline Chemical Vapor Deposition (pCVD) diamond detectors measure time structured losses. To increase sensitivity, a new detector, the cryogenic Beam Loss Monitor (CryoBLM), based on pCVD, was developed. It is mounted inside the cryostat between two superconducting magnets in the vicinity of the beam pipes and operates at cryogenic temperatures. Two CryoBLM locations in the LHC target different loss scenarios: betatron halo cleaning and luminosity losses from the CMS physics debris. This contribution presents the CryoBLM performance and comparisons with other detectors.B. Salvachua, C. Zamantzas, E. Effinger, J. Storey, J. Meyer, S. Morales Vigo  European Organization for Nuclear ResearchE. Griesmayer  TU Wien, TU Wien; CIVIDEC Instrumentation (Austria), CIVIDEC Instrumentation (Austria)Paper: MOPMO10DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO10About:  Received: 03 Sep 2025 — Revised: 10 Sep 2025 — Accepted: 11 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Performance of the Cryogenic Beam Loss Monitors Developed at the LHC192Several systems protect the superconducting
+   Authors: E. Effinger, C. Zamantzas, B. Salvachua, Morales Vigo, J. Meyer, J. Storey
+   Institutions: European Organization for Nuclear ResearchE
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO10.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO10
+   Abstract: magnets of the Large Hadron Collider (LHC), which operate at -271.3C. The Beam Loss Monitoring (BLM) system is critical for detecting lost particles around the machine and reacting on their quantity and associated energy. It protects the machine from quenching and irreversible damage. To measure the...
 ------------------------------------------------------------
 11. Paper ID: MOPMO11
-   Title: Machine vision cameras for beam spot analysis196The Canadian Light Source is a third generation synchrotron which supports 22 operational beamlines. A project to replace all beam diagnostic analog cameras with CCD cameras was initiated in 2020. Over time this project has been expanded to include beam analysis capabilities. We present an EPICS-based imaging system that uses inexpensive CCD cameras. The system computes beam parameters including strength, centroid, ellipticity, eccentricity, and angle. Analysis is performed in real time, and images can also be saved for post processing. Features, implementation details, obstacles and long term plans will be discussed.M. Bree, T. Batten, W. Javed  Canadian Light Source (Canada)Paper: MOPMO11DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO11About:  Received: 02 Sep 2025 — Revised: 05 Sep 2025 — Accepted: 06 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Machine vision cameras for beam spot analysis196The Canadian Light Source is a third generation synchrotron which
+   Authors: M. Bree, Javed, T. Batten
+   Institutions: Canadian Light Source (Canada)
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO11.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO11
+   Abstract: supports 22 operational beamlines. A project to replace all beam diagnostic analog cameras with CCD cameras was initiated in 2020. Over time this project has been expanded to include beam analysis capabilities. We present an EPICS-based imaging system that uses inexpensive CCD cameras. The system co...
 ------------------------------------------------------------
 12. Paper ID: MOPMO12
-   Title: Optimization of beam intensity measurement system of HIPA at PSI200Beam intensity measurement of high intensity proton accelerator at PSI mainly consists of several passive cavity type monitors and corresponding electronics. New VME based electronics are running in parallel for final online testing with the old CAMAC ones, which will be replaced soon. The new pre-amplifier of the VME system is suffering significant temperature-dependent drift, leading to an inaccurate measurement. Further, wrong transmission rate may lead to unexpected interlock and beam losses during operation. To address this issue many temperature compensation schemes were considered, numerous lab tests were conducted, eventually reach a temperature stabilization solution. Experimental validation demonstrates a factor of 4 reduction in temperature-induced measurement variance compared to previous implementation, achieving a temperature coefficient 166 ppm/degree for RF test signal. Furthermore, the new electronics incorporate a phase measurement of the 50.6 MHz proton bunches for beam energy monitoring. Beam tests show energy measurement consistency within ±0.15%. This implementation greatly facilitates the commissioning and status monitoring of the accelerator.J. Sun, P. Huber, P. Duperrex  Paul Scherrer InstituteW. Koprek  Paul Scherrer Institute, Paul Scherrer InstitutPaper: MOPMO12DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO12About:  Received: 22 Aug 2025 — Revised: 05 Sep 2025 — Accepted: 06 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Optimization of beam intensity measurement system of HIPA at PSI200Beam intensity measurement of high intensity proton
+   Authors: Duperrex, P. Huber, Koprek, J. Sun
+   Institutions: Paul Scherrer InstituteW; Paul Scherrer Institute
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO12.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO12
+   Abstract: accelerator at PSI mainly consists of several passive cavity type monitors and corresponding electronics. New VME based electronics are running in parallel for final online testing with the old CAMAC ones, which will be replaced soon. The new pre-amplifier of the VME system is suffering significant ...
 ------------------------------------------------------------
 13. Paper ID: MOPMO13
-   Title: Intelligent Retrieval Systems for Accelerator Physics: Matching Retrieval Approaches to Use Cases204Accelerator facilities generate diverse documentation, from technical reports to structured wikis and semi-structured logbooks, which complicates efficient knowledge access. While Retrieval-Augmented Generation (RAG) offers a path toward intelligent operator assistants, no single method is universally optimal. We present three use cases from PSI: for technical documentation, naive dense retrieval with summarization provides fast and interpretable access; for the AcceleratorWiki, a graph-augmented approach improves reasoning over hierarchies and cross-references; and for ELOG, an agentic pipeline with specialized agents supports multimodal interpretation, temporal reasoning, and iterative refinement. Together, these case studies illustrate how matching retrieval paradigms to data types enables reliable, context-aware assistance in accelerator operations.L. Stuhlmann, M. Sapinski, Q. Dai, R. Ischebeck  Paul Scherrer InstitutePaper: MOPMO13DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO13About:  Received: 08 Sep 2025 — Revised: 09 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Intelligent Retrieval Systems for Accelerator Physics: Matching Retrieval Approaches to Use Cases204Accelerator
+   Authors: L. Stuhlmann, M. Sapinski, Ischebeck, Q. Dai
+   Institutions: Paul Scherrer Institute
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO13.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO13
+   Abstract: facilities generate diverse documentation, from technical reports to structured wikis and semi-structured logbooks, which complicates efficient knowledge access. While Retrieval-Augmented Generation (RAG) offers a path toward intelligent operator assistants, no single method is universally optimal. ...
 ------------------------------------------------------------
 14. Paper ID: MOPMO14
-   Title: Development of a Faraday cup for the FETS-FFA208The proposed FETS-FFA would exhibit high-intensity operation of a Fixed-Field Alternating Gradient (FFA) accelerator, as a demonstrator for a spallation neutron source driver. Faraday cups are planned to be installed in the injection straight to investigate injection efficiency and infer beam-position during early commissioning stages; and in the extraction line to inspect extraction efficiency. The chosen Faraday cup design must be suitable for the 3-12 MeV proton energy range, the average beam power of the FETS Linac and the FETS-FFA's extracted beam. Thermal aspects of this design will be introduced, including cooling water flow-rate calculations and an approximate method of simulating this flow with equivalent convective cooling. The 3D tracking for a secondary electron suppressor will also be presented, as well as calculations to estimate the required suppression voltage.S. Sapkota  University of PortsmouthD. Posthuma de Boer, E. Yamakawa  ISIS Neutron and Muon Source, Science and Technology Facilities CouncilPaper: MOPMO14DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO14About:  Received: 24 Aug 2025 — Revised: 06 Sep 2025 — Accepted: 06 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Development of a Faraday cup for the FETS-FFA208The proposed FETS-FFA would exhibit high-intensity operation of a
+   Authors: Yamakawa, S. Sapkota  University
+   Institutions: ISIS Neutron and Muon Source
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO14.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO14
+   Abstract: Fixed-Field Alternating Gradient (FFA) accelerator, as a demonstrator for a spallation neutron source driver. Faraday cups are planned to be installed in the injection straight to investigate injection efficiency and infer beam-position during early commissioning stages; and in the extraction line t...
 ------------------------------------------------------------
 15. Paper ID: MOPMO15
-   Title: Beam Instrumentation for the new linear accelerator at the Canadian Light Source212The Canadian Light Source (CLS) linear accelerator (linac) serves as the injector for the 2.9 GeV synchrotron. The original linac, which was installed in the 1960's, was replaced in 2024. The new 3000.24 MHz linac was designed and built by RI Research Instruments GmbH. The linac makes use of a 90 kV thermionic source, three 5m long accelerating S-band structures and a SLED pulse compressor system to accelerate electrons to 250 MeV. The initial beam instrumentation included a faraday cup, yag screens, beam position monitors and fast current transformers. During the course of commissioning directional couplers and microphones were added to provide insight into the location of RF breakdowns. This paper will provide an overview of the new linear accelerator and our experience commissioning the new equipment.T. Batten, C. Randall, E. Nebot Del Busto, I. Kolmakov, M. Bree, S. Saadat  Canadian Light Source (Canada)Paper: MOPMO15DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO15About:  Received: 03 Sep 2025 — Revised: 08 Sep 2025 — Accepted: 11 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Beam Instrumentation for the new linear accelerator at the Canadian Light Source212The Canadian Light Source (CLS)
+   Authors: M. Bree, E. Nebot Del Busto, C. Randall, Saadat, I. Kolmakov, T. Batten
+   Institutions: Canadian Light Source (Canada)
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO15.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO15
+   Abstract: linear accelerator (linac) serves as the injector for the 2.9 GeV synchrotron. The original linac, which was installed in the 1960's, was replaced in 2024. The new 3000.24 MHz linac was designed and built by RI Research Instruments GmbH. The linac makes use of a 90 kV thermionic source, three 5m lon...
 ------------------------------------------------------------
 16. Paper ID: MOPMO16
-   Title: Joint analysis of beam loss and beam position during the injection process at Hefei light source215The Hefei Light Source is a synchrotron radiation facility operating in the vacuum ultraviolet and soft X-ray regions. If the evolution of beam parameters and beam loss during the injection transient process can be observed synchronously, analyzing their correlation can provide more quantitative guidance for further optimizing the injection process. To achieve this goal, a monitoring system capable of synchronously capturing the 3D position of each bunch and rapid beam loss has been established at the Hefei Light Source. Experiments investigated both TOP-UP injection and empty-ring injection processes. Thanks to the unique multi-parameter synchronous diagnosis capability of this system, some previously unnoticed special phenomena have been captured, and a deeper analysis of the correlation between bunch parameters can be conducted. TOP-UP mode exhibited maximum beam loss in the injected bunch, with secondary losses at the 14th subsequent bunch. Peak beam loss occurred immediately after injection in both modes, followed by rapid attenuation within several turns. Loss resurgence appeared after ~85 turns (TOP-UP) or 180 turns (empty ring), followed by oscillatory decay.Y. Xiao  School of Nuclear Science and Technology, University of Science and Technology of China, University of Science and Technology of ChinaY. Liu  School of Nuclear Science and Technology, University of Science and Technology of ChinaY. Leng  School of Nuclear Science and Technology, University of Science and Technology of China, National Synchrotron Radiation Laboratory, University of Science and Technology of ChinaPaper: MOPMO16DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO16About:  Received: 31 Aug 2025 — Revised: 07 Sep 2025 — Accepted: 09 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Joint analysis of beam loss and beam position during the injection process at Hefei light source215The Hefei Light
+   Authors: Leng, Xiao, Liu
+   Institutions: School of Nuclear Science and Technology
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO16.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO16
+   Abstract: Source is a synchrotron radiation facility operating in the vacuum ultraviolet and soft X-ray regions. If the evolution of beam parameters and beam loss during the injection transient process can be observed synchronously, analyzing their correlation can provide more quantitative guidance for furthe...
 ------------------------------------------------------------
 17. Paper ID: MOPMO17
-   Title: Development of an Integrated Control and Monitoring System for Centralized Beam Operation at RAONRAON is a heavy-ion accelerator supporting a wide range of beam energies and charge states. An integrated operational environment has been developed to enable centralized control and monitoring of accelerator systems. Machine states are defined through a structured framework combining source, machine, and beam modes, providing clear visibility of system readiness via an EPICS-based architecture. The beam permit system monitors the real-time status of cryogenics, vacuum, RF, and beam diagnostics, and inhibits beam extraction under unsafe conditions. Interlock logic is supported by a Readiness Manager and IOC monitor, while a post-mortem system captures PV data at the time of beam failure for root-cause analysis. A user interface built on the Phoebus platform offers integrated access to operation logs, alarm handling, and save-and-restore functionality. Additionally, operation time tracking and event-based logging support systematic record-keeping. This framework enhances operational efficiency and lays a foundation for future automation of beam delivery and diagnostics at RAON.J. Kwon, E. Lim, M. Park  Institute for Basic Science
+   Title: Development of an Integrated Control and Monitoring System for Centralized Beam Operation at RAONRAON is a heavy-ion
+   Authors: M. Park  Institute, E. Lim, J. Kwon
    Page: 
    PDF Status: ✗ Not available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO17.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO17
+   Abstract: accelerator supporting a wide range of beam energies and charge states. An integrated operational environment has been developed to enable centralized control and monitoring of accelerator systems. Machine states are defined through a structured framework combining source, machine, and beam modes, p...
 ------------------------------------------------------------
 18. Paper ID: MOPMO18
-   Title: X-RAY CHARACTERIZATION OF A HIGH-ENERGY Gd2O2S FLAT PANEL FOR ELSA FACILITYThe ELSA facility located at CEA DAM DIF consists of a 30 MeV, 15 ps rms, 1 nC compact linac. X-rays are produced either in the MeV energy range through interaction between the electron beam and a solid Ta conversion target (Bremsstrahlung radiation) or in the 10-80 keV energy domain through interactions between electrons with a Nd:YAG laser (inverse Compton Scattering radiation). ELSA is dedicated to X-ray test of detectors and thus requires a good knowledge of the X-ray beam. We present here a spatial ans spectral characterization of a new high energy flat panel detector devoted to the X-ray beam parameter measurements. This characterization was achieved with X-ray portable generators and radioactive sources. A methodology for using this flat panel in dosimetry measurements is also proposed and scheduled for experimental validation on ELSA in 2025.R. ROSCH, A. Pires, A. Ebran, A. CHAUCHAT, B. Laurent, C. Grit, D. Denis-Petit, E. Poirier, J. Dumazert, J. Houzet, M. Collet, N. Dufour, S. Vayre, V. Jacob, V. Le Flanchec  Commissariat à l'Énergie Atomique et aux Énergies Alternatives
+   Title: X-RAY CHARACTERIZATION OF A HIGH-ENERGY Gd2O2S FLAT PANEL FOR ELSA FACILITYThe ELSA facility located at CEA DAM DIF
+   Authors: J. Dumazert, E. Poirier, M. Collet, V. Jacob, S. Vayre, V. Le Flanchec  Commissariat, B. Laurent, N. Dufour, D. Denis, J. Houzet, A. Pires, C. Grit, A. Ebran
    Page: 
    PDF Status: ✗ Not available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO18.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO18
+   Abstract: consists of a 30 MeV, 15 ps rms, 1 nC compact linac. X-rays are produced either in the MeV energy range through interaction between the electron beam and a solid Ta conversion target (Bremsstrahlung radiation) or in the 10-80 keV energy domain through interactions between electrons with a Nd:YAG las...
 ------------------------------------------------------------
 19. Paper ID: MOPMO19
-   Title: The new SLS 2.0 booster-to-ring transfer line – design criteria, diagnostics layout and first beam results219Due to the limited transverse acceptance of 4th generation light sources, the characterization and control of the incoming beam from the booster to the storage ring is an important asset to achieve highly efficient and reproducible injection. For the upgraded SLS 2.0 storage ring, a new booster-to-ring transfer line (BRTL) has been designed, which includes a non-dispersive section for beam parameter measurements and a double-BPM-corrector configuration for position and angle feedback of the injected beam. Based on the BRTL design criteria, first beam results during SLS 2.0 commissioning are presented, including experience with quadrupole scans to document emittance exchange at the end of the booster ramp and steering-stabilization of the beam at the injection point, resulting in a step-wise optimization of transmission into the storage ring.V. Schlott, F. Armborst, J. Kallestrup, B. Keil, C. Ozkan Loch  Paul Scherrer InstitutePaper: MOPMO19DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO19About:  Received: 28 Aug 2025 — Revised: 09 Sep 2025 — Accepted: 09 Sep 2025 — Issue date: 29 Sep 2025
+   Title: The new SLS 2.0 booster-to-ring transfer line – design criteria, diagnostics layout and first beam results219Due to the
+   Authors: V. Schlott, J. Kallestrup, F. Armborst, Ozkan Loch, B. Keil
+   Institutions: Paul Scherrer Institute
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO19.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO19
+   Abstract: limited transverse acceptance of 4th generation light sources, the characterization and control of the incoming beam from the booster to the storage ring is an important asset to achieve highly efficient and reproducible injection. For the upgraded SLS 2.0 storage ring, a new booster-to-ring transfe...
 ------------------------------------------------------------
 20. Paper ID: MOPMO20
-   Title: Beam loss monitoring system at SOLARIS223SOLARIS storage ring has been equipped with a set of twelve Beam Loss Detectors, controlled by Libera Beam Loss Monitors. This system enhances the ability to monitor and analyze beam losses and operational efficiency. Detectors were strategically placed around storage ring and transfer line, providing ability to optimize injection losses and enable precise localization of beam loss events. Real-time monitoring enables faster identification and mitigation of abnormal loss patterns, improving machine protection, stability and reliability. Data collected by the system will support beam lifetime studies and provide valuable insights for future performance.K. Dudek, R. Panas, P. Andryszczak, A. Wawrzyniak  SOLARIS National Synchrotron Radiation CentrePaper: MOPMO20DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO20About:  Received: 03 Sep 2025 — Revised: 05 Sep 2025 — Accepted: 06 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Beam loss monitoring system at SOLARIS223SOLARIS storage ring has been equipped with a set of twelve Beam Loss
+   Authors: Wawrzyniak, R. Panas, P. Andryszczak, K. Dudek
+   Institutions: SOLARIS National Synchrotron Radiation Centre
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO20.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO20
+   Abstract: Detectors, controlled by Libera Beam Loss Monitors. This system enhances the ability to monitor and analyze beam losses and operational efficiency. Detectors were strategically placed around storage ring and transfer line, providing ability to optimize injection losses and enable precise localizatio...
 ------------------------------------------------------------
 21. Paper ID: MOPMO21
-   Title: Beam diagnostic signal processor for SHINE227SHINE has developed different signal processors for beam diagnostics, including processors for cold button beam position monitor (BPM), stripline BPM, chicane BPM, cavity BPM, cavity bunch arrival-time monitor (BAM), electro-optic BAM, CSR bunch length monitor (BLM), beam charge loss monitoring, and fast orbit feed-back system (FOFB). The processors employ a common SoC-FPGA-based digital motherboard and accommo-dates diverse applications by hosting various daughter-boards. This paper presents the design of these processors and the applications on SHINE.Y. Han, J. Pan  University of Chinese Academy of Sciences, Shanghai Institute of Applied PhysicsL. Lai, Y. Zhou, S. Cao, R. Yuan, X. Liu, L. Hua  Shanghai Advanced Research InstituteS. Wang  Nanchang Universityc. wang  Shanghai Institute of Applied Physics, Chinese Academy of SciencesJ. Chen  Shanghai Synchrotron Radiation FacilityPaper: MOPMO21DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO21About:  Received: 03 Sep 2025 — Revised: 10 Sep 2025 — Accepted: 17 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Beam diagnostic signal processor for SHINE227SHINE has developed different signal processors for beam diagnostics
+   Authors: Hua, Wang, Y. Zhou, R. Yuan, Y. Han, X. Liu, S. Cao, J. Pan  University, Chen
+   Institutions: Shanghai Synchrotron Radiation Facility; Nanchang Universityc; Shanghai Advanced Research InstituteS
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO21.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO21
+   Abstract: including processors for cold button beam position monitor (BPM), stripline BPM, chicane BPM, cavity BPM, cavity bunch arrival-time monitor (BAM), electro-optic BAM, CSR bunch length monitor (BLM), beam charge loss monitoring, and fast orbit feed-back system (FOFB). The processors employ a common So...
 ------------------------------------------------------------
 22. Paper ID: MOPMO22
-   Title: Upgrade of the BPM processor for SXFEL231The Shanghai Soft X-ray Free Electron Laser (SXFEL) is scheduled for a digital and intelligent upgrade over the next two years, aiming to achieve fully autonomous operation. This upgrade requires timestamping the BPM measurement results in the beam diagnostics system to enable synchronous acquisition of all measurement data at SXFEL. A new prototype of the digital BPM signal processor (DBPM) has been developed based on a Zynq UltraScale+ MPSoC FPGA. In addition to high-speed data connectors for the ADC board, the design features an FMC slot to accommodate a White Rabbit timing board for receiving bunch ID and trigger signals as timestamps. It also includes 10 GB SFP ports to support high-speed data transmission between processors. In this paper, the design of the hardware, firmware, and software of the upgraded BPM signal processor is presented.S. Wang  Shanghai Advanced Research Institute, Nanchang University, Nanchang University; Shanghai Advanced Research InstituteL. Lai, Y. Zhou  Shanghai Advanced Research InstituteH. Jiang, q. yan, w. xie  Nanchang Universityc. wang  Shanghai Institute of Applied Physics, Chinese Academy of SciencesPaper: MOPMO22DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO22About:  Received: 03 Sep 2025 — Revised: 10 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Upgrade of the BPM processor for SXFEL231The Shanghai Soft X-ray Free Electron Laser (SXFEL) is scheduled for a digital
+   Authors: Zhou, Wang
+   Institutions: Shanghai Advanced Research InstituteH; Shanghai Advanced Research Institute
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO22.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO22
+   Abstract: and intelligent upgrade over the next two years, aiming to achieve fully autonomous operation. This upgrade requires timestamping the BPM measurement results in the beam diagnostics system to enable synchronous acquisition of all measurement data at SXFEL. A new prototype of the digital BPM signal p...
 ------------------------------------------------------------
 23. Paper ID: MOPMO23
-   Title: Current Development Status of Beam Diagnostics Electronics at SSRFShanghai Synchrotron Radiation Facility (SSRF) and Shanghai Soft X-ray FEL(SXFEL) are open to user, and the Shanghai High Repetition Rate X-ray FEL and Extreme Light Facility (SHINE) is under construction. These accelerator facilities require diverse beam diagnostics electronics to ensure their high-performance and stable operation. After more than a decade of development, the SSRF has developed beam diagnostic electronics that meet various application requirements. This poster will introduce the current progress and application status of the electronics developed at SSRF.H. Jiang, L. Lai, S. Wang, Y. Zhou  Shanghai Advanced Research InstituteJ. Pan, Y. Han  Shanghai Institute of Applied Physics
+   Title: Current Development Status of Beam Diagnostics Electronics at SSRFShanghai Synchrotron Radiation Facility (SSRF) and
+   Authors: Zhou, S. Wang, H. Jiang, Han, L. Lai
+   Institutions: Shanghai Advanced Research InstituteJ; Shanghai Institute of Applied Physics
    Page: 
    PDF Status: ✗ Not available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO23.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO23
+   Abstract: Shanghai Soft X-ray FEL(SXFEL) are open to user, and the Shanghai High Repetition Rate X-ray FEL and Extreme Light Facility (SHINE) is under construction. These accelerator facilities require diverse beam diagnostics electronics to ensure their high-performance and stable operation. After more than ...
 ------------------------------------------------------------
 24. Paper ID: MOPMO24
-   Title: Overview of diagnostic and instrumentation for Siam Photon Source-II234Siam Photon Source II (SPS-II) is a 4th-generation synchrotron light source to be constructed in Thailand, envisioned as a major synchrotron facility for Southeast Asia. It is designed with a 3 GeV low-emittance electron storage ring based on a Double Triple Bend Achromat (DTBA) lattice, with a circumference of 327.6 meters and a natural emittance of 0.97 nm·rad. The design and machine parameters have recently been carefully revised to enhance beam stability and operational reliability. In parallel, key prototypes are being developed to support smooth construction and ensure long-term performance. This paper presents the detailed specifications and a comprehensive overview of the planned beam diagnostics and instrumentation systems, along with initial results from their ongoing R&D and testing.P. Sudmuang, S. Naeosuphap, T. Pulampong, S. Jummunt, W. Promdee, T. Chanwattana, T. Phimsen, P. Klysubun  Synchrotron Light Research InstituteS. Kongtawong  National Synchrotron Light Source II, Synchrotron Light Research InstitutePaper: MOPMO24DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO24About:  Received: 31 Aug 2025 — Revised: 07 Sep 2025 — Accepted: 07 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Overview of diagnostic and instrumentation for Siam Photon Source-II234Siam Photon Source II (SPS-II) is a
+   Authors: S. Naeosuphap, Klysubun, T. Phimsen, S. Jummunt, W. Promdee, T. Pulampong, Kongtawong, T. Chanwattana, P. Sudmuang
+   Institutions: Synchrotron Light Research InstituteS; National Synchrotron Light Source II
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO24.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO24
+   Abstract: 4th-generation synchrotron light source to be constructed in Thailand, envisioned as a major synchrotron facility for Southeast Asia. It is designed with a 3 GeV low-emittance electron storage ring based on a Double Triple Bend Achromat (DTBA) lattice, with a circumference of 327.6 meters and a natu...
 ------------------------------------------------------------
 25. Paper ID: MOPMO25
-   Title: Operational experience with machine protection system for high current, high brightness accelerator238The Low Energy RHIC Electron Cooler (LEReC), the world’s first electron cooler utilizing an RF electron accelerator, was designed to operate with 1.6-2.6 MeV electron beams of up to 140 kW beam power. The LEReC successfully worked through RHIC Runs 2019-2021, substantially increasing RHIC luminosity, and has been routinely used for various studies since then. A dedicated, highly configurable Machine Protection System (MPS) is a critical part of the LEReC. This paper summarizes our experience with operating the LEReC MPS.S. Seletskiy, A. Fedotov, D. Gassner, X. Gu, D. Kayran, J. Kewisch, K. Mernick, L. Smart, M. Paniccia, P. Inacker, P. Oddo, R. Hulsart, R. Michnoff, W. Pekrul  Brookhaven National LaboratoryPaper: MOPMO25DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO25About:  Received: 02 Sep 2025 — Revised: 08 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Operational experience with machine protection system for high current, high brightness accelerator238The Low Energy
+   Authors: D. Kayran, L. Smart, M. Paniccia, J. Kewisch, K. Mernick, D. Gassner, Pekrul, R. Michnoff, S. Seletskiy, R. Hulsart, A. Fedotov, X. Gu, P. Oddo, P. Inacker
+   Institutions: Brookhaven National Laboratory
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO25.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO25
+   Abstract: RHIC Electron Cooler (LEReC), the world’s first electron cooler utilizing an RF electron accelerator, was designed to operate with 1.6-2.6 MeV electron beams of up to 140 kW beam power. The LEReC successfully worked through RHIC Runs 2019-2021, substantially increasing RHIC luminosity, and has been ...
 ------------------------------------------------------------
 26. Paper ID: MOPMO26
-   Title: Perfomance evaluation of tailored shielding for energy-selective neutron detection in reactor environments242With nuclear reactor technology rapidly advancing and the plan to raise the nuclear energy production by a factor of 4, the need for advanced detectors, geometries and shields has become apparent. The precise and reliable measurement of the neutron flux is not only relevant for the safe operation of nuclear reactors, but also for future reactor experiments essential for progressing the technology. In the presented work, simulations were performed using MCNP-6.3 to investigate the effects of various common reactor materials in different shield geometries on the performance of benchmark detectors. This was performed using a validated simulation of a 1 Ci Am/Be neutron source located at the University of Liverpool for a detailed experiment to simulation evaluation. The use of a conical shield/reflector material around the detector showed lower efficiency for the detection of thermal neutrons, and higher efficiency for the detection of fast neutrons when compared to the results for no additional material. The tailored measurement of neutrons of specific energies is highly relevant for reactor experiments on innovative technologies.A. Jones, A. Detkina, B. Merk  University of LiverpoolC. Welsch  Cockcroft Institute, University of Liverpool, University of Liverpool; Cockcroft InstitutePaper: MOPMO26DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO26About:  Received: 01 Sep 2025 — Revised: 08 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Perfomance evaluation of tailored shielding for energy-selective neutron detection in reactor environments242With
+   Authors: B. Merk  University, A. Detkina, A. Jones, Welsch
+   Institutions: Cockcroft Institute
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO26.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO26
+   Abstract: nuclear reactor technology rapidly advancing and the plan to raise the nuclear energy production by a factor of 4, the need for advanced detectors, geometries and shields has become apparent. The precise and reliable measurement of the neutron flux is not only relevant for the safe operation of nucl...
 ------------------------------------------------------------
 27. Paper ID: MOPMO27
-   Title: The Beam Test Facility of the National Laboratories of Frascati245The Beam Test Facility (BTF) at the National Laboratories of Frascati provides highly configurable positron/electron beams for different type of experiments. Extracted from the DAΦNE LINAC, the beam delivers up to 49 bunches/s, with 1 to $10^{10}$ particles/bunch. Secondary beams span 25-780 MeV (electrons) and up to 550 MeV (positrons). BTF includes two experimental halls: BTFEH1, suited for high-intensity and long-term experiments, and BTFEH2, optimized for lower intensities (up to 10⁶ particles/s). Both halls feature remote-controlled movable tables, beam diagnostics, and essential services like laser alignment, networking, high-voltage support, and gas pipelines, ensuring comprehensive experimental capabilities and 24/7 user support. A notable strength of BTF lies in the user-friendly approach: beam is easily manipulated to meet users' specific needs, even during ongoing data collection. In this talk the upgrades concerning the development of a new control system based on Epik8s (EPICS on Kubernates) will be reported as well as the new improvement in beam dimension and energy loss concerning the substitution of the 500 $\mu$m BeO exit window with 120 $\mu$m Anticorodal one.E. Diociaiuti, B. Buonomo, C. Taruggi, C. Di Giulio, D. Di Giovenale, F. Cardelli  Istituto Nazionale di Fisica Nucleare, Laboratori Nazionali di FrascatiL. Foggetta  Istituto Nazionale di Fisica NuclearePaper: MOPMO27DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO27About:  Received: 01 Sep 2025 — Revised: 08 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025
+   Title: The Beam Test Facility of the National Laboratories of Frascati245The Beam Test Facility (BTF) at the National
+   Authors: C. Di Giulio, B. Buonomo, C. Taruggi, D. Di Giovenale, F. Cardelli  Istituto Nazionale, E. Diociaiuti
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO27.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO27
+   Abstract: Laboratories of Frascati provides highly configurable positron/electron beams for different type of experiments. Extracted from the DAΦNE LINAC, the beam delivers up to 49 bunches/s, with 1 to $10^{10}$ particles/bunch. Secondary beams span 25-780 MeV (electrons) and up to 550 MeV (positrons). BTF i...
 ------------------------------------------------------------
 28. Paper ID: MOPMO28
-   Title: UV–VIS emissions from high energy heavy ions: mechanisms and applications to single-ion detection249We investigate two well known ultraviolet–visible (UV–VIS) photon emission processes from highly charged uranium ions with energies of 300- 700 MeV/u. By combining theoretical models with estimates from the literature, we evaluate fluorescence yields from air and transition radiation from surfaces. Experimental studies with slow-extracted \(U^{73+}\) beam at the high-energy beam transport line at GSI–FAIR confirm the feasibility of single-ion detection, with prototype detectors achieving up to 99.5\% efficiency. These findings establish UV–VIS emission as a robust method for fast, radiation-hard single-particle counting and provide a foundation for further optimization of optical collection and detector design.R. Ghagi  GSI Helmholtz Centre for Heavy Ion Research; University of Liverpool, University of Liverpool, GSI Helmholtz Centre for Heavy Ion ResearchR. Singh, P. Boutachkov, B. Walasek-Hoehne  GSI Helmholtz Centre for Heavy Ion ResearchC. Welsch, H. Zhang  University of LiverpoolPaper: MOPMO28DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO28About:  Received: 07 Sep 2025 — Revised: 08 Sep 2025 — Accepted: 11 Sep 2025 — Issue date: 29 Sep 2025
+   Title: UV–VIS emissions from high energy heavy ions: mechanisms and applications to single-ion detection249We investigate two
+   Authors: P. Boutachkov, H. Zhang  University, B. Walasek, Hoehne, Ghagi
+   Institutions: GSI Helmholtz Centre for Heavy Ion ResearchC; GSI Helmholtz Centre for Heavy Ion Research
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO28.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO28
+   Abstract: well known ultraviolet–visible (UV–VIS) photon emission processes from highly charged uranium ions with energies of 300- 700 MeV/u. By combining theoretical models with estimates from the literature, we evaluate fluorescence yields from air and transition radiation from surfaces. Experimental studie...
 ------------------------------------------------------------
 29. Paper ID: MOPMO30
-   Title: Diagnostics Layout for the PERLE InjectorThe PERLE (Powerful Energy Recovery Linac for Experiments) project is a high current and high charge testbed for the technologies required to realise future ERLs. A 20 mA electron beam with a bunch charge of 500 pC will be accelerated to 7 MeV by the booster and injected into the ERL. To deliver the beam to the ERL loop, a three-dipole merger with variable momentum compaction has been selected. At this energy, emittance growth is dominated by space charge effects, imposing strict constraints on the beam transport and diagnostic design. This study presents the design and optimisation of the diagnostic layout within the merger, taking into account instrumentation requirements, spatial constraints, and beam dynamics considerations. Beam tracking is used to evaluate these factors and determine optimal diagnostic positioning based on measurable beam parameters. These findings support the commissioning strategy and tuning procedures of the PERLE injector.A. Fomin  Université Paris-Saclay, CNRS/IN2P3, IJCLabC. Monaghan  University of Liverpool; Cockcroft Institute; Laboratoire de Physique des 2 Infinis Irène Joliot-Curie, Cockcroft Institute, University of Liverpool, Laboratoire de Physique des 2 Infinis Irène Joliot-CurieC. Welsch  Cockcroft Institute, University of Liverpool, University of Liverpool; Cockcroft Institute
+   Title: Diagnostics Layout for the PERLE InjectorThe PERLE (Powerful Energy Recovery Linac for Experiments) project is a high
+   Authors: A. Fomin, Welsch
+   Institutions: Cockcroft Institute
    Page: 
    PDF Status: ✗ Not available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO30.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO30
+   Abstract: current and high charge testbed for the technologies required to realise future ERLs. A 20 mA electron beam with a bunch charge of 500 pC will be accelerated to 7 MeV by the booster and injected into the ERL. To deliver the beam to the ERL loop, a three-dipole merger with variable momentum compactio...
 ------------------------------------------------------------
 30. Paper ID: MOPMO31
-   Title: Quantum efficiency measurements and beam diagnostics test stand design for a dual-mode electron gun at ELSA253To support both routine operation and accelerator research at ELSA, a dual-mode dispenser-cathode based electron gun capable of thermionic emission and thermally assisted photoemission (TAPE) is being developed. A dedicated gun test stand is being designed to measure beam properties and quality, as well as quantum efficiency in the TAPE mode under operational conditions. Instrumentation will include a pepper pot emittance stage, quadrupole scan capabilities, profile measurements using screens and wire-scans or SEM grids, and bunch charge and energy spread determination. In a basic test environment, experiments were carried out at low accelerating voltages using a setup consisting of the dispenser cathode, a pickup anode, and a simple laser system with an optical shutter. The shutter enables alternating measurements of photocurrent and dark current at the anode, allowing first estimations of quantum efficiency. The influence of different cathode heating cycles on both the absolute quantum efficiency and its temporal stability was investigated with this setup. Quantum efficiency measurements under different conditions and simulations of the test beamline are presented.S. Kronenberg, B. Gatzsche, D. Proft, K. Desch, M. Switka, P. Hänisch, Y. Schober  University of BonnPaper: MOPMO31DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO31About:  Received: 03 Sep 2025 — Revised: 07 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Quantum efficiency measurements and beam diagnostics test stand design for a dual-mode electron gun at ELSA253To
+   Authors: M. Switka, S. Kronenberg, Y. Schober  University, K. Desch, B. Gatzsche, D. Proft
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO31.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO31
+   Abstract: support both routine operation and accelerator research at ELSA, a dual-mode dispenser-cathode based electron gun capable of thermionic emission and thermally assisted photoemission (TAPE) is being developed. A dedicated gun test stand is being designed to measure beam properties and quality, as wel...
 ------------------------------------------------------------
 31. Paper ID: MOPMO32
-   Title: Characterization of the radiation environment in the FCC-ee tunnel256The Future Circular $ \mathrm{e}^+ \mathrm{e}^- $ Collider (FCC-ee) at CERN will provide collisions at four interaction points along a 91 km long ring, with beam energies ranging from 45.6 GeV (Z pole) to 182.5 GeV ($\text{t}\bar{\text{t}}$ threshold). The radiation environment along the accelerator varies significantly, with different dominant sources depending on location and operational mode. Accurate characterization of this environment is essential for the design and placement of machine equipment, particularly electronic systems and beam instrumentation. In this study, the Monte Carlo code FLUKA is used to characterize tunnel radiation levels from the main sources, including radiative Bhabha scattering, synchrotron radiation, and beam-gas interactions. The results at the Z pole and $\text{t}\bar{\text{t}}$ threshold for both the interaction regions and arcs are presented to guide early-stage design considerations and to quantify exposure risks for electronics at potential installation locations.A. Frasca  European Organization for Nuclear Research, University of LiverpoolG. Broggi, R. Bruce, B. Humann, A. Lechner, G. Lerner  European Organization for Nuclear ResearchM. Boscolo, A. Ciarma  Istituto Nazionale di Fisica Nucleare, Laboratori Nazionali di FrascatiC. Welsch, N. Kumar  Cockcroft Institute, University of Liverpool, University of Liverpool; Cockcroft InstitutePaper: MOPMO32DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO32About:  Received: 03 Sep 2025 — Revised: 05 Sep 2025 — Accepted: 06 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Characterization of the radiation environment in the FCC-ee tunnel256The Future Circular $ \mathrm{e}^+ \mathrm{e}^- $
+   Authors: Lerner, Kumar, A. Lechner, B. Humann, A. Ciarma  Istituto Nazionale, Frasca, R. Bruce
+   Institutions: Cockcroft Institute; European Organization for Nuclear Research; European Organization for Nuclear ResearchM
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO32.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO32
+   Abstract: Collider (FCC-ee) at CERN will provide collisions at four interaction points along a 91 km long ring, with beam energies ranging from 45.6 GeV (Z pole) to 182.5 GeV ($\text{t}\bar{\text{t}}$ threshold). The radiation environment along the accelerator varies significantly, with different dominant sou...
 ------------------------------------------------------------
 32. Paper ID: MOPMO33
-   Title: Early Prediction of System Failures at Los Alamos Nuclear Science Center (LANSCE)Accelerators are complex systems composed of tens of thousands of individual components requiring continuous maintenance. Aging facilities such as LANSCE face an increased rate of equipment failures, resulting in costly unscheduled shutdowns for maintenance. Early identification and localization of problems along the accelerator can mitigate future failures during scheduled maintenance periods rather than emergency shutdowns. This approach will significantly enhance the facility's reliability and increase beam availability for users. We have developed a mathematical formalism to analyze all available data for a LANSCE subsystem and generate signals indicating abnormal operation. The system accounts for hidden internal correlations between various parameters, which the existing warning system does not. We report progress on developing an anomaly detection system for LANSCE by expanding predictions to all subsystems, increase LANSCE's data archiving capability by an order of magnitude, and developing algorithms to provide operators with signals indicating developing abnormalities and pinpointing problematic beamline elements.N. Yampolsky, A. Scheinker, E. Huang, J. Quemuel  Los Alamos National Laboratory
+   Title: Early Prediction of System Failures at Los Alamos Nuclear Science Center (LANSCE)Accelerators are complex systems
+   Authors: A. Scheinker, E. Huang, Quemuel, N. Yampolsky
+   Institutions: Los Alamos National Laboratory
    Page: 
    PDF Status: ✗ Not available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO33.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO33
+   Abstract: composed of tens of thousands of individual components requiring continuous maintenance. Aging facilities such as LANSCE face an increased rate of equipment failures, resulting in costly unscheduled shutdowns for maintenance. Early identification and localization of problems along the accelerator ca...
 ------------------------------------------------------------
 33. Paper ID: MOPMO34
-   Title: Performance Validation of High-Gradient X-Band Structures at the University of Melbourne’s X-LAB260The X-band Laboratory for Accelerators and Beams (X-LAB) at the University of Melbourne enables high-power testing of X-band accelerator technologies, including components for CERN’s Compact Linear Collider (CLIC). At its core is Mel-BOX, a high-gradient test stand rebuilt from CERN’s XBOX3. Two TD24 structures, previously conditioned at CERN, have been successfully re-tested, along with RF windows, SLED-I pulse compressors, and 3D-printed loads. Beam instrumentation at X-LAB includes Faraday cups with high-resolution digitizers to measure dark current and breakdown emissions. Fast time-domain measurements along the waveguide using GHz-bandwidth oscilloscopes allow localization of breakdown events. Optical fibers detect Cherenkov light near the structures, providing complementary pulse-resolved signals. These are cross-referenced with Faraday cup data to study early-stage field emission. X-LAB integrates RF testing and diagnostics to support the development of compact, high-gradient accelerator systems.M. Volpi, G. Taylor, J. Valerian, P. Pushkarna, P. Giansiracusa, R. Rassool  The University of MelbourneJ. Tan  Australian SynchrotronR. Dowd  Australian Synchrotron, Australian Nuclear Science and Technology OrganisationS. Sheehy  Australian Nuclear Science and Technology Organisation, The University of MelbournePaper: MOPMO34DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO34About:  Received: 03 Sep 2025 — Revised: 08 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Performance Validation of High-Gradient X-Band Structures at the University of Melbourne’s X-LAB260The X-band
+   Authors: G. Taylor, Dowd, P. Pushkarna, P. Giansiracusa, M. Volpi, Rassool, Sheehy, J. Valerian, Tan
+   Institutions: Australian SynchrotronR; Australian Nuclear Science and Technology Organisation; The University of MelbourneJ; Australian Synchrotron
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO34.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO34
+   Abstract: Laboratory for Accelerators and Beams (X-LAB) at the University of Melbourne enables high-power testing of X-band accelerator technologies, including components for CERN’s Compact Linear Collider (CLIC). At its core is Mel-BOX, a high-gradient test stand rebuilt from CERN’s XBOX3. Two TD24 structure...
 ------------------------------------------------------------
 34. Paper ID: MOPMO35
-   Title: Measurements of Dark Current and Breakdown Processes using Faraday Cups and Fast Digitisers at the XBand Laboratory for Accelerators and Beams (XLAB)264Two CLIC TD24 accelerating structures, manufactured by CERN, are undergoing high-power testing on the 12 GHz RF test stand, MelBOX, at the x-Band Laboratory for Accelerators and Beams (XLAB). Installed in late 2024, these are the first devices tested at the facility. The goal is to condition the structures for stable operation at gradients of 100 MV/m. The maximum gradient is limited by electrical breakdown—vacuum arc formation under high electric fields—which interrupts RF transmission and can damage the structure. To study breakdown dynamics and validate models of their initiation, detailed, time-resolved charge measurements are needed. Faraday cups upstream and downstream, combined with high-performance 5 GS/s, 12-bit, 3 GHz FEB digitisers, enable precise characterisation of both dark and breakdown current emissions. Fast digitiser readout allows continuous acquisition at the 400 Hz repetition rate, capturing breakdown events and several hundred preceding pulses. This dataset supports in-depth analysis of precursors. We present initial results from structure conditioning, including breakdown statistics, dark current trends, and preliminary analysis of breakdown behaviour.G. Taylor, J. Valerian, M. Volpi, P. Pushkarna, R. Rassool  The University of MelbourneP. Giansiracusa, S. Sheehy  Australian Nuclear Science and Technology Organisation, The University of MelbourneR. Dowd, Y. Tan  Australian Nuclear Science and Technology OrganisationPaper: MOPMO35DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO35About:  Received: 03 Sep 2025 — Revised: 10 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Measurements of Dark Current and Breakdown Processes using Faraday Cups and Fast Digitisers at the XBand Laboratory for
+   Authors: G. Taylor, P. Pushkarna, M. Volpi, Rassool, Sheehy, J. Valerian, Tan
+   Institutions: The University of MelbourneP; Australian Nuclear Science and Technology Organisation
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO35.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO35
+   Abstract: Accelerators and Beams (XLAB)264Two CLIC TD24 accelerating structures, manufactured by CERN, are undergoing high-power testing on the 12 GHz RF test stand, MelBOX, at the x-Band Laboratory for Accelerators and Beams (XLAB). Installed in late 2024, these are the first devices tested at the facility. ...
 ------------------------------------------------------------
 35. Paper ID: MOPMO36
-   Title: Realization of a Faraday cup for the gun of PERLE268Faraday Cups have been used as diagnostic tools to measure the charged particle beam current directly. Up to now, different designs have been introduced for this purpose. In this work, a new design of Faraday Cup has been performed for the gun of PERLE, a Powerful Energy Recovery Linac to be installed at IJClab Orsay. FC's dimensions and desirable material have been considered based on PERLE Gun beam characteristics (maximum energy of 350 KeV and maximum current of 20mA). Appropriate specifications were written for this FC. In addition, the heat power generated by electron collision with FC material has been calculated and the required cooling system has been specified. The Faraday Cup is under fabrication and tests should be run early next year to measure the electron beam current out of PERLE GunS. Ben Abdillah  Université Paris-Saclay, CNRS/IN2P3, IJCLab, Laboratoire de Physique des 2 Infinis Irène Joliot-CurieR. Roux, d. reynet  Laboratoire de Physique des 2 Infinis Irène Joliot-CurieA. Bechtold  NTG Neue Technologien GmbH & Co KGPaper: MOPMO36DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO36About:  Received: 28 Aug 2025 — Revised: 08 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Realization of a Faraday cup for the gun of PERLE268Faraday Cups have been used as diagnostic tools to measure the
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO36.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO36
+   Abstract: charged particle beam current directly. Up to now, different designs have been introduced for this purpose. In this work, a new design of Faraday Cup has been performed for the gun of PERLE, a Powerful Energy Recovery Linac to be installed at IJClab Orsay. FC's dimensions and desirable material have...
 ------------------------------------------------------------
 36. Paper ID: MOPMO37
-   Title: Development of CMOS beam loss monitor for Korea-4GSR271The beam loss monitor (BLM) is a diagnostic system designed to protect accelerator components from unexpected high-energy radiation. We have developed a cost-effective BLM system for the next-generation synchrotron light source, Korea-4GSR. The system uses plastic scintillators, optical fibers, and a CMOS camera to localize beam losses with 10 ms time resolution. Scintillators placed along the beam-line emit blue light proportional to the ionization energy deposited by beam losses. The light is transmitted through optical fibers, bundled into a 2D array, and imaged by a CMOS sensor at 100 Hz. The BLM’s sensitivity and calibration were verified using a 2 MBq Co-60 gamma-ray source. The preliminary result shows ~45 counts/GeV. Energy deposition was estimated using Geant4 simulations, and photon-to-count conversion was characterized with a calibrated LED source. The DAQ includes a built-in LED pulser for in-situ calibration of the CMOS detector and cable integrity check. This presentation outlines the system design, calibration methods, and performance results.B. Shin, G. Hahn, D. Shin, D. Song, D. Kim, G. Kim, S. Jang, C. Kim, J. Huang, S. An  Pohang Accelerator LaboratoryW. Song  Pohang University of Science and TechnologyPaper: MOPMO37DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO37About:  Received: 07 Sep 2025 — Revised: 08 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Development of CMOS beam loss monitor for Korea-4GSR271The beam loss monitor (BLM) is a diagnostic system designed to
+   Authors: An, J. Huang, D. Shin, S. Jang, B. Shin, Song, G. Hahn, C. Kim, G. Kim, D. Song, D. Kim
+   Institutions: Pohang University of Science and Technology; Pohang Accelerator LaboratoryW
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO37.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO37
+   Abstract: protect accelerator components from unexpected high-energy radiation. We have developed a cost-effective BLM system for the next-generation synchrotron light source, Korea-4GSR. The system uses plastic scintillators, optical fibers, and a CMOS camera to localize beam losses with 10 ms time resolutio...
 ------------------------------------------------------------
 37. Paper ID: MOPMO38
-   Title: Development of current monitor for stacking beam in FETS-FFA test ring274DDesign studies of the FETS-FFA demonstration ring have been conducted as part of the ISIS-II proposal for a new high-power spallation neutron source. Beam stacking has been proposed to overcome space-charge limits in an FFA, and the feasibility of this will be evaluated in the FETS-FFA test ring by stacking up to four pulses at 50 Hz. To monitor the long-pulsed current of the coasting stacked beams over around 80 ms, the demonstration monitor of large-aperture Current Transformer (CT) with a Negative Impedance Converter (NIC) amplifier is being developed. NIC amplifier compensates the decay constant of the CT signal by cancelling the resistance of the wound coil. In addition to measuring long-pulsed coasting beam currents, the feedforward system is also added in NIC amplifier to boost the frequency band up to a few MHz to enable to measure accelerating bunch currents. This paper presents a design study of a CT monitor using a NIC amplifier and a feasibility test of a demonstration monitor detects long-pulsed signals (1s).E. Yamakawa, J. FitzGibbon  Science and Technology Facilities CouncilY. Iwashita  Kyoto University, Osaka UniversityPaper: MOPMO38DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO38About:  Received: 30 Aug 2025 — Revised: 07 Sep 2025 — Accepted: 07 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Development of current monitor for stacking beam in FETS-FFA test ring274DDesign studies of the FETS-FFA demonstration
+   Authors: FitzGibbon, Iwashita, E. Yamakawa
+   Institutions: Science and Technology Facilities CouncilY; Kyoto University
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO38.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO38
+   Abstract: ring have been conducted as part of the ISIS-II proposal for a new high-power spallation neutron source. Beam stacking has been proposed to overcome space-charge limits in an FFA, and the feasibility of this will be evaluated in the FETS-FFA test ring by stacking up to four pulses at 50 Hz. To monit...
 ------------------------------------------------------------
 38. Paper ID: MOPMO39
-   Title: Development of wall current monitor on FETS-FFA test ring278Conceptual design studies of the FETS-FFA demonstration ring have been actively performed to confirm the reliability of a Fixed Field Alternating gradient (FFA) accelerator for a future high-power spallation neutron source, called ISIS-II. A wall Current Monitor (WCM) is a choice of non-destructive intensity monitor to evaluate the circulating proton beams from 3 MeV (about 1MHz in revolution frequency) to 12 MeV(about 2MHz in revolution frequency) in the FETS-FFA test ring. As the beam orbit shifts radially with beam energy in FFAs, the aperture of FETS-FFA WCM will be about 700mm horizontally. The maximum mean circulating beam current is about 100mA and tomographic and Schottky measurements require a bandwidth of 370MHz (100 harmonics). This is a challenge for such a large monitor. A half-width demonstration WCM (demo-WCM) was designed and manufactured to benchmark numerical simulations and to understand monitor responses. Whilst measured frequency band was lower than expected, 1% intensity resolution was achieved in the demo-WCM. In this paper, the detail design study as well as the signal response of the demo-WCM will be presented.E. Yamakawa, I. Gardner, K. Fazlee  Science and Technology Facilities CouncilPaper: MOPMO39DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO39About:  Received: 30 Aug 2025 — Revised: 06 Sep 2025 — Accepted: 07 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Development of wall current monitor on FETS-FFA test ring278Conceptual design studies of the FETS-FFA demonstration
+   Authors: Fazlee, I. Gardner, E. Yamakawa
+   Institutions: Science and Technology Facilities Council
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO39.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO39
+   Abstract: ring have been actively performed to confirm the reliability of a Fixed Field Alternating gradient (FFA) accelerator for a future high-power spallation neutron source, called ISIS-II. A wall Current Monitor (WCM) is a choice of non-destructive intensity monitor to evaluate the circulating proton bea...
 ------------------------------------------------------------
 39. Paper ID: MOPMO40
-   Title: Development of an imaging protocol for laser driven X-ray sources282The Extreme Photonics Applications Centre (EPAC) being built at the Central Laser Facility in the UK will utilise a 10Hz Laser Wakefield Accelerator (LWFA) to produce a tuneable x-ray source, with energies ranging from 3keV up to 10’s of MeV while maintaining a micron-scale source size and ultra-short pulse duration. Combination of such characteristics opens an opportunity for cutting-edge high-resolution industrial imaging of dense materials: battery packs, historical artifacts and dynamic processes: crack propagation, motor engines running. The primary challenge in imaging with LWFA X-ray sources stems from shot-to-shot instabilities of flux, energies and pointing. We will present an imaging protocol developed using a combination of particle-in-cell, ray tracing and Monte Carlo simulations to simulate instabilities of EPAC and correct for them in x-ray radiographic and tomographic imaging.E. Kiely  University of Warwick, Central Laser FacilityM. Williams, J. Warnett  University of WarwickK. FEDOROV, O. Finlay, A. Bhardwaj, C. Armstrong, D. Symes  Central Laser FacilityJ. Giles-Friend  Swansea University; Central Laser Facility, Swansea University, Central Laser FacilityA. Bennett  University of Nottingham, University of Nottingham; Central Laser Facility, Central Laser FacilityPaper: MOPMO40DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO40About:  Received: 02 Sep 2025 — Revised: 08 Sep 2025 — Accepted: 11 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Development of an imaging protocol for laser driven X-ray sources282The Extreme Photonics Applications Centre (EPAC)
+   Authors: A. Bhardwaj, C. Armstrong, O. Finlay, Symes, E. Kiely  University, Friend, J. Warnett  University
+   Institutions: Central Laser FacilityJ; Swansea University
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO40.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO40
+   Abstract: being built at the Central Laser Facility in the UK will utilise a 10Hz Laser Wakefield Accelerator (LWFA) to produce a tuneable x-ray source, with energies ranging from 3keV up to 10’s of MeV while maintaining a micron-scale source size and ultra-short pulse duration. Combination of such characteri...
 ------------------------------------------------------------
 40. Paper ID: MOPMO42
-   Title: Measuring the effects of fast beam loss on the Advanced Photon Source Upgrade storage ring collimators286The Advanced Photon Source Upgrade (APS-U) storage-ring (SR) is equipped with five horizontal collimators used to intercept 6-GeV electrons during fast whole-beam aborts and protect the rest of the SR. The collimators are located in sectors 37, 38, 39, 40, and 1. A fan-out kicker (FOK) system has been installed to reduce damage to the collimators during whole-beam loss events. Since APS-U began commissioning in April 2024, dozen of these events have taken place; in most, but not all cases, the FOK system has worked properly. Turn-by-turn beam position monitors provide beam centroid dynamics data during the loss events; however, limited diagnostics prevent in situ evaluation of the collimator beam-facing jaw surfaces. During maintenance periods in August 2024 as well as January and May 2025, some of the collimators were extracted from the vacuum chamber and examined. Faint beam strike damage was observed on the S01 collimator jaw, but more significant effects were seen on the S38 jaw. Measurements of beam motion during fast aborts is presented as well as microscopy images of the S38 damage. Coupled simulations results are compared with observations.J. Dooling, A. Dick, M. Borland, R. Lindberg, G. Navrotski, W. Cheng  Argonne National LaboratoryD. Lee, S. Riedel  University of California, Santa CruzN. Cook  RadiaSoft (United States)Paper: MOPMO42DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO42About:  Received: 29 Aug 2025 — Revised: 08 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Measuring the effects of fast beam loss on the Advanced Photon Source Upgrade storage ring collimators286The Advanced
+   Authors: S. Riedel  University, M. Borland, J. Dooling, R. Lindberg, G. Navrotski, Cheng, A. Dick
+   Institutions: Argonne National LaboratoryD
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO42.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO42
+   Abstract: Photon Source Upgrade (APS-U) storage-ring (SR) is equipped with five horizontal collimators used to intercept 6-GeV electrons during fast whole-beam aborts and protect the rest of the SR. The collimators are located in sectors 37, 38, 39, 40, and 1. A fan-out kicker (FOK) system has been installed ...
 ------------------------------------------------------------
 41. Paper ID: MOPMO43
-   Title: Beam loss measurements during Injection into the Advanced Photon Source Upgrade storage ring290A fiber-optic (FO) beam loss montior (BLM) system, installed along the booster to storage ring (BTS) trasnport line has been useful in identifying loss locations employing time-of-flight (TOF) analysis. The BTS BLM TOF system is comprised of a pair of rad-hard, fused-silica FO cables running along either side of the BTS line at beam elevation. In the initial configuration, we measured losses at both the upstream (US) and downstream (DS) ends of the FO cable pair. However, losses further DS along the septum and injection kicker set are also of interest. We therefore added a 20-m-length, multi-strand fused-silica FO cable bundle, replacing the DS outer FO radiator input. Thus, three of the detectors are configured at the US end of their respective FO radiators. The US detector location provides lower signal but improved spatial resolution over the DS. Loss location identification has been accomplished by inserting YAG screen flags at different positions along the BTS. We present results from studies and operations.J. Dooling, A. Brill, J. Calvey, W. Cheng, V. Sajaev  Argonne National LaboratoryPaper: MOPMO43DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO43About:  Received: 28 Aug 2025 — Revised: 07 Sep 2025 — Accepted: 07 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Beam loss measurements during Injection into the Advanced Photon Source Upgrade storage ring290A fiber-optic (FO) beam
+   Authors: J. Dooling, A. Brill, W. Cheng, Sajaev, J. Calvey
+   Institutions: Argonne National Laboratory
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO43.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO43
+   Abstract: loss montior (BLM) system, installed along the booster to storage ring (BTS) trasnport line has been useful in identifying loss locations employing time-of-flight (TOF) analysis. The BTS BLM TOF system is comprised of a pair of rad-hard, fused-silica FO cables running along either side of the BTS li...
 ------------------------------------------------------------
 42. Paper ID: MOPMO45
-   Title: Fermilab PIP-II machine protection system digitized data noise elimination scheme and its FPGA implementation294In Fermilab's PIP-II machine protection system, beam loss signals from various detectors are digitized at 125 MS/s. Noise from both high-frequency sources and low-frequency 60 Hz AC power equipment can contaminate the data. To suppress noise across these ranges—especially 60 Hz and its harmonics, which overlap with beam loss signal frequencies—advanced digital processing beyond standard filtering is required. Several real-time functional blocks were simulated and tested on an FPGA: (1) a dual time-constant discharging integrator filter, (2) a de-ripple baseline extraction and storage block, and (3) a fast-recovery discharging integrator. The nonlinear IIR integrator filter removes high-frequency noise and feeds into the baseline extractor. Upon detecting abrupt beam loss, it switches to a longer time constant to prevent baseline distortion. The de-ripple block calculates a valid baseline by averaging over multiple 60 Hz periods, storing results in a 4096-word FPGA RAM. This baseline is subtracted from raw data before integration by the fast-recovery block, which resets quickly after use. All blocks achieved expected performance and were successfully implemented on a low-cost FPGA.J. Wu, A. Warner  Fermi National Accelerator LaboratoryPaper: MOPMO45DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPMO45About:  Received: 30 Aug 2025 — Revised: 09 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025
+   Title: Fermilab PIP-II machine protection system digitized data noise elimination scheme and its FPGA implementation294In
+   Authors: J. Wu, Warner
+   Institutions: Fermi National Accelerator Laboratory
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/MOPMO45.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-MOPMO45
+   Abstract: Fermilab's PIP-II machine protection system, beam loss signals from various detectors are digitized at 125 MS/s. Noise from both high-frequency sources and low-frequency 60 Hz AC power equipment can contaminate the data. To suppress noise across these ranges—especially 60 Hz and its harmonics, which...
 ------------------------------------------------------------

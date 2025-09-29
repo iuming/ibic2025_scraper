@@ -8,10 +8,24 @@
   "papers": [
     {
       "paper_id": "WEBC01",
-      "title": "BLM signal thresholds for ion operation during the LHC Run 3587In 2024, the Large Hadron Collider (LHC) delivered Pb-Pb ion collisions at a beam energy of 6.8 Z TeV with a stored beam energy of more than 20 MJ. In order to clean beam halo particles and avoid quenching the LHC superconducting magnets, the novel crystal collimation method employing 4 mm-long crystals was introduced for ion operation in the LHC Run 3. The LHC Beam Loss Monitoring (BLM) system triggers the beam dump in case the measured losses are above certain predetermined thresholds. Important adjustments were needed in order to optimize these thresholds in accordance with the peculiar loss pattern produced by crystal collimation. This contribution explains the newly observed beam loss patterns during Pb ion operation with crystal collimation in place, as well as the study that was carried out to update the BLM thresholds for Pb ion operation in the LHC Run 3.S. Morales Vigo, B. Salvachua, R. Bruce, F. Carra, A. Lechner, D. Mirarchi, L. Puddu, S. Redaelli, V. Rodin, N. Triantafyllou, C. Zamantzas  European Organization for Nuclear ResearchPaper:",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "BLM signal thresholds for ion operation during the LHC Run 3587",
+      "authors": [
+        "F. Carra",
+        "D. Mirarchi",
+        "Zamantzas",
+        "S. Morales Vigo",
+        "B. Salvachua",
+        "A. Lechner",
+        "V. Rodin",
+        "S. Redaelli",
+        "N. Triantafyllou",
+        "L. Puddu",
+        "R. Bruce"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "In 2024, the Large Hadron Collider (LHC) delivered Pb-Pb ion collisions at a beam energy of 6.8 Z TeV with a stored beam energy of more than 20 MJ. In order to clean beam halo particles and avoid quenching the LHC superconducting magnets, the novel crystal collimation method employing 4 mm-long crystals was introduced for ion operation in the LHC Run 3. The LHC Beam Loss Monitoring (BLM) system triggers the beam dump in case the measured losses are above certain predetermined thresholds. Important adjustments were needed in order to optimize these thresholds in accordance with the peculiar loss pattern produced by crystal collimation. This contribution explains the newly observed beam loss patterns during Pb ion operation with crystal collimation in place, as well as the study that was carried out to update the BLM thresholds for Pb ion operation in the LHC Run 3., , , , , , , , , , C.  10.18429/JACoW-IBIC2025-WEBC01 03 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/WEBC01.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-WEBC01",
       "received_date": "",
@@ -21,10 +35,25 @@
     },
     {
       "paper_id": "WEBC02",
-      "title": "Lessons learned in commissioning the new beam-loss monitors for the superconducting upgrade to LCLS593The superconducting upgrade to the LCLS x-ray free-electron laser at SLAC is now in commissioning, as we gradually raise the repetition rate of the 4-GeV beam toward 1 MHz and the beam power toward 120 kW. A further upgrade next year will double the energy and power. Machine protection at this extremely high power required a novel system of fast beam-loss monitors (BLMs). Points of concern, such as collimators or kickers, are covered by diamond detectors (PBLMs). Long optical fibres (LBLMs) of up to 200 m span the entire 4-km facility, generating and capturing Cherenkov emission from beam-loss showers. Previous papers have reported on the design and early commissioning of this safety system, and on plans to use the loss signals for wire scanners and loss localisation. Subsequent experience in commissioning and operating the full system has demonstrated that the concept is sound and sensitive, but several aspects of the implementation have proven troublesome. Extensive testing and debugging uncovered issues with both hardware and firmware. We will detail these problems, their remedies, and the improvements in performance.A. Fisher, G. Brown, E. Chin, S. Chowdhury, W. Cobau, J. Dusatko, B. Jacobson, T. Kabana, K. Kruchinin, R. Martinez, J. Pigula, E. Rodriguez  SLAC National Accelerator LaboratoryPaper:",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Lessons learned in commissioning the new beam-loss monitors for the superconducting upgrade to LCLS593The",
+      "authors": [
+        "E. Chin",
+        "W. Cobau",
+        "B. Jacobson",
+        "K. Kruchinin",
+        "G. Brown",
+        "Rodriguez",
+        "T. Kabana",
+        "S. Chowdhury",
+        "J. Dusatko",
+        "J. Pigula",
+        "A. Fisher",
+        "R. Martinez"
+      ],
+      "institutions": [
+        "SLAC National Accelerator Laboratory"
+      ],
+      "abstract": "superconducting upgrade to the LCLS x-ray free-electron laser at SLAC is now in commissioning, as we gradually raise the repetition rate of the 4-GeV beam toward 1 MHz and the beam power toward 120 kW. A further upgrade next year will double the energy and power. Machine protection at this extremely high power required a novel system of fast beam-loss monitors (BLMs). Points of concern, such as collimators or kickers, are covered by diamond detectors (PBLMs). Long optical fibres (LBLMs) of up to 200 m span the entire 4-km facility, generating and capturing Cherenkov emission from beam-loss showers. Previous papers have reported on the design and early commissioning of this safety system, and on plans to use the loss signals for wire scanners and loss localisation. Subsequent experience in commissioning and operating the full system has demonstrated that the concept is sound and sensitive, but several aspects of the implementation have proven troublesome. Extensive testing and debugging uncovered issues with both hardware and firmware. We will detail these problems, their remedies, and the improvements in performance., , , , , , , , , , , E.  10.18429/JACoW-IBIC2025-WEBC02 03 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/WEBC02.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-WEBC02",
       "received_date": "",
@@ -34,10 +63,19 @@
     },
     {
       "paper_id": "WEBI01",
-      "title": "Simultaneous measurements with fast beam size and position monitors disentangle the sudden beam loss evolution mechanism598At the SuperKEKB electron-positron collider, which aims to achieve the world's highest luminosity, \"Sudden Beam Loss events (SBL)\" have prevented its stable operation, in which several tens of percent of the beam current is lost and aborted within several turns (20-50 µs). Elucidating SBLs, which can cause extensive damage to accelerator components and the Belle II experiment detectors, is a pressing issue for SuperKEKB. To measure the beam size and position variation, key information for disentangling SBLs, over dozens of turns just before the SBL-induced beam aborts, we have developed new turn-by-turn beam size monitors in two different wavelength regions, X-ray and visible light, and bunch-by-bunch beam position monitors where one has utilized a novel architecture AMD/Xilinx RFSoC. Simultaneous measurements of turn-by-turn beam size and bunch-by-bunch beam position enable elucidation of the cause and time evolution mechanism of the SBL events. In this presentation, we will first introduce recently developed fast beam size and beam position monitors, then show their simultaneous measurements of SBL events. Finally, we will discuss the possible causes and time evolution mechanisms of the SBL events.G. Mitsuka, H. Ikeda, T. Mitsuhashi  High Energy Accelerator Research Organization, The Graduate University for Advanced Studies, SOKENDAIR. Nomaru  The University of TokyoT. Ishida, S. Iwabuchi  High Energy Accelerator Research OrganizationPaper:",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Simultaneous measurements with fast beam size and position monitors disentangle the sudden beam loss evolution",
+      "authors": [
+        "Mitsuhashi",
+        "Iwabuchi",
+        "H. Ikeda",
+        "G. Mitsuka",
+        "Nomaru"
+      ],
+      "institutions": [
+        "The University of TokyoT",
+        "High Energy Accelerator Research Organization"
+      ],
+      "abstract": "mechanism598At the SuperKEKB electron-positron collider, which aims to achieve the world's highest luminosity, \"Sudden Beam Loss events (SBL)\" have prevented its stable operation, in which several tens of percent of the beam current is lost and aborted within several turns (20-50 µs). Elucidating SBLs, which can cause extensive damage to accelerator components and the Belle II experiment detectors, is a pressing issue for SuperKEKB. To measure the beam size and position variation, key information for disentangling SBLs, over dozens of turns just before the SBL-induced beam aborts, we have developed new turn-by-turn beam size monitors in two different wavelength regions, X-ray and visible light, and bunch-by-bunch beam position monitors where one has utilized a novel architecture AMD/Xilinx RFSoC. Simultaneous measurements of turn-by-turn beam size and bunch-by-bunch beam position enable elucidation of the cause and time evolution mechanism of the SBL events. In this presentation, we will first introduce recently developed fast beam size and beam position monitors, then show their simultaneous measurements of SBL events. Finally, we will discuss the possible causes and time evolution mechanisms of the SBL events., , T. , The Graduate University for Advanced Studies, SOKENDAIR. . Ishida, S.  10.18429/JACoW-IBIC2025-WEBI01 03 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/WEBI01.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-WEBI01",
       "received_date": "",
@@ -47,5 +85,5 @@
     }
   ],
   "paper_count": 3,
-  "scrape_time": "2025-09-29 18:37:44"
+  "scrape_time": "2025-09-29 19:55:01"
 }

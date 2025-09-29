@@ -8,10 +8,19 @@
   "papers": [
     {
       "paper_id": "WEAC01",
-      "title": "Analysis of a phase modulated interferometric Electro-Optic BPM at the CERN SPS581The Electro-Optic Beam Position Monitor (EO-BPM) is a new diagnostic tool being developed to enhance the intra-bunch transverse beam position monitoring in the High Luminosity LHC at CERN. This EO-BPM has been installed in the Super Proton Synchrotron (SPS) since 2024. The Pockels effect in lithium niobate crystals is exploited to detect the propagating electric field from passing proton bunches, enabling measurement of beam position and intra-bunch instabilities. Light is conveyed from a remote laser via optical fibres to a Mach-Zehnder interferometer formed between two waveguide pick-ups. The rapid response of the EO-BPM enables intra-bunch turn-by-turn measurements. Data recorded over a range of beam conditions have been studied to characterise its performance, stability, and sensitivity. This paper presents the latest data collected from the SPS and discusses the analysis and future development of the EO-BPM.M. Bosman, S. Gibson  Royal Holloway University of LondonA. Arteche  Instituto de Física de CantabriaD. Harryman  John Adams InstituteT. Lefevre, T. Levens  European Organization for Nuclear ResearchPaper:",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Analysis of a phase modulated interferometric Electro-Optic BPM at the CERN SPS581The Electro-Optic Beam Position",
+      "authors": [
+        "Levens",
+        "M. Bosman",
+        "Gibson",
+        "Harryman"
+      ],
+      "institutions": [
+        "Royal Holloway University of LondonA",
+        "John Adams InstituteT",
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "Monitor (EO-BPM) is a new diagnostic tool being developed to enhance the intra-bunch transverse beam position monitoring in the High Luminosity LHC at CERN. This EO-BPM has been installed in the Super Proton Synchrotron (SPS) since 2024. The Pockels effect in lithium niobate crystals is exploited to detect the propagating electric field from passing proton bunches, enabling measurement of beam position and intra-bunch instabilities. Light is conveyed from a remote laser via optical fibres to a Mach-Zehnder interferometer formed between two waveguide pick-ups. The rapid response of the EO-BPM enables intra-bunch turn-by-turn measurements. Data recorded over a range of beam conditions have been studied to characterise its performance, stability, and sensitivity. This paper presents the latest data collected from the SPS and discusses the analysis and future development of the EO-BPM., S. . Arteche  Instituto de Física de CantabriaD. . Lefevre, T.  10.18429/JACoW-IBIC2025-WEAC01 03 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/WEAC01.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-WEAC01",
       "received_date": "",
@@ -21,10 +30,10 @@
     },
     {
       "paper_id": "WEAT01",
-      "title": "Stable Orbits, Brighter Beams: Understanding and Controlling Orbit Stability in 4th Generation Synchrotron Light SourcesThe advent of 4th generation synchrotron light sources has placed unprecedented demands on beam stability, requiring sub-micron orbit control to fully exploit their ultra-low emittance and high-brightness capabilities. This tutorial explores orbit stability, covering sources of perturbations like magnet misalignments, ground vibrations, and power supply fluctuations, as well as correction algorithms used to mitigate their effects. One focus of the tutorial will be on advances in simulations, which have played a crucial role in optimizing the design and performance of subsystems as well global mode space analysis. Various correction techniques, including slow and fast orbit feedback systems, beam-based girder alignment, and the integration of XBPMs into the electron beam control system, will also be discussed to improve long-term beam stability and performance. Real-world examples from leading 4th-generation facilities will highlight how advanced orbit control strategies and cutting-edge hardware have enabled the achievement of remarkable orbit correction bandwidths, significantly enhancing electron beam stabilityS. Mirza  Deutsches Elektronen-Synchrotron DESY",
+      "title": "Stable Orbits, Brighter Beams: Understanding and Controlling Orbit Stability in 4th Generation Synchrotron Light",
       "authors": [],
       "institutions": [],
-      "abstract": "",
+      "abstract": "SourcesThe advent of 4th generation synchrotron light sources has placed unprecedented demands on beam stability, requiring sub-micron orbit control to fully exploit their ultra-low emittance and high-brightness capabilities. This tutorial explores orbit stability, covering sources of perturbations like magnet misalignments, ground vibrations, and power supply fluctuations, as well as correction algorithms used to mitigate their effects. One focus of the tutorial will be on advances in simulations, which have played a crucial role in optimizing the design and performance of subsystems as well global mode space analysis. Various correction techniques, including slow and fast orbit feedback systems, beam-based girder alignment, and the integration of XBPMs into the electron beam control system, will also be discussed to improve long-term beam stability and performance. Real-world examples from leading 4th-generation facilities will highlight how advanced orbit control strategies and cutting-edge hardware have enabled the achievement of remarkable orbit correction bandwidths, significantly enhancing electron beam stabilityS. Mirza  Deutsches Elektronen-Synchrotron DESY",
       "pdf_url": "https://meow.elettra.eu/90/pdf/WEAT01.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-WEAT01",
       "received_date": "",
@@ -34,5 +43,5 @@
     }
   ],
   "paper_count": 2,
-  "scrape_time": "2025-09-29 18:37:31"
+  "scrape_time": "2025-09-29 19:54:57"
 }

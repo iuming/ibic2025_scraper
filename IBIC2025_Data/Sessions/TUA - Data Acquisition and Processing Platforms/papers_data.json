@@ -8,10 +8,15 @@
   "papers": [
     {
       "paper_id": "TUAC01",
-      "title": "Control-Agnostic Beam Instrumentation with Redis at the CoreRedis isn’t a database — it’s our protocol. Fermilab’s RedisAdapter provides a high-performance, control-system-agnostic bridge between digitized beam data and downstream consumers such as ACNET and EPICS. It forms the foundation of three new software components deployed across MicroTCA-based digitizers: GMMDM, a runtime for memory-mapped data movement from Zynq-based platforms; GRAFE, a front end for Redis-to-ACNET presentation; and GREFE, an EPICS IOC front end. Together, these tools enable modular, standardized instrumentation pipelines. Precision timing is handled via White Rabbit PPS distribution, allowing nanosecond-scale synchronization across crates. This architecture, originally prototyped in Booster BPM systems, is now deployed on modern hardware and designed to meet the performance, modularity, and scalability requirements of the PIP-II era.D. Steinkamp, S. Joshi  Fermi National Accelerator Laboratory",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Control-Agnostic Beam Instrumentation with Redis at the CoreRedis isn’t a database — it’s our protocol. Fermilab’s",
+      "authors": [
+        "Joshi",
+        "D. Steinkamp"
+      ],
+      "institutions": [
+        "Fermi National Accelerator Laboratory"
+      ],
+      "abstract": "RedisAdapter provides a high-performance, control-system-agnostic bridge between digitized beam data and downstream consumers such as ACNET and EPICS. It forms the foundation of three new software components deployed across MicroTCA-based digitizers: GMMDM, a runtime for memory-mapped data movement from Zynq-based platforms; GRAFE, a front end for Redis-to-ACNET presentation; and GREFE, an EPICS IOC front end. Together, these tools enable modular, standardized instrumentation pipelines. Precision timing is handled via White Rabbit PPS distribution, allowing nanosecond-scale synchronization across crates. This architecture, originally prototyped in Booster BPM systems, is now deployed on modern hardware and designed to meet the performance, modularity, and scalability requirements of the PIP-II era., S.",
       "pdf_url": "https://meow.elettra.eu/90/pdf/TUAC01.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-TUAC01",
       "received_date": "",
@@ -21,10 +26,18 @@
     },
     {
       "paper_id": "TUAI01",
-      "title": "High-throughput DPDK-based framework for real-time applications in Elettra 2.0297The Data Plane Development Kit (DPDK) is a framework that enhances real-time communications by providing direct, high-speed access to network interfaces. This architecture centralizes acquisition and control in an HPC cluster, ensuring ultra-fast in-memory updates of all critical data, making it a viable choice for real-time feedback and machine control in particle accelerators. This approach was chosen for Elettra 2.0 to enable pre-mortem beam dump mitigation, more detailed post-mortem inspection, advanced correlation analysis and the implementation of complex control schemes. Time-sensitive applications implemented in C code interact with Beam Position Monitors (BPM), Low-Level RF (LLRF), Beam Loss Monitors (BLM) and Magnetic Power Converters through simple memory read and write operations at megahertz rates, making the system competitive with high-level processing applications based on FPGA architectures. This paper presents the system under test at Elettra, highlighting its architecture, performance, and integration, while demonstrating the successful implementation of Fast Orbit Feedback in parallel with turn-by-turn (TbT) data acquisition from twelve BPMs and an LLRF system.G. Gaio, A. Bogani, G. Brajnik, R. De Monte, G. Scalamera, I. Trovarelli  Elettra-Sincrotrone Trieste S.C.p.A.Paper: TUAI01DOI: reference for this paper: 10.18429/JACoW-IBIC2025-TUAI01About:  Received: 30 Aug 2025 — Revised: 04 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
+      "title": "High-throughput DPDK-based framework for real-time applications in Elettra 2.0297The Data Plane Development Kit (DPDK)",
+      "authors": [
+        "G. Gaio",
+        "A. Bogani",
+        "I. Trovarelli  Elettra",
+        "Sincrotrone Trieste S.",
+        "R. De Monte",
+        "G. Scalamera",
+        "G. Brajnik"
+      ],
       "institutions": [],
-      "abstract": "",
+      "abstract": "is a framework that enhances real-time communications by providing direct, high-speed access to network interfaces. This architecture centralizes acquisition and control in an HPC cluster, ensuring ultra-fast in-memory updates of all critical data, making it a viable choice for real-time feedback and machine control in particle accelerators. This approach was chosen for Elettra 2.0 to enable pre-mortem beam dump mitigation, more detailed post-mortem inspection, advanced correlation analysis and the implementation of complex control schemes. Time-sensitive applications implemented in C code interact with Beam Position Monitors (BPM), Low-Level RF (LLRF), Beam Loss Monitors (BLM) and Magnetic Power Converters through simple memory read and write operations at megahertz rates, making the system competitive with high-level processing applications based on FPGA architectures. This paper presents the system under test at Elettra, highlighting its architecture, performance, and integration, while demonstrating the successful implementation of Fast Orbit Feedback in parallel with turn-by-turn (TbT) data acquisition from twelve BPMs and an LLRF system., , , , , -C.p.A. 10.18429/JACoW-IBIC2025-TUAI01 30 Aug 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/TUAI01.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-TUAI01",
       "received_date": "",
@@ -34,10 +47,17 @@
     },
     {
       "paper_id": "TUAI02",
-      "title": "Towards continual machine learning for particle accelerators302This talk covers our work on errant beam prognostics at the Spallation Neutron Source (SNS), focusing on the end-to-end process from data collection to the development and deployment of predictive models in specific. A short overview of AIML work done for accelerators and current trends will be presented. We will walk through key steps involved in creating robust Machine Learning (ML) models, including model training, validation, and deployment in an operational setting. In addition to presenting our technical approach, we will share valuable lessons learned, emphasizing the importance of infrastructure to support the continuous adaptation of models to evolving data and system behaviors. This talk will provide insights into the challenges and solutions involved in applying ML to real-world operational environments, with a particular focus on managing data drift and changes in accelerator setup while ensuring model resilience over time.K. Rajput  University of Houston, Thomas Jefferson National Accelerator Facility; University of Houston, Thomas Jefferson National Accelerator FacilityM. Schram  Thomas Jefferson National Accelerator FacilityW. Blokland, A. Zhukov  Oak Ridge National LaboratoryS. Lin  University of HoustonPaper: TUAI02DOI: reference for this paper: 10.18429/JACoW-IBIC2025-TUAI02About:  Received: 04 Sep 2025 — Revised: 09 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Towards continual machine learning for particle accelerators302This talk covers our work on errant beam prognostics at",
+      "authors": [
+        "Zhukov",
+        "Schram",
+        "K. Rajput  University"
+      ],
+      "institutions": [
+        "Thomas Jefferson National Accelerator FacilityW",
+        "Oak Ridge National LaboratoryS"
+      ],
+      "abstract": "the Spallation Neutron Source (SNS), focusing on the end-to-end process from data collection to the development and deployment of predictive models in specific. A short overview of AIML work done for accelerators and current trends will be presented. We will walk through key steps involved in creating robust Machine Learning (ML) models, including model training, validation, and deployment in an operational setting. In addition to presenting our technical approach, we will share valuable lessons learned, emphasizing the importance of infrastructure to support the continuous adaptation of models to evolving data and system behaviors. This talk will provide insights into the challenges and solutions involved in applying ML to real-world operational environments, with a particular focus on managing data drift and changes in accelerator setup while ensuring model resilience over time. of Houston, Thomas Jefferson National Accelerator Facility; University of Houston, Thomas Jefferson National Accelerator FacilityM. . Blokland, A. . Lin  University of Houston 10.18429/JACoW-IBIC2025-TUAI02 04 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/TUAI02.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-TUAI02",
       "received_date": "",
@@ -47,5 +67,5 @@
     }
   ],
   "paper_count": 3,
-  "scrape_time": "2025-09-29 18:50:11"
+  "scrape_time": "2025-09-29 19:52:39"
 }

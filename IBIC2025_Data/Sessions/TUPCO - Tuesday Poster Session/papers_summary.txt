@@ -1,260 +1,362 @@
 Session: TUPCO - Tuesday Poster Session
 Session ID: 1225-tupco
 URL: https://meow.elettra.eu/90/session/1225-tupco/index.html
-Scrape time: 2025-09-29 18:32:56
+Scrape time: 2025-09-29 19:53:07
 Paper count: 36
 Available PDFs: 31/36
 ================================================================================
 
 1. Paper ID: TUPCO01
-   Title: Design and Prototyping for Diamond-II Stripline Kickers334Diamond-II will require two types of stripline kickers during normal operation: the kicker actuators for the transverse multibunch feedback system; and the injection stripline kickers which enable transparent injection. Both are very similar in design as they need to kick individual bunches without disturbing the following bunches. The main difference is the voltage requirements. The feedback kicker is expected to be driven with a maximum peak voltage of ~100 V using a broadband power amplifier, whereas the injection stripline kicker is driven with a trapezoid voltage signal with a maximum peak voltage of 20 kV using a dedicated power supply. This paper will describe the design and prototyping for both stripline kickers along with discussion of the required steps to get to final designs for each type.A. Morgan, A. Amiri, I. Martin, L. Bobb, V. Zhiltsov  Diamond Light SourcePaper:
+   Title: Design and Prototyping for Diamond-II Stripline Kickers334Diamond-II will require two types of stripline kickers during
+   Authors: A. Morgan, I. Martin, L. Bobb, Zhiltsov, A. Amiri
+   Institutions: Diamond Light Source
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO01.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO01
+   Abstract: normal operation: the kicker actuators for the transverse multibunch feedback system; and the injection stripline kickers which enable transparent injection. Both are very similar in design as they need to kick individual bunches without disturbing the following bunches. The main difference is the v...
 ------------------------------------------------------------
 2. Paper ID: TUPCO02
-   Title: Commissioning of a laser wire profile monitor prototype at CSNS338China Spallation Neutron Source (CSNS) accelerator complex will employ a new superconducting accelerating section to achieve high beam power. To protect the superconducting cavity from contamination, the second phase of the CSNS superconducting linac section will adopt laser stripping technology for transverse distribution measurements of the negative hydrogen beam at nine stations. In 2024, a laser wire(LW) prototype was installed to measure the profile of the 80MeV H- beam. This paper describes the commissioning results of this LW prototype, including the optimization before scanning, and data analysis.B. Zhang, Z. Xu, J. Wei, R. Yang, X. Li  Institute of High Energy Physics, China Spallation Neutron SourceC. Chen  Institute of High Energy Physics, China Spallation Neutron Source, Dongguan Neutron Science Center, Lanzhou UniversityR. Liu, P. Zhu  Institute of High Energy Physics, China Spallation Neutron Source, Institute of High Energy Physics; China Spallation Neutron SourceS. Wang  Institute of High Energy Physics, CAS, China Spallation Neutron SourceP. Ding  Lanzhou Universitys. yan  Lanzhou University, China Spallation Neutron Source, Institute of High Energy PhysicsPaper:
+   Title: Commissioning of a laser wire profile monitor prototype at CSNS338China Spallation Neutron Source (CSNS) accelerator
+   Authors: P. Zhu  Institute, B. Zhang, X. Li  Institute, R. Yang, Ding, Z. Xu, J. Wei
+   Institutions: Lanzhou Universitys
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO02.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO02
+   Abstract: complex will employ a new superconducting accelerating section to achieve high beam power. To protect the superconducting cavity from contamination, the second phase of the CSNS superconducting linac section will adopt laser stripping technology for transverse distribution measurements of the negati...
 ------------------------------------------------------------
 3. Paper ID: TUPCO03
-   Title: Status of the Synchrotron Radiation Telescope at the Large Hadron Collider342Accurate and continuous measurement of the transverse beam profile is essential for optimizing the performance of particle accelerators. At the Large Hadron Collider (LHC), this task is performed non-invasively by the Synchrotron Radiation Telescope (BSRT). Operational since Run 2, the BSRT has undergone upgrades enhancing its reliability and performance. It operates under conditions that pose specific challenges not commonly encountered in synchrotron radiation diagnostics at electron facilities. These include the complexity of the radiation source, consisting of multiple magnetic elements evolving during the machine cycle, operation near the diffraction limit in the shortwave ultraviolet, and the requirement for full remote control, as the setup is inaccessible during regular machine operation. This contribution presents the current status of the BSRT system, reviewing its key capabilities, operational limitations, and role in both routine machine operations and dedicated beam physics studies. Finally, an outlook is provided on future upgrades under study, aimed at extending the instrument’s performance and ensuring readiness for the upcoming High-Luminosity LHC era.D. Butti, E. Bravin, S. Burger, A. Guerrero, F. Roncarolo, G. Trad  European Organization for Nuclear ResearchPaper:
+   Title: Status of the Synchrotron Radiation Telescope at the Large Hadron Collider342Accurate and continuous measurement of the
+   Authors: F. Roncarolo, D. Butti, A. Guerrero, S. Burger, Trad, E. Bravin
+   Institutions: European Organization for Nuclear Research
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO03.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO03
+   Abstract: transverse beam profile is essential for optimizing the performance of particle accelerators. At the Large Hadron Collider (LHC), this task is performed non-invasively by the Synchrotron Radiation Telescope (BSRT). Operational since Run 2, the BSRT has undergone upgrades enhancing its reliability an...
 ------------------------------------------------------------
 4. Paper ID: TUPCO04
-   Title: Performance of the Beam Gas Curtain as emittance monitor at the Large Hadron Collider346The Beam Gas Curtain (BGC) is an instrument for transverse diagnostics in operation at the Large Hadron Collider (LHC). The transverse beam profile is obtained by imaging the fluorescence light resulting from the interaction between the beam and a thin supersonic neon gas jet. This technique can provide minimally invasive and absolute measurements of LHC high-intensity beams, throughout the full machine cycle. It is therefore a potential candidate to complement the limitations of existing LHC transverse diagnostic systems. This contribution highlights the results obtained during the ongoing LHC Run 3. The instrument configuration has been optimized for best performance by combining observations in two spectral ranges of the fluorescence signal: a yellow range, originating from the fluorescence of neutral neon atoms, and a UV range, emitted by ionic neon species. The measurements are consistent with those from other profile monitors within operational requirements and allow real-time tracking of the average beam emittance. Finally, an overview of planned upgrades is presented, aimed at further improving system performance and progressing towards a fully operational instrument.D. Butti, T. Lefevre, S. Mazzoni, C. Pasquino, G. Schneider, R. Veness, L. Cantu, C. Vazquez Pelaez  European Organization for Nuclear ResearchO. Sedlacek, C. Welsch  University of LiverpoolO. Stringer, H. Zhang  Cockcroft Institute, University of LiverpoolP. Forck, S. Udrea  GSI Helmholtz Centre for Heavy Ion ResearchPaper:
+   Title: Performance of the Beam Gas Curtain as emittance monitor at the Large Hadron Collider346The Beam Gas Curtain (BGC) is
+   Authors: C. Welsch  University, S. Mazzoni, D. Butti, C. Pasquino, G. Schneider, Zhang, L. Cantu, T. Lefevre, R. Veness, Udrea, Vazquez Pelaez
+   Institutions: Cockcroft Institute; European Organization for Nuclear ResearchO; GSI Helmholtz Centre for Heavy Ion Research
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO04.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO04
+   Abstract: an instrument for transverse diagnostics in operation at the Large Hadron Collider (LHC). The transverse beam profile is obtained by imaging the fluorescence light resulting from the interaction between the beam and a thin supersonic neon gas jet. This technique can provide minimally invasive and ab...
 ------------------------------------------------------------
 5. Paper ID: TUPCO05
-   Title: Research and development of a radiation hard beam profile monitor for use in the CERN North Area secondary beamlines350The CERN Beam Instrumentation group is currently investigating a radiation-hard beam profile monitor for the CERN North Area. Our main efforts are now focused on straw tubes, a type of wire chamber detector that offers the advantage of being vacuum-compatible and easily equipped with in/out motorisation. We have launched an extensive testing campaign across several CERN accelerators to demonstrate that straw detectors can cover the same dynamic range as traditional wire chambers, from individual particles up to intensities of around 10^11 particles per second, and to prove that they can perform reliably with beams of both protons and heavy ions.I. Ortega, H. Danielsson, B. Moser, M. Zamkovsky  European Organization for Nuclear ResearchA. Gerbershagen  Particle Therapy Research CenterR. Larsen  Particle Therapy Research Center, European Organization for Nuclear ResearchM. McLean  University of Groningen, European Organization for Nuclear ResearchPaper:
+   Title: Research and development of a radiation hard beam profile monitor for use in the CERN North Area secondary
+   Authors: I. Ortega, Larsen, Zamkovsky, H. Danielsson, B. Moser, Gerbershagen
+   Institutions: European Organization for Nuclear ResearchA; Particle Therapy Research CenterR; Particle Therapy Research Center
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO05.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO05
+   Abstract: beamlines350The CERN Beam Instrumentation group is currently investigating a radiation-hard beam profile monitor for the CERN North Area. Our main efforts are now focused on straw tubes, a type of wire chamber detector that offers the advantage of being vacuum-compatible and easily equipped with in/...
 ------------------------------------------------------------
 6. Paper ID: TUPCO06
-   Title: Study of pulsed jet operation for beam gas curtain monitors354A beam gas curtain (BGC) monitor was installed in the LHC for continuous transverse beam profile and emittance measurement. A molecular gas curtain was injected into the LHC continuously. In this work, a pulsed gas jet operation was proposed to minimize the introduction of gas molecules to the beam line and optimize the background pressure. The study was conducted on a gas curtain beam profile monitoring system using nitrogen gas. In this case, the pulse gas jet mechanism enables controlled gas injection into the multiple skimmer chamber to generate a supersonic pulse gas curtain. To achieve maximum current intensity and minimum chamber pressure, key parameters were optimized such as pulse duration or duty cycle, nozzle-skimmer distance, and inlet gas pressure. The results demonstrate a well-tuned pulse jet system can significantly reduce background and enhance the signal-to-noise ratio to monitor a pulse beam. The proposed study exhibits potential applications for beam diagnosis, especially for medical accelerators and laser based linear accelerators.S. Sethi, O. Stringer  Cockcroft Institute, University of LiverpoolC. Welsch, H. Zhang  Cockcroft Institute, University of Liverpool, University of Liverpool; Cockcroft InstitutePaper:
+   Title: Study of pulsed jet operation for beam gas curtain monitors354A beam gas curtain (BGC) monitor was installed in the LHC
+   Authors: Stringer, Zhang, S. Sethi
+   Institutions: Cockcroft Institute
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO06.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO06
+   Abstract: for continuous transverse beam profile and emittance measurement. A molecular gas curtain was injected into the LHC continuously. In this work, a pulsed gas jet operation was proposed to minimize the introduction of gas molecules to the beam line and optimize the background pressure. The study was c...
 ------------------------------------------------------------
 7. Paper ID: TUPCO07
-   Title: Reconstruct transverse initial conditions of high intensity beams using machine learning358Space charge effect was considered a driving force for emittance growth in high-intensity beams. To understand it, the emittance needs to be measured. In the past, the quadruple scan was one of the simple and efficient methods to measure beam emittance, but it is difficult to apply to high-intensity beams where the space charge plays a dominant role due to the deviation from the quadratic fitting. The tomography method was used before for this case to reconstruct phase space and then obtain the emittance, but the scan was time-consuming, and the post-analysis was very complex. One of the solutions is to use the genetic algorithm and treat this as an optimisation problem where the emittance needs to be optimised for the beam to match the quadruple scans. This method also involves heavy post-analysis, which limits its online application. In this contribution, machine learning methods will be used to reconstruct the phase space based on PIC simulations of space charge-dominated beams. of effectiveness of the machine learning method against the space charge level will be studied.C. Welsch, Q. Xu  University of LiverpoolPaper:
+   Title: Reconstruct transverse initial conditions of high intensity beams using machine learning358Space charge effect was
+   Authors: Q. Xu  University, C. Welsch
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO07.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO07
+   Abstract: considered a driving force for emittance growth in high-intensity beams. To understand it, the emittance needs to be measured. In the past, the quadruple scan was one of the simple and efficient methods to measure beam emittance, but it is difficult to apply to high-intensity beams where the space c...
 ------------------------------------------------------------
 8. Paper ID: TUPCO08
-   Title: Status of longitudinal instability suppression at NanoTerasu362NanoTerasu is a 3 GeV light source newly constructed in Sendai, Japan. The circumference is 349 m and the natural emittance is 1.1 nm rad, which is realized by a double-double-bend achromat lattice. The commissioning of the storage ring started in June 2023. The longitudinal instability was observed when the stored beam current reached 150 mA in August 2023. The temperature of RF cavity was adjusted to suppress the instability. The user operation was started on schedule in April 2024 with a stored beam current of 160 mA. The stored beam current was reached 200 mA without the beam instability in July 2024. The stored beam current at user operation period was limited to 200 mA by the longitudinal instability. We try to suppress the longitudinal beam instability using several methods. We developed the pillbox type RF kicker cavity to suppress the instability. In addition, we tried to suppress the longitudinal instability using the transverse feedback kicker. I will report the status of longitudinal instability suppression at NanoTerasu.K. Ueshima, A. Agui, T. Asaka, Y. Hosaka, K. Inaba, K. Kan, N. Nishimori, S. Obara, C. Saji  National Institutes for Quantum Science and TechnologyR. Saida  NAT corporationS. Takahashi  National Institutes for Quantum Science and Technology, National Institutes for Quantum Science and Technology; NAT Corporation, NAT CorporationK. Moriya, T. Tsuchiyama, R. Yoshioka  NAT CorporationPaper:
+   Title: Status of longitudinal instability suppression at NanoTerasu362NanoTerasu is a 3 GeV light source newly constructed in
+   Authors: K. Ueshima, Y. Hosaka, T. Asaka, N. Nishimori, T. Tsuchiyama, R. Yoshioka, K. Inaba, Takahashi, A. Agui, Saji, K. Kan, S. Obara
+   Institutions: National Institutes for Quantum Science and Technology; National Institutes for Quantum Science and TechnologyR
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO08.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO08
+   Abstract: Sendai, Japan. The circumference is 349 m and the natural emittance is 1.1 nm rad, which is realized by a double-double-bend achromat lattice. The commissioning of the storage ring started in June 2023. The longitudinal instability was observed when the stored beam current reached 150 mA in August 2...
 ------------------------------------------------------------
 9. Paper ID: TUPCO09
-   Title: Side effects of bunch-by-bunch feedback system on SuperKEKB collider366The bunch-by-bunch feedback system is now an key function in high-current, multi-bunch storage rings to suppress coupled-bunch instability and/or to reduce the effects of injection vibration. In high-luminosity e+e- colliders such as SuperKEKB, strong beam-beam interactions occur due to collisions, which usually introduce very wide frequency response on the transverse bunch motion far out of the betatron tune. In vertical plane it may cause increase of the beam size which has a large impact on the luminosity. In this presentation, we will present the principle and configuration of our bunch feedback system, the cause of the side effects of the bunch feedback system, and several trials to overcome them.M. Tobiyama, T. Ishida  High Energy Accelerator Research OrganizationPaper:
+   Title: Side effects of bunch-by-bunch feedback system on SuperKEKB collider366The bunch-by-bunch feedback system is now an key
+   Authors: M. Tobiyama, Ishida
+   Institutions: High Energy Accelerator Research Organization
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO09.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO09
+   Abstract: function in high-current, multi-bunch storage rings to suppress coupled-bunch instability and/or to reduce the effects of injection vibration. In high-luminosity e+e- colliders such as SuperKEKB, strong beam-beam interactions occur due to collisions, which usually introduce very wide frequency respo...
 ------------------------------------------------------------
 10. Paper ID: TUPCO10
-   Title: Overview of the pinhole camera design for the Diamond-II upgrade369Pinhole cameras serve as the primary diagnostic for emittance and energy spread measurements in the storage ring of Diamond Light Source. Similar pinhole cameras will be employed for the Diamond-II upgrade, to enable direct imaging of the stored beam while also allowing for the monitoring of skew, profile, position, and instabilities. The emittance and coupling are calculated from the acquired beam size measurement, combined with the lattice parameters. In this paper, an overview of the new system for Diamond-II is presented. The changes and upgrades made to the existing setup, the challenges and the choice of the different components are described. Additionally, future work that could improve the performance of the system is explored.N. Vitoratou, L. Bobb  Diamond Light SourcePaper:
+   Title: Overview of the pinhole camera design for the Diamond-II upgrade369Pinhole cameras serve as the primary diagnostic for
+   Authors: N. Vitoratou, Bobb
+   Institutions: Diamond Light Source
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO10.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO10
+   Abstract: emittance and energy spread measurements in the storage ring of Diamond Light Source. Similar pinhole cameras will be employed for the Diamond-II upgrade, to enable direct imaging of the stored beam while also allowing for the monitoring of skew, profile, position, and instabilities. The emittance a...
 ------------------------------------------------------------
 11. Paper ID: TUPCO11
-   Title: Evaluating machine learning models for multimode-fiber-based transverse beam profile reconstruction373Transverse beam profile monitoring is essential for safe and efficient accelerator operation. In high-radiation environments such as beam dumps, cameras degrade rapidly. To address this, a single multimode fiber (MMF) transmission system was previously tested to transport scintillation light from a screen to a remote camera. Because multiple guided modes are excited and coupled during propagation, the fiber output does not preserve the image and requires reconstruction. This contribution evaluates seven machine-learning reconstruction models for recovering the original transverse beam distribution from MMF output. Using data from the MMF-relayed Chromox screen campaign at CERN’s CLEAR facility, the study compares models in terms of reconstruction error, convergence speed, and run-to-run stability, with particular attention to the use of incoherent light. The results indicate robust options for radiation-tolerant, MMF-based transverse diagnostics.Q. Xu  European Organization for Nuclear Research, Cockcroft Institute, University of LiverpoolA. Hill, C. Welsch, H. Zhang  Cockcroft Institute, University of Liverpool, University of Liverpool; Cockcroft InstituteD. Metin, F. Roncarolo, G. Trad, S. Burger, W. Farabolini  European Organization for Nuclear ResearchP. Korysko  University of OxfordPaper:
+   Title: Evaluating machine learning models for multimode-fiber-based transverse beam profile reconstruction373Transverse beam
+   Authors: F. Roncarolo, Farabolini, G. Trad, Zhang, C. Welsch, Xu, S. Burger
+   Institutions: European Organization for Nuclear ResearchP; Cockcroft Institute; European Organization for Nuclear Research
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO11.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO11
+   Abstract: profile monitoring is essential for safe and efficient accelerator operation. In high-radiation environments such as beam dumps, cameras degrade rapidly. To address this, a single multimode fiber (MMF) transmission system was previously tested to transport scintillation light from a screen to a remo...
 ------------------------------------------------------------
 12. Paper ID: TUPCO12
-   Title: Measurement of transverse profile in electron linacs: recent advances in SwissFEL377The measurement of transverse profiles of the electron beam is key to measuring and optimizing the emittance of a linear accelerator. Also, transverse profile monitors are used in conjunction with an RF deflecting structure to measure bunch length and slice emittance. An RF deflector and a profile monitor behind the undulator can furthermore be used to reconstruct the FEL pulse profile. I will give an overview on recent advances in beam profile measurements at SwissFEL, including scintillating screens as well as wire scanners. The goal of these advances is the improvement of the resolution in both screens and wire scanners, both by improving the optics, and by improved data processing. Furthermore, we are exploring the possibility to do non-invasive wire scans with micrometer-size wires.R. Ischebeck, F. Addesa, A. Adelmann, V. Guzenko, P. Juranić, G. Orlandi, E. Prat, S. Reiche, T. Schietinger  Paul Scherrer InstituteJ. Schlör, G. Tekin  ETH ZurichPaper:
+   Title: Measurement of transverse profile in electron linacs: recent advances in SwissFEL377The measurement of transverse
+   Authors: S. Reiche, G. Tekin, E. Prat, G. Orlandi, V. Guzenko, R. Ischebeck, F. Addesa, A. Adelmann, Schietinger
+   Institutions: Paul Scherrer InstituteJ
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO12.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO12
+   Abstract: profiles of the electron beam is key to measuring and optimizing the emittance of a linear accelerator. Also, transverse profile monitors are used in conjunction with an RF deflecting structure to measure bunch length and slice emittance. An RF deflector and a profile monitor behind the undulator ca...
 ------------------------------------------------------------
 13. Paper ID: TUPCO13
-   Title: Development of a Cherenkov Radiation–Based Beam Profile Monitor for a Muon Linear Accelerator380In order to test the Standard Model through a precision measurement of the muon anomalous magnetic moment, a 212 MeV muon accelerator is being developed and constructed for the J-PARC muon g−2/EDM experiment. During the early stage of commissioning, the number of muons per pulse could be fewer than 100, necessitating a highly sensitive monitor. In addition, muon identification must be performed in the presence of dark current from the accelerating structure. In this study, we are developing a beam position monitor that utilizes Cherenkov radiation to select the muon beam and measure its profile. To focus only the Cherenkov light originating from muons onto the light detection system, we have designed a beam profile monitor based on an Offner relay optical system, consisting of a convex and a concave mirror. This monitor enables the detection of ultra-low-charge muon bunches, which are extremely difficult to observe with conventional beam position or profile monitors. We report on the detailed design of a monitor optimized for kinetic energy of 40 MeV, along with the fabrication and testing of a prototype.R. Nakagawa  The Graduate University for Advanced Studies, SOKENDAIF. Miyahara, M. Otani  High Energy Accelerator Research Organization, The Graduate University for Advanced Studies, SOKENDAIY. Hashimoto  High Energy Accelerator Research OrganizationPaper:
+   Title: Development of a Cherenkov Radiation–Based Beam Profile Monitor for a Muon Linear Accelerator380In order to test the
+   Authors: Otani, Hashimoto, Nakagawa
+   Institutions: High Energy Accelerator Research Organization; The Graduate University for Advanced Studies
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO13.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO13
+   Abstract: Standard Model through a precision measurement of the muon anomalous magnetic moment, a 212 MeV muon accelerator is being developed and constructed for the J-PARC muon g−2/EDM experiment. During the early stage of commissioning, the number of muons per pulse could be fewer than 100, necessitating a ...
 ------------------------------------------------------------
 14. Paper ID: TUPCO14
-   Title: Status of oscillating arm wire monitor development383We present the development of a high-speed oscillating-arm wire monitor. Similar devices are in use at PSI’s HIPA facility since the 1970s, however they are significantly slower. The new design maintains the compact longitudinal footprint of the original instrument; a property rarely found among fast wire monitors. First performance tests demonstrated wire velocities of 4 m/s using a stepper motor and 8 m/s with a servo motor. This advancement will allow to use wire scanners to measure the beam profile in the most challenging of the HIPA beamlines, with beam current exceeding 10 mA.R. Dölling, A. Sandström, D. Befus, M. Sapinski, M. Mähr, M. Rohrer, R. Baldinger, R. Nicolini, S. Bugmann, S. Lindner, S. Jaroslawzew, S. Warren, X. Wang  Paul Scherrer InstitutePaper:
+   Title: Status of oscillating arm wire monitor development383
+   Authors: R. Baldinger, S. Lindner, Wang, S. Warren, R. Nicolini, M. Sapinski, S. Jaroslawzew, D. Befus, S. Bugmann, M. Rohrer
+   Institutions: Paul Scherrer Institute
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO14.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO14
+   Abstract: We present the development of a high-speed oscillating-arm wire monitor. Similar devices are in use at PSI’s HIPA facility since the 1970s, however they are significantly slower. The new design maintains the compact longitudinal footprint of the original instrument; a property rarely found among fas...
 ------------------------------------------------------------
 15. Paper ID: TUPCO15
-   Title: Fast Corrector Vessel Selection for High Bandwidth Fast Orbit Feedback387The Diamond-II upgrade will enhance the performance of the Diamond Light Source synchrotron, including improved beam stability by the Fast Orbit Feedback system. Achieving the targeted closed-loop bandwidth of 1 kHz necessitates an open-loop actuator bandwidth of approximately 10 kHz, which presents significant design challenges for the corrector magnet vacuum vessel. Additionally, subsystems such as the corrector magnet power supplies and Beam Position Monitors, must comply with a stringent closed-loop latency of less than 100 microseconds. Initially, a 1 millimetre stainless steel vessel was deemed viable; however, experimental findings indicated that the combination of stainless steel and neighbouring copper vessels resulted in a decrease in both integrated magnetic field strength and system bandwidth. This prompted a reassessment of the material selection for the fast corrector vessels to optimise orbit feedback performance. This paper investigates these challenges, analyses experimental data, and explores solutions to achieve the necessary bandwidth for the Diamond-II upgrade.S. Banerjee, L. Bobb, F. Malinowski  Diamond Light SourcePaper:
+   Title: Fast Corrector Vessel Selection for High Bandwidth Fast Orbit Feedback387The Diamond-II upgrade will enhance the
+   Authors: Malinowski, S. Banerjee, L. Bobb
+   Institutions: Diamond Light Source
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO15.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO15
+   Abstract: performance of the Diamond Light Source synchrotron, including improved beam stability by the Fast Orbit Feedback system. Achieving the targeted closed-loop bandwidth of 1 kHz necessitates an open-loop actuator bandwidth of approximately 10 kHz, which presents significant design challenges for the c...
 ------------------------------------------------------------
 16. Paper ID: TUPCO16
-   Title: IRRADIATION TESTS OF A DIGITAL RADIATION-TOLERANT CAMERA FOR CERN’S PARTICLE ACCELERATOR INSTRUMENTATION391Beam imaging systems are integral parts of beam instru- mentation at CERN, measuring the shape, size, and position of particle beams in accelerators. Following the worldwide phasing out of analog cameras and vidicon tubes (which the system was initially based on and still partially uses), part of the ongoing consolidation program involves developing a new camera system based on digital technology for use in CERN’s medium radiation environments up to few 100 Gy total dose. For this purpose, the CERN Beam Instrumentation group initiated the development of a digital camera system in col- laboration with MCSE*, a Swiss company specializing in space instrumentation. The new camera’s performance un- der radiation was evaluated at CERN’s CHARM test facility, with promising results in terms of radiation immunity while maintaining sufficient sensitivity and resolution—which will be the focus of this contribution. Following this prototyping phase, an industrial version is now in development and is expected to undergo testing in 2025.S. Burger, E. Bravin, F. Roncarolo  European Organization for Nuclear ResearchD. Kraehenbuehl, S. Beauvivre  Micro-Camera & Space ExplorationQ. Bouille  Micro-Camera & Space Exploration, European Organization for Nuclear ResearchPaper:
+   Title: IRRADIATION TESTS OF A DIGITAL RADIATION-TOLERANT CAMERA FOR CERN’S PARTICLE ACCELERATOR INSTRUMENTATION391Beam imaging
+   Authors: S. Burger, E. Bravin, S. Beauvivre  Micro, Roncarolo
+   Institutions: European Organization for Nuclear ResearchD
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO16.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO16
+   Abstract: systems are integral parts of beam instru- mentation at CERN, measuring the shape, size, and position of particle beams in accelerators. Following the worldwide phasing out of analog cameras and vidicon tubes (which the system was initially based on and still partially uses), part of the ongoing con...
 ------------------------------------------------------------
 17. Paper ID: TUPCO17
-   Title: Upgrade and evolution of the ad target beam imaging system at CERN: a two-year performance analysis395During CERN’s Long Shutdown 2 (LS2) in 2022, the Anti-Proton Decelerator (AD) target area underwent major renovations, including a significant upgrade to its beam imaging system. The previous tube-based camera, used in a high-radiation environment, had limitations in sensitivity and resolution for continuous measurements. The upgraded design uses an innovative in-air light-emitting screen mechanically coupled to the AD target, monitored by a digital camera through a 20-meter optical line from a radiation-safe zone. This setup improves accessibility during beam operation and enhances measurement capabilities. Over two years of operation, several crucial modifications were made. A key change was transitioning from a scintillation material screen to an Optical Transition Radiation (OTR) screen, though this created new challenges with background interference. To address temperature-dependent calibration variations, an automated calibration mechanism was developed, utilizing advanced image analysis algorithms for real-time adjustments. This paper discusses these developments, challenges, solutions, and future optimization opportunities for the AD facility’s evolving experimental needs.S. Burger, F. Roncarolo, J. Martínez Samblas, M. Gonzalez-Berges  European Organization for Nuclear ResearchPaper:
+   Title: Upgrade and evolution of the ad target beam imaging system at CERN: a two-year performance analysis395
+   Authors: S. Burger, F. Roncarolo, Berges, M. Gonzalez
+   Institutions: European Organization for Nuclear Research
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO17.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO17
+   Abstract: During CERN’s Long Shutdown 2 (LS2) in 2022, the Anti-Proton Decelerator (AD) target area underwent major renovations, including a significant upgrade to its beam imaging system. The previous tube-based camera, used in a high-radiation environment, had limitations in sensitivity and resolution for c...
 ------------------------------------------------------------
 18. Paper ID: TUPCO18
-   Title: Experimental investigation into supersonic gas jet induced beam perturbation399In radiotherapy, treatment beams require precise margins to ensure the preservation of surrounding healthy tissue. Clinical studies have shown that to mitigate range deviations of the Bragg peak, safety margins of typically less than 5\% around the target volume are employed. Consequently, real-time or online diagnostic techniques should be designed to minimize beam perturbation to the greatest extent possible. A minimally-invasive gas jet beam profile monitor for medical treatment facilities is being developed at the Cockcroft Institute (UK) to provide online monitoring. The monitor operates a thin, low-density, gas jet curtain, transecting with the beam. A proof-of-concept experimental study was carried out to quantify the degree of perturbation the gas jet has on a beam, using a 10 keV electron gun with a maximum current of ~100 μA. Any changes in beam profile and current were measured via a scintillator screen and Faraday cup respectively in path of the beam after the gas curtain. In the future, a simulation study will also be carried out using BDSIM, a Beam Delivery Simulation program built on GEANT4, with the experimental beam parameters along with medical hadron beams. This contribution provides the details of an experimental study into the perturbation experienced by an electron beam from a gas jet monitor.W. Butcher  Cockcroft Institute, University of LiverpoolN. Kumar, M. Patel, O. Stringer, F. Mada Parambil, H. Zhang, B. Rawat, C. Welsch  Cockcroft Institute, Cockcroft Institute; University of Liverpool, University of LiverpoolPaper:
+   Title: Experimental investigation into supersonic gas jet induced beam perturbation399In radiotherapy, treatment beams require
+   Authors: Butcher, O. Stringer, B. Rawat, Welsch, H. Zhang, F. Mada Parambil, M. Patel
+   Institutions: Cockcroft Institute
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO18.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO18
+   Abstract: precise margins to ensure the preservation of surrounding healthy tissue. Clinical studies have shown that to mitigate range deviations of the Bragg peak, safety margins of typically less than 5\% around the target volume are employed. Consequently, real-time or online diagnostic techniques should b...
 ------------------------------------------------------------
 19. Paper ID: TUPCO20
-   Title: Design and implementation of Allison scanner at the KOMAC LEBT403This study presents the design, specifications, and experimental validation of the Allison scanner installed at the injector of the 100 MeV proton accelerator operated by the Korea Multi-purpose Accelerator Complex (KOMAC). The Allison scanner was developed to enable precise characterization of the proton beam’s phase space at the injector stage. Detailed design parameters and operational principles of the system are described. Experimental measurements were conducted under various operating conditions to assess the performance and reliability of the scanner. Furthermore, the daily measurement data collected by the Allison scanner were analyzed to evaluate the long-term stability of the ion source.S. Moon, S. Cho  Korea Multi-purpose Accelerator ComplexD. Kim, S. Lee, S. Yun, H. Kim, H. Kwon  Korea Atomic Energy Research InstitutePaper:
+   Title: Design and implementation of Allison scanner at the KOMAC LEBT403This study presents the design, specifications, and
+   Authors: H. Kim, Kwon, S. Moon, S. Cho  Korea Multi, S. Lee, S. Yun
+   Institutions: Korea Atomic Energy Research Institute
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO20.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO20
+   Abstract: experimental validation of the Allison scanner installed at the injector of the 100 MeV proton accelerator operated by the Korea Multi-purpose Accelerator Complex (KOMAC). The Allison scanner was developed to enable precise characterization of the proton beam’s phase space at the injector stage. Det...
 ------------------------------------------------------------
 20. Paper ID: TUPCO21
-   Title: Low energy experimental bench (LEEx-B) and emittance-meter developments at IPHC406A low energy experimental bench called LEEx-B is being developed at IPHC-CNRS of Strasbourg, France. The bench is composed of a CS+ ion gun mounted on a HV platform and beams up to 25 keV are provided. The main objective of this bench is to support the advancement of beam diagnostics, including the ongoing development of the Allison-type emittance-meter. This paper presents the progress of the construction of the LEEx-B and of the beam diagnostics.E. Bouquerel, C. Maazouzi, C. Mathieu, E. Traykov, P. Graehling, T. Adam  Institut Pluridisciplinaire Hubert CurienPaper:
+   Title: Low energy experimental bench (LEEx-B) and emittance-meter developments at IPHC406A low energy experimental bench
+   Authors: P. Graehling, C. Maazouzi, E. Bouquerel, C. Mathieu, E. Traykov
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO21.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO21
+   Abstract: called LEEx-B is being developed at IPHC-CNRS of Strasbourg, France. The bench is composed of a CS+ ion gun mounted on a HV platform and beams up to 25 keV are provided. The main objective of this bench is to support the advancement of beam diagnostics, including the ongoing development of the Allis...
 ------------------------------------------------------------
 21. Paper ID: TUPCO22
-   Title: Cherenkov radiation spectral and resolution properties studies at SINBAD ARES409Optical Cherenkov Radiation (ChR) is a well-known type of radiation, which is utilized in different fields of physics such as charged particle detection or generation of intense THz radiation. It is also widely used in beam diagnostics, for instance, in beam loss monitors or for bunch length measurements. In addition, it is of potential interest for transverse beam profile diagnostics as an alternative for standard techniques as scintillating screens and optical transition radiation. In this work, spectral and resolution properties of optical ChR were studied at the SINBAD ARES accelerator with an electron beam energy of 150 MeV. Several fused silica crystals of different thicknesses were used as radiators. They could be rotated relative to the beam, which allowed to investigate the angular dependency of the ChR spectrum which is quasi-monochromatic. The monochromatization effect arises from the frequency-dependent nature of the fused silica permittivity. In addition, the beam size dependency on the target angle was investigated in view of differences for various crystal thicknesses.A. Novokshonov, G. Kube, B. Stacey, M. Kellermeier, T. Vinatier, W. Kuropka  Deutsches Elektronen-Synchrotron DESYA. Potylitsyn  Institute of Applied Problems of Physics of the National Academy of Sciences of the Republic of Armenia IAPP NAS RAPaper:
+   Title: Cherenkov radiation spectral and resolution properties studies at SINBAD ARES409Optical Cherenkov Radiation (ChR) is a
+   Authors: W. Kuropka  Deutsches Elektronen, T. Vinatier, Potylitsyn, G. Kube, A. Novokshonov, M. Kellermeier, B. Stacey
+   Institutions: Institute of Applied Problems of Physics of the National Academy of Sciences of the Republic of Armenia IAPP NAS RA
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO22.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO22
+   Abstract: well-known type of radiation, which is utilized in different fields of physics such as charged particle detection or generation of intense THz radiation. It is also widely used in beam diagnostics, for instance, in beam loss monitors or for bunch length measurements. In addition, it is of potential ...
 ------------------------------------------------------------
 22. Paper ID: TUPCO23
-   Title: High-Precision Profile Measurement with COTR Interference ResistanceTransverse beam profile diagnostics constitute a critical component in free-electron laser (FEL) operation and optimization. As a standard diagnostic tool, optical transition radiation (OTR) has been widely adopted in FEL facilities. However, as the bunch longitudinal length below 500 fs, the OTR method becomes significantly affected by coherent effects. This paper presents a systematic approach employing fluorescent screens combined with spatial separation measurement methodology to effectively circumvent coherent optical transition radiation (COTR) interference while achieving high-precision measurements. Experimental results obtained at the SXFFL demonstrate the system's capability to resolve beam spikes smaller than 20 μm, with agreement observed in comparison with wire scanner measurements.L. Hua  Shanghai Advanced Research InstituteR. Yuan, J. Chen, J. Dong  Shanghai Advanced Research Institute, Chinese Academy of Sciences
+   Title: High-Precision Profile Measurement with COTR Interference ResistanceTransverse beam profile diagnostics constitute a
+   Authors: Hua, Dong, J. Chen
+   Institutions: Shanghai Advanced Research InstituteR; Shanghai Advanced Research Institute
    Page: 
    PDF Status: ✗ Not available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO23.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO23
+   Abstract: critical component in free-electron laser (FEL) operation and optimization. As a standard diagnostic tool, optical transition radiation (OTR) has been widely adopted in FEL facilities. However, as the bunch longitudinal length below 500 fs, the OTR method becomes significantly affected by coherent e...
 ------------------------------------------------------------
 23. Paper ID: TUPCO24
-   Title: Design and Programming of a Multifunctional Device for Accelerator Beam Profile Measurement and Beam Stop413During the pre-research phase of China Spallation Neutron Source (CSNS) upgrade project (CSNS-II), in order to conduct beam commissioning of the Radio Frequency Quadrupole (RFQ) under high-intensity beam conditions, The structure of the last-stage wire scanner of the Medium Energy Beam Transport (MEBT) was innovatively modified. This modification not only added a Beam Stop but also significantly enhanced the efficiency of wire scanner. This paper presents the architecture and operational programming of a novel multifunctional device designed for accelerator beam diagnostics and beam termination: beam profile measurement via advanced sensing mechanisms and Beam Stop using a braided carbon fiber plate as the primary beam stop.F. Li, L. Zeng, M. Rehman, R. Qiu, Z. Xu, W. Huang, Y. Lv, R. Yang, R. Yang  Institute of High Energy PhysicsPaper:
+   Title: Design and Programming of a Multifunctional Device for Accelerator Beam Profile Measurement and Beam Stop413
+   Authors: F. Li, W. Huang, L. Zeng, R. Qiu, R. Yang, R. Yang  Institute, M. Rehman, Z. Xu, Y. Lv
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO24.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO24
+   Abstract: During the pre-research phase of China Spallation Neutron Source (CSNS) upgrade project (CSNS-II), in order to conduct beam commissioning of the Radio Frequency Quadrupole (RFQ) under high-intensity beam conditions, The structure of the last-stage wire scanner of the Medium Energy Beam Transport (ME...
 ------------------------------------------------------------
 24. Paper ID: TUPCO25
-   Title: Direct X-Ray imaging for the new pinhole diagnostics at BESSY II416In order to improve our transverse diagnostic tools, two new pinhole beamlines will be designed. The pinhole arrays will be in air for easier maintenance: this will result in a significant loss of X-Ray photons when passing through the vacuum window. To overcome this issue, the option to directly illuminate a CCD/CMOS camera with X-Ray radiation without prior conversion into visible light is under study. Tests in the existing beamline both with a conventional CMOS camera and with a dedicated X-Ray camera are foreseen. This report describes our findings regarding the current status regarding the use of X-Ray cameras as a "high flux" diagnostic tool, as well as our preliminary experimental results.M. Marongiu, A. Schälicke, C. Kalus, G. Rehm, M. Ries, V. Dürr  Helmholtz-Zentrum Berlin für Materialien und EnergiePaper:
+   Title: Direct X-Ray imaging for the new pinhole diagnostics at BESSY II416In order to improve our transverse diagnostic tools
+   Authors: M. Marongiu, M. Ries, C. Kalus, G. Rehm
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO25.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO25
+   Abstract: two new pinhole beamlines will be designed. The pinhole arrays will be in air for easier maintenance: this will result in a significant loss of X-Ray photons when passing through the vacuum window. To overcome this issue, the option to directly illuminate a CCD/CMOS camera with X-Ray radiation witho...
 ------------------------------------------------------------
 25. Paper ID: TUPCO26
-   Title: Requirements for equipment in cooling section of EIC Low Energy Cooler420The Electron Ion Collider (EIC) requires an electron cooler operating at the EIC injection energy to obtain the design proton beam emittances. A non-magnetized RF-based electron cooler, the EIC Low Energy Cooler (LEC), is currently under design. It will be operating at γ-factor 25 and will be delivering 70 mA electron current to a 170 m long cooling section (CS). To obtain required cooling an input from electron-proton relative trajectory misalignment into an overall angles in the cooling section must be kept below 15 urad. In this paper we give comprehensive consideration of the factors affecting the trajectory angles and set the resulting requirements to various CS subsystems.S. Seletskiy, A. Fedotov, D. Kayran  Brookhaven National LaboratoryPaper:
+   Title: Requirements for equipment in cooling section of EIC Low Energy Cooler420The Electron Ion Collider (EIC) requires an
+   Authors: A. Fedotov, Kayran, S. Seletskiy
+   Institutions: Brookhaven National Laboratory
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO26.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO26
+   Abstract: electron cooler operating at the EIC injection energy to obtain the design proton beam emittances. A non-magnetized RF-based electron cooler, the EIC Low Energy Cooler (LEC), is currently under design. It will be operating at γ-factor 25 and will be delivering 70 mA electron current to a 170 m long ...
 ------------------------------------------------------------
 26. Paper ID: TUPCO27
-   Title: Feedbacks at Low Energy RHIC Electron CoolerThe Low Energy RHIC Electron Cooler (LEReC), the world’s first RF-based non-magnetized electron cooler successfully provided cooling of gold ions at γ-factors 4.1 and 4.9 during RHIC Runs 2019-2021, substantially increasing RHIC luminosity. Since then, LEReC has been routinely used for numerous cooling studies. Development of trajectory and energy feedbacks for electron beam was an important step in achieving the optimized cooling in LEReC. This paper summarizes our experience with design, commissioning and operation of the LEReC feedback systems.S. Seletskiy, K. Mernick, L. Nguyen, P. Inacker, R. Hulsart  Brookhaven National Laboratory
+   Title: Feedbacks at Low Energy RHIC Electron CoolerThe Low Energy RHIC Electron Cooler (LEReC), the world’s first RF-based
+   Authors: L. Nguyen, S. Seletskiy, Hulsart, K. Mernick, P. Inacker
+   Institutions: Brookhaven National Laboratory
    Page: 
    PDF Status: ✗ Not available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO27.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO27
+   Abstract: non-magnetized electron cooler successfully provided cooling of gold ions at γ-factors 4.1 and 4.9 during RHIC Runs 2019-2021, substantially increasing RHIC luminosity. Since then, LEReC has been routinely used for numerous cooling studies. Development of trajectory and energy feedbacks for electron...
 ------------------------------------------------------------
 27. Paper ID: TUPCO28
-   Title: Implementation and Initial Operation of the Bunch-by-Bunch Feedback System at SOLARIS424The SOLARIS synchrotron light source has commissioned a transverse bunch-by-bunch feedback system designed to suppress coupled-bunch instabilities and serve as a diagnostic tool for accelerator studies. The system was successfully installed and integrated with the existing infrastructure, including timing and control systems. After a series of commissioning steps, it was brought into operation and tested under standard user conditions. Although routine instability suppression is not currently needed during regular operation, the system has been effectively used in dedicated machine studies. It enabled detailed observation of transverse bunch motion, instability spectra, and individual bunch tune measurements. The system also played a crucial role in advanced measurements such as LOCO experiments with selectively emptied buckets and tune shift studies under varying machine conditions. The bunch-by-bunch feedback system significantly enhances the diagnostic and research capabilities at SOLARIS and provides a solid foundation for potential future applications in active beam stabilization.M. Szczepaniak, A. Wawrzyniak, K. Dudek, R. Panas, W. Wiatrowska  SOLARIS National Synchrotron Radiation CentreD. Teytelman  Dimtel, Inc.Paper:
+   Title: Implementation and Initial Operation of the Bunch-by-Bunch Feedback System at SOLARIS424The SOLARIS synchrotron light
+   Authors: K. Dudek, A. Wawrzyniak, Wiatrowska, R. Panas, M. Szczepaniak
+   Institutions: SOLARIS National Synchrotron Radiation CentreD
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO28.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO28
+   Abstract: source has commissioned a transverse bunch-by-bunch feedback system designed to suppress coupled-bunch instabilities and serve as a diagnostic tool for accelerator studies. The system was successfully installed and integrated with the existing infrastructure, including timing and control systems. Af...
 ------------------------------------------------------------
 28. Paper ID: TUPCO29
-   Title: Real-time embedded feedforward correction for SIRIUS undulators428SIRIUS, the Brazilian 4th generation synchrotron light source, has been in operation since 2020. Over time, insertion devices (IDs) are expected to populate its straight sections. To supress edge effects from undulators and support overall beam stability, a feedforward correction system is currently available through EPICS layer for the first installed ID. However, performance could be improved by adopting a lower-level solution with higher actuation rates and reduced jitter. To address this, a new approach has been developed using hardware technology already available: control system nodes based on BeagleBone Black platform, which integrates both embedded linux and dedicated real-time processors within the same SoC. This setup enables current setpoints updates at rates up to 1 kHz and aiming to be scalable. This paper presents an overview of the system's architecture and objectives, first results with IVU and VPU undulators as well as future developments and improvements.P. Nallin, D. Tavares, G. Rodrigues de Lima, J. Burle Ishida  Brazilian Synchrotron Light LaboratoryPaper:
+   Title: Real-time embedded feedforward correction for SIRIUS undulators428SIRIUS, the Brazilian 4th generation synchrotron
+   Authors: D. Tavares, Burle Ishida, G. Rodrigues, P. Nallin
+   Institutions: Brazilian Synchrotron Light Laboratory
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO29.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO29
+   Abstract: light source, has been in operation since 2020. Over time, insertion devices (IDs) are expected to populate its straight sections. To supress edge effects from undulators and support overall beam stability, a feedforward correction system is currently available through EPICS layer for the first inst...
 ------------------------------------------------------------
 29. Paper ID: TUPCO30
-   Title: Dependence of tune-sweep waveforms in Diamond on mode number432At Diamond, it was previously observed that the response of the beam changes with mode number when excited by the transverse multi-bunch feedback (TMBF). This study presents the results of various experimental campaigns carried out to investigate the behaviour of tune-sweep waveforms for a variety of stored beam conditions and TMBF settings. We demonstrate that it is unlikely that wakefields cause the mode dependence in the output TMBF waveforms. Investigations to explain what is causing the mode-dependent behaviour are ongoing.D. Rabusov, A. Morgan  Diamond Light SourceI. Martin  John Adams Institute for Accelerator Science, Diamond Light Source; John Adams Institute for Accelerator Science, Diamond Light SourcePaper:
+   Title: Dependence of tune-sweep waveforms in Diamond on mode number432At Diamond, it was previously observed that the response
+   Authors: Martin, Morgan, D. Rabusov
+   Institutions: Diamond Light SourceI; John Adams Institute for Accelerator Science
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO30.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO30
+   Abstract: of the beam changes with mode number when excited by the transverse multi-bunch feedback (TMBF). This study presents the results of various experimental campaigns carried out to investigate the behaviour of tune-sweep waveforms for a variety of stored beam conditions and TMBF settings. We demonstrat...
 ------------------------------------------------------------
 30. Paper ID: TUPCO31
-   Title: R&D of an ultrafast X-ray beam size monitor for SuperKEKB435SuperKEKB is a high luminosity electron-positron collider that aims to achieve an instantaneous luminosity ten times higher than the present world luminosity record by SuperKEKB itself. However, stable operation is hampered by a phenomenon known as Sudden Beam Loss (SBL), where beam instability occurs within tens of microseconds, resulting in significant beam loss and triggering a beam abort. It has been suggested that a fast increase in beam size may accompany SBL events. To study this rapidly evolving beam size instability and to gain deeper insights into SBL, we are developing a new bunch-by-bunch X-ray beam size monitor. It uses a silicon strip sensor to read the synchrotron radiation from the bending magnet and can record the transverse size of all bunches arriving at least 4 ns intervals. This presentation will detail the development of the X-ray beam size monitor and report on preliminary performance tests using laser light as a proxy for synchrotron radiation.R. Nomaru  High Energy Accelerator Research Organization, The University of TokyoG. Mitsuka  High Energy Accelerator Research OrganizationM. Andrew, K. Yoshihara, C. Driver  University of Hawaiʻi at MānoaL. Ruckman  SLAC National Accelerator LaboratoryPaper:
+   Title: R&D of an ultrafast X-ray beam size monitor for SuperKEKB435SuperKEKB is a high luminosity electron-positron collider
+   Authors: Nomaru, C. Driver  University, Mitsuka, K. Yoshihara, Ruckman
+   Institutions: SLAC National Accelerator Laboratory; High Energy Accelerator Research Organization; High Energy Accelerator Research OrganizationM
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO31.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO31
+   Abstract: that aims to achieve an instantaneous luminosity ten times higher than the present world luminosity record by SuperKEKB itself. However, stable operation is hampered by a phenomenon known as Sudden Beam Loss (SBL), where beam instability occurs within tens of microseconds, resulting in significant b...
 ------------------------------------------------------------
 31. Paper ID: TUPCO32
-   Title: Turnkey scintillating beam profiler for high-resolution and high-rate beam diagnosticsOrganic scintillators offer high sensitivity and fast response but face challenges in achieving both high spatial resolution and rapid acquisition, and are prone to radiation damage. We present a novel beam profiler based on silicon microchannels filled with scintillating resin, each individually read out by a photodiode array connected to custom microcontroller-based electronics. The 60 × 60 mm² sensitive area is modular and easily replaceable, addressing radiation-induced degradation over time. Designed as a plug-and-play solution for high-energy beamlines in particle therapy center, the compact detector achieves ~100 µm spatial resolution and is designed to reach profiling rates up to 4 kHz, although such rates are yet to be experimentally validated. Integration times are configurable between 20 µs and 1.4 s. Testing at CNAO with 70–230 MeV proton beams showed good agreement with reference detectors at low energies (&LT100 MeV), with a broadening effect observed at higher energies. This detector offers precise, high-rate beam characterization and is well-suited for commissioning and routine operation in a wide range of accelerator facilities.B. Truc  École Polytechnique Fédérale de Lausanne, Swiss Center for Electronics and Microtechnology (Switzerland)V. Leccese  École Polytechnique Fédérale de Lausanne; Swiss Center for Electronics and Microtechnology (Switzerland), École Polytechnique Fédérale de Lausanne, Swiss Center for Electronics and Microtechnology (Switzerland)M. Caldara, A. Mapelli, F. Carbone  École Polytechnique Fédérale de Lausanne
+   Title: Turnkey scintillating beam profiler for high-resolution and high-rate beam diagnosticsOrganic scintillators offer high
+   Authors: B. Truc, M. Caldara, A. Mapelli, F. Carbone, V. Leccese
    Page: 
    PDF Status: ✗ Not available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO32.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO32
+   Abstract: sensitivity and fast response but face challenges in achieving both high spatial resolution and rapid acquisition, and are prone to radiation damage. We present a novel beam profiler based on silicon microchannels filled with scintillating resin, each individually read out by a photodiode array conn...
 ------------------------------------------------------------
 32. Paper ID: TUPCO33
-   Title: Development and experimental validation of a PI control system for synchrotron X-Ray beam stabilizationThis work presents the development and experimental validation of a control system for synchrotron X-ray beam stabilization. A laboratory-scale replica of a beamline was constructed using an analog oscilloscope to emulate beam dynamics. Electrical actuation was implemented via deflection plates, while disturbances were introduced using an electromagnet. Beam position monitoring was performed through a 2×2 photodiode matrix, replicating the functionality of X-ray Beam Position Monitors (XBPMs). System identification through steady-state and transient analysis resulted in a first-order linear dynamic model relating input voltages to beam position. A PI controller was designed based on this model, and experimental validation demonstrated the controller’s effectiveness in maintaining beam stability under position drift conditions—typical disturbances during X-ray Absorption Spectroscopy (XAS) experiments—achieving a control frequency of 1 kHz, limiting the steady-state error to below 0.2% of the total drift. The proposed approach provides a foundation for the development of high-performance control systems for synchrotron beamlines, with potential application to operational facilities.N. La Rosa, S. Moscato  University of Catania; STLab srl, STLab srl, University of CataniaG. Trovato  STLab srl, Istituto Nazionale di Fisica Nucleare, Sezione di Catania, University of Catania; Institute for Microelectronics and Microsystems; Istituto Nazionale di Fisica Nucleare, Sezione di Catania; STLab srl, Institute for Microelectronics and Microsystems, University of CataniaM. Bucolo  University of CataniaM. Camarda  STLab srl, Institute for Microelectronics and Microsystems; STLab srl; SenSiC GmbH, SenSiC GmbH, Institute for Microelectronics and MicrosystemsM. Birri  Paul Scherrer InstituteJ. Rueff, J. Ablett  Synchrotron soleil
+   Title: Development and experimental validation of a PI control system for synchrotron X-Ray beam stabilization
+   Authors: J. Ablett  Synchrotron, S. Moscato  University, N. La Rosa, Birri
+   Institutions: Paul Scherrer InstituteJ
    Page: 
    PDF Status: ✗ Not available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO33.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO33
+   Abstract: This work presents the development and experimental validation of a control system for synchrotron X-ray beam stabilization. A laboratory-scale replica of a beamline was constructed using an analog oscilloscope to emulate beam dynamics. Electrical actuation was implemented via deflection plates, whi...
 ------------------------------------------------------------
 33. Paper ID: TUPCO34
-   Title: Design and development of a FOC algorithm based on machine learning for the HEPS439The High Energy Photon Source (HEPS) is the fourth-generation synchrotron light source with a beam energy of 6 GeV, developed by the Institute of High Energy Physics. As a essential partment of the HEPS, The Fast Orbit Feedback (FOFB) systemhas been developed to maintain the beam orbit stability. In this work, a neural network-based algrithm has been designed and developed to replace the tradional PID control algrithm of FOFB. In this papaer, we have introduced the design and developmenyt of the MLP neural network, which has been trained using operational data from HEPS, and hyperparameter optimization was conducted to improve performance. The trained model was then quantized to support deployment on FPGA hardware. A laboratory test environment was set up, where BPM data was fed into the neural network, and the corrected values for the corrector magnets were output after computation. Experimental results show that the neural network maintained a control error of approximately 1 mA. These results demonstrate the feasibility of using neural networks as an effective alternative to PID control in FOFB systems.Y. Li, G. Guodong, D. Zhou, S. Wei, J. Cao, h. zhang, J. Yue, Y. Sui, Y. Zhao, J. He, D. Zhu  Institute of High Energy PhysicsX. Huang  Institute of High Energy Physics, Chinese Academy of SciencesPaper:
+   Title: Design and development of a FOC algorithm based on machine learning for the HEPS439The High Energy Photon Source (HEPS)
+   Authors: Y. Sui, D. Zhu  Institute, J. Cao, J. Yue, J. He, Y. Zhao, G. Guodong, S. Wei, D. Zhou, Y. Li
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO34.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO34
+   Abstract: is the fourth-generation synchrotron light source with a beam energy of 6 GeV, developed by the Institute of High Energy Physics. As a essential partment of the HEPS, The Fast Orbit Feedback (FOFB) systemhas been developed to maintain the beam orbit stability. In this work, a neural network-based al...
 ------------------------------------------------------------
 34. Paper ID: TUPCO37
-   Title: Design of a laser-based emittance meter for the H- beam based upon LGAD sensorAfter the success of 80 MeV negative hydrogen beam profile measurement based on laser wire monitor, in order to further realize the beam emissivity measurement, an emissivity measurement system combining the laser wire monitor and LGAD (low-Gain Avalanche Diode) sensor has been designed. The idea is to use the LGAD sensor to detect and reconstruct the H0 distribution, combined with the laser-beam interaction position information, to realize the online emittancemeter. In this paper, we will show the design of the H0 distribution measurement system based on the LGAD sensor. It mainly includes the characterization of the LGAD sensor by the emissivity source; the evaluation of H0 particle energy deposition; the design of the ceramic PCB board of the LGAD sensor and the response test of the local signal.C. Chen  Dongguan Neutron Science Center
+   Title: Design of a laser-based emittance meter for the H- beam based upon LGAD sensorAfter the success of 80 MeV negative
+   Authors: Chen
+   Institutions: Dongguan Neutron Science Center
    Page: 
    PDF Status: ✗ Not available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO37.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO37
+   Abstract: hydrogen beam profile measurement based on laser wire monitor, in order to further realize the beam emissivity measurement, an emissivity measurement system combining the laser wire monitor and LGAD (low-Gain Avalanche Diode) sensor has been designed. The idea is to use the LGAD sensor to detect and...
 ------------------------------------------------------------
 35. Paper ID: TUPCO38
-   Title: Laser transport and stabilization for the CSNS laser wire profile monitor prototype442A laser wire monitor has bean developed at the China Spallation Neutron Source (CSNS).The monitor utilizes a 1064 nm laser source to measure the horizontal and vertical profiles of a negative hydrogen ion (H-) beam with an energy of 80 MeV in the injection zone. This paper describes the design of the laser optical path layout and the characterization of the transport performance. The experiment focuses on the laser system's quality factor M2 of the laser after more than 60 meters of transmission as well as the beam pointing stability. In this experiment, the laser quality factor M2 after transmission is better than 4, and the beam pointing stability after focusing is less than ± 2.5 um, which is able to satisfy the required specifications for the first laser wire monitor of the CSNS.C. Chen  Institute of High Energy Physics, China Spallation Neutron Source, Dongguan Neutron Science Center, Lanzhou UniversityB. Zhang, Z. Xu, R. Yang  Institute of High Energy Physics, China Spallation Neutron SourceR. Liu  Institute of High Energy Physics, Chinese Academy of Sciences, China Spallation Neutron Source, Institute of High Energy Physics, Chinese Academy of Sciences; China Spallation Neutron Sources. yan  Lanzhou University, China Spallation Neutron SourceP. Ding  Lanzhou UniversityPaper:
+   Title: Laser transport and stabilization for the CSNS laser wire profile monitor prototype442A laser wire monitor has bean
+   Authors: C. Chen  Institute, Ding, Z. Xu, R. Yang  Institute
+   Institutions: Lanzhou University
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO38.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO38
+   Abstract: developed at the China Spallation Neutron Source (CSNS).The monitor utilizes a 1064 nm laser source to measure the horizontal and vertical profiles of a negative hydrogen ion (H-) beam with an energy of 80 MeV in the injection zone. This paper describes the design of the laser optical path layout an...
 ------------------------------------------------------------
 36. Paper ID: TUPCO39
-   Title: Development of wire scanner profile monitor in FETS-FFA test ring445A wire Scanner profile Monitor (WSM) has been developed for the demonstration ring of Fixed Field Alternating gradient (FFA) accelerator, called FETS-FFA. From previous studies, Carbon Nano Tube (CNT) wire is selected for the FETS-FFA WSM, durable for the heat damage of low-energy proton beams on the FETS-FFA test ring (3-12 MeV). A bias voltage, applied to the measuring wires, is required to prevent secondary electrons from returning to the wire due to the stray magnetic fields of the FFA main magnets. The endurance tests of bias voltages on different sizes of CNTs were performed prior to the beam tests on the Front-End Test-Stand (FETS) beam line and the FFA ring at KURNS. The beam tests with bias voltages on FETS and numerical simulations revealed secondary electrons from adjacent wires degraded the reading sensitivity, hence profile accuracy, explaining why the peak of the beam profile was not proportional to the wire size in previous studies. This paper will focus on the endurance test of bias voltages on CNTs as well as beam profile measurements with bias voltages on the FETS beam line. The mechanical design of the rig to install a thin CNT wire (diameter of 10 μm) on the frame head of FETS-FFA WSM will also be presented.E. Yamakawa, A. Chamberlain  Science and Technology Facilities CouncilA. Pertica  Rutherford Appleton LaboratoryPaper:
+   Title: Development of wire scanner profile monitor in FETS-FFA test ring445A wire Scanner profile Monitor (WSM) has been
+   Authors: Chamberlain, E. Yamakawa, Pertica
+   Institutions: Science and Technology Facilities CouncilA; Rutherford Appleton Laboratory
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/TUPCO39.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUPCO39
+   Abstract: developed for the demonstration ring of Fixed Field Alternating gradient (FFA) accelerator, called FETS-FFA. From previous studies, Carbon Nano Tube (CNT) wire is selected for the FETS-FFA WSM, durable for the heat damage of low-energy proton beams on the FETS-FFA test ring (3-12 MeV). A bias voltag...
 ------------------------------------------------------------

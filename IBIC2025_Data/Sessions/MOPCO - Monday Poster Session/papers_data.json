@@ -8,10 +8,16 @@
   "papers": [
     {
       "paper_id": "MOPCO01",
-      "title": "End to end simulations of a novel optical fibre monitoring system for energy recovery LINACs46Energy recovery LINACs (ERLs) are a type of novel accelerator, which recycle energy from old beams to new beams to increase machine energy efficiency. However, this can heighten beam instabilities, which limits the maximum beam current and increases beam losses. An optical fibre beam loss monitor (OBLM) can provide rapid and reliable beam loss monitoring, which is important for mitigating these instabilities. It obtains the beam loss location via time-of-flight analysis of Cherenkov radiation (CR) produced in optical fibres by relativistic particle showers from beam loss events. Operational demonstration of the OBLM system has previously been shown at several non-ERL facilities, but the multi-energy, fast-repeating beams of ERLs present a unique challenge. Successful interpretation of ERL beam loss signals involves distinguishing losses from beams of different energies, which can be investigated through end-to-end Monte Carlo simulations of the radiation environment and its interaction with the OBLM system. This contribution presents Geant4 simulations of the OBLM response to sample sources of beam loss for beam energies of 7-500 MeV and bunch populations of 1-10M electrons.A. Jones, L. Eley  Cockcroft Institute, University of LiverpoolJ. Wolfenden, C. Welsch  Cockcroft Institute, University of Liverpool, University of Liverpool; Cockcroft InstituteS. Boogert  University of Manchester, Cockcroft Institute, Cockcroft Institute; University of ManchesterPaper: MOPCO01DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO01About:  Received: 26 Aug 2025 — Revised: 04 Sep 2025 — Accepted: 08 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "End to end simulations of a novel optical fibre monitoring system for energy recovery LINACs46Energy recovery LINACs",
+      "authors": [
+        "A. Jones",
+        "Eley",
+        "Welsch"
+      ],
+      "institutions": [
+        "Cockcroft Institute"
+      ],
+      "abstract": "(ERLs) are a type of novel accelerator, which recycle energy from old beams to new beams to increase machine energy efficiency. However, this can heighten beam instabilities, which limits the maximum beam current and increases beam losses. An optical fibre beam loss monitor (OBLM) can provide rapid and reliable beam loss monitoring, which is important for mitigating these instabilities. It obtains the beam loss location via time-of-flight analysis of Cherenkov radiation (CR) produced in optical fibres by relativistic particle showers from beam loss events. Operational demonstration of the OBLM system has previously been shown at several non-ERL facilities, but the multi-energy, fast-repeating beams of ERLs present a unique challenge. Successful interpretation of ERL beam loss signals involves distinguishing losses from beams of different energies, which can be investigated through end-to-end Monte Carlo simulations of the radiation environment and its interaction with the OBLM system. This contribution presents Geant4 simulations of the OBLM response to sample sources of beam loss for beam energies of 7-500 MeV and bunch populations of 1-10M electrons., L. , University of LiverpoolJ. Wolfenden, C. , University of Liverpool, University of Liverpool; Cockcroft InstituteS. Boogert  University of Manchester, Cockcroft Institute, Cockcroft Institute; University of Manchester 10.18429/JACoW-IBIC2025-MOPCO01 26 Aug 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO01.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO01",
       "received_date": "",
@@ -21,10 +27,17 @@
     },
     {
       "paper_id": "MOPCO02",
-      "title": "PREDICTION OF FEL PERFORMANCE USING BPM MEASUREMENTS AND MACHINE LEARNING50This study developed and validated a machine learning approach to analyze the correlation between beam position monitor (BPM) measurement data and output laser power in the Hefei Infrared Free-Electron Laser (FEL) facility. Using transverse position, charge, and longitudinal phase information from 280 individual bunches collected by BPM probes upstream of the undulator, we successfully constructed a high-precision predictive model, demonstrating that BPM measurements can effectively predict the output laser power of the infrared FEL. Based on the trained predictive model, we further deconstructed the neural network architecture to accurately identify key bunches and sensitive parameters that most significantly influence laser power output. This provides a clear and targeted optimization basis for subsequent beam tuning experiments. The data-driven strategy employed in this method significantly reduces the workload associated with traditional experience-based tuning, offering an effective technical means to enhance accelerator operational stability.C. Liu, Y. Leng, X. Yang, Y. Deng  University of Science and Technology of ChinaPaper: MOPCO02DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO02About:  Received: 02 Sep 2025 — Revised: 07 Sep 2025 — Accepted: 08 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "PREDICTION OF FEL PERFORMANCE USING BPM MEASUREMENTS AND MACHINE LEARNING50This study developed and validated a machine",
+      "authors": [
+        "X. Yang",
+        "C. Liu",
+        "Y. Leng",
+        "Deng"
+      ],
+      "institutions": [
+        "University of Science and Technology of China"
+      ],
+      "abstract": "learning approach to analyze the correlation between beam position monitor (BPM) measurement data and output laser power in the Hefei Infrared Free-Electron Laser (FEL) facility. Using transverse position, charge, and longitudinal phase information from 280 individual bunches collected by BPM probes upstream of the undulator, we successfully constructed a high-precision predictive model, demonstrating that BPM measurements can effectively predict the output laser power of the infrared FEL. Based on the trained predictive model, we further deconstructed the neural network architecture to accurately identify key bunches and sensitive parameters that most significantly influence laser power output. This provides a clear and targeted optimization basis for subsequent beam tuning experiments. The data-driven strategy employed in this method significantly reduces the workload associated with traditional experience-based tuning, offering an effective technical means to enhance accelerator operational stability., , , Y.  10.18429/JACoW-IBIC2025-MOPCO02 02 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO02.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO02",
       "received_date": "",
@@ -34,10 +47,24 @@
     },
     {
       "paper_id": "MOPCO03",
-      "title": "Beam Diagnostics of the NEWGAIN project54The aim of the NEWGAIN Project (NEW GAnil INjector), is to build a second injector on the SPIRAL2 accelerator to produce and accelerate heavier beams with A/q up to 7. The NEWGAIN injector is based on 2 ECR ion sources, two LEBT, one RFQ and a MEBT lines to send new ion beams in the linac and the S3 experimental room. Diagnostic monitors are planned to measure and control beam intensities, profiles, phases, energies and emittances. A presentation of beam characteristics and a description of the diagnostic monitors are done. Modifications of the beam duty cycle system and the machine protection system are also detailed.C. Jamet  GANIL, Grand Accélérateur Nat. d'Ions LourdsS. Leloir, P. Salou, T. Andre, C. Potier de Courcy, G. Ledu, G. Monier, C. Hocini, E. Dessay, J. Foy, G. Brunet, S. Ferey, M. Michel  GANILC. Maazouzi, T. Adam, P. Graehling  Institut Pluridisciplinaire Hubert CurienPaper: MOPCO03DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO03About:  Received: 02 Sep 2025 — Revised: 07 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
+      "title": "Beam Diagnostics of the NEWGAIN project54The aim of the NEWGAIN Project (NEW GAnil INjector), is to build a second",
+      "authors": [
+        "C. Jamet",
+        "G. Monier",
+        "J. Foy",
+        "T. Adam",
+        "T. Andre",
+        "M. Michel",
+        "C. Potier",
+        "G. Brunet",
+        "P. Salou",
+        "G. Ledu",
+        "S. Ferey",
+        "C. Hocini",
+        "E. Dessay"
+      ],
       "institutions": [],
-      "abstract": "",
+      "abstract": "injector on the SPIRAL2 accelerator to produce and accelerate heavier beams with A/q up to 7. The NEWGAIN injector is based on 2 ECR ion sources, two LEBT, one RFQ and a MEBT lines to send new ion beams in the linac and the S3 experimental room. Diagnostic monitors are planned to measure and control beam intensities, profiles, phases, energies and emittances. A presentation of beam characteristics and a description of the diagnostic monitors are done. Modifications of the beam duty cycle system and the machine protection system are also detailed.  GANIL, Grand Accélérateur Nat. d'Ions LourdsS. Leloir, , ,  de Courcy, , , , , , , ,   GANILC. Maazouzi, , P. Graehling  Institut Pluridisciplinaire Hubert Curien 10.18429/JACoW-IBIC2025-MOPCO03 02 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO03.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO03",
       "received_date": "",
@@ -47,10 +74,15 @@
     },
     {
       "paper_id": "MOPCO04",
-      "title": "Machine learning using beam loss monitors for DIAMOND-II58The slow losses measured by Beam Loss Monitors (BLMs) at synchrotron light source facilities offer useful but indirect insight into the state of the beam. Patterns arise across the set of BLMs depending on the movement of insertion devices, beam current, temperature, humidity, and other contributors. A variety of neural network models were designed and evaluated to model this behaviour under user beam operation to enable anomaly detection and aid fault investigations.C. Lehmann  University of Oxford, John Adams Institute for Accelerator Science, Diamond Light SourceL. Bobb  Diamond Light SourceP. Burrows  University of Oxford, John Adams Institute for Accelerator Science, John Adams Institute for Accelerator Science; University of OxfordPaper: MOPCO04DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO04About:  Received: 02 Sep 2025 — Revised: 04 Sep 2025 — Accepted: 08 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Machine learning using beam loss monitors for DIAMOND-II58The slow losses measured by Beam Loss Monitors (BLMs) at",
+      "authors": [
+        "C. Lehmann  University",
+        "Bobb"
+      ],
+      "institutions": [
+        "Diamond Light SourceP"
+      ],
+      "abstract": "synchrotron light source facilities offer useful but indirect insight into the state of the beam. Patterns arise across the set of BLMs depending on the movement of insertion devices, beam current, temperature, humidity, and other contributors. A variety of neural network models were designed and evaluated to model this behaviour under user beam operation to enable anomaly detection and aid fault investigations. of Oxford, John Adams Institute for Accelerator Science, Diamond Light SourceL. . Burrows  University of Oxford, John Adams Institute for Accelerator Science, John Adams Institute for Accelerator Science; University of Oxford 10.18429/JACoW-IBIC2025-MOPCO04 02 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO04.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO04",
       "received_date": "",
@@ -60,10 +92,16 @@
     },
     {
       "paper_id": "MOPCO05",
-      "title": "LHC BLM SYSTEM AUTOMATIONS FOR FAULT DETECTION, DIAGNOSIS, AND ISSUE TRACKING62One of the principal roles of CERN’s Beam Loss Monitoring (BLM) system pertains to the protection of LHC’s superconducting magnets against quench-inducing beam losses. Thus, the continuous surveillance of the BLM system’s performance is essential for the high reliability and availability of the LHC. This paper focuses on the architecture of a novel data pipeline with implementations on monitoring the communication status between the 864 acquisition tunnel modules that digitize the analog loss measurements, and the 432 processing surface modules that determine and act upon the criticality of the beam losses. The discussed pipeline replaces an older batch Extraction-Transformation-Loading (ETL) process, which published daily BLM status reports, in favor of a streaming ETL process. The new pipeline expands beyond the daily publication of static status reports by exploiting real-time data analysis and processing enabling the live assessment of the system’s status via online fault detection and web-based dashboards. Future development on the implemented pipeline envisions online machine learning and automated Jira issue generation features permitting fault prognosis and issue tracking.D. Tzamarias, B. Salvachua, C. Zamantzas  European Organization for Nuclear ResearchPaper: MOPCO05DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO05About:  Received: 03 Sep 2025 — Revised: 05 Sep 2025 — Accepted: 09 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "LHC BLM SYSTEM AUTOMATIONS FOR FAULT DETECTION, DIAGNOSIS, AND ISSUE TRACKING62",
+      "authors": [
+        "B. Salvachua",
+        "Zamantzas",
+        "D. Tzamarias"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "One of the principal roles of CERN’s Beam Loss Monitoring (BLM) system pertains to the protection of LHC’s superconducting magnets against quench-inducing beam losses. Thus, the continuous surveillance of the BLM system’s performance is essential for the high reliability and availability of the LHC. This paper focuses on the architecture of a novel data pipeline with implementations on monitoring the communication status between the 864 acquisition tunnel modules that digitize the analog loss measurements, and the 432 processing surface modules that determine and act upon the criticality of the beam losses. The discussed pipeline replaces an older batch Extraction-Transformation-Loading (ETL) process, which published daily BLM status reports, in favor of a streaming ETL process. The new pipeline expands beyond the daily publication of static status reports by exploiting real-time data analysis and processing enabling the live assessment of the system’s status via online fault detection and web-based dashboards. Future development on the implemented pipeline envisions online machine learning and automated Jira issue generation features permitting fault prognosis and issue tracking., , C.  10.18429/JACoW-IBIC2025-MOPCO05 03 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO05.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO05",
       "received_date": "",
@@ -73,10 +111,26 @@
     },
     {
       "paper_id": "MOPCO06",
-      "title": "High-resolution diagnostics of the TOP-IMPLART 71 MeV proton beam using photoluminescent color centers in LiF crystals66Optically active point defects, known as color centers (CCs), are created in the crystal lattice of lithium fluoride (LiF) by irradiation with various types of ionizing radiation. Some of these CCs emit light in the red and green regions of the visible spectrum when optically excited with blue light. When a proton beam irradiates a LiF crystal, a volume distribution of CCs is formed, with defect concentration point-by-point proportional to the absorbed dose for values up to approximately 10^5 Gy. By illuminating the irradiated crystal with blue light in a fluorescence microscope, a luminescent image produced by the CCs can be observed and recorded. A high-resolution diagnostics both for spot imaging and energy in a proton accelerator has been developed based on this technique. Regarding energy, a luminescent replica of the Bragg curve in LiF is extracted and analyzed using a theoretical model of Bragg curve applied to dose deposition, taking into account the crystal dimensions. We report an application of this method to the 71 MeV TOP-IMPLART linac at ENEA Frascati, where it was used to evaluate the beam energy spectrum at both the crystal position and the accelerator exit.E. Nichelatti  ENEA Casaccia Research CentreM. Piccinini, A. Ampollini, M. Astorino, G. Bazzano, A. Doria, F. Fortini, P. Nenzi, E. Pavoni, G. Picardi, V. Surrenti, E. Trinca, M. Vincenti, C. Ronsivalle  ENEA, Ente per le Nuove Tecnologie, l'Energie e l'AmbientePaper: MOPCO06DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO06About:  Received: 31 Jul 2025 — Revised: 04 Sep 2025 — Accepted: 05 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "High-resolution diagnostics of the TOP-IMPLART 71 MeV proton beam using photoluminescent color centers in LiF",
+      "authors": [
+        "M. Vincenti",
+        "C. Ronsivalle",
+        "M. Astorino",
+        "A. Ampollini",
+        "V. Surrenti",
+        "G. Picardi",
+        "G. Bazzano",
+        "A. Doria",
+        "P. Nenzi",
+        "E. Pavoni",
+        "F. Fortini",
+        "Nichelatti",
+        "E. Trinca"
+      ],
+      "institutions": [
+        "ENEA Casaccia Research CentreM"
+      ],
+      "abstract": "crystals66Optically active point defects, known as color centers (CCs), are created in the crystal lattice of lithium fluoride (LiF) by irradiation with various types of ionizing radiation. Some of these CCs emit light in the red and green regions of the visible spectrum when optically excited with blue light. When a proton beam irradiates a LiF crystal, a volume distribution of CCs is formed, with defect concentration point-by-point proportional to the absorbed dose for values up to approximately 10^5 Gy. By illuminating the irradiated crystal with blue light in a fluorescence microscope, a luminescent image produced by the CCs can be observed and recorded. A high-resolution diagnostics both for spot imaging and energy in a proton accelerator has been developed based on this technique. Regarding energy, a luminescent replica of the Bragg curve in LiF is extracted and analyzed using a theoretical model of Bragg curve applied to dose deposition, taking into account the crystal dimensions. We report an application of this method to the 71 MeV TOP-IMPLART linac at ENEA Frascati, where it was used to evaluate the beam energy spectrum at both the crystal position and the accelerator exit.E. . Piccinini, , , , , , , , , , , ,   ENEA, Ente per le Nuove Tecnologie, l'Energie e l'Ambiente 10.18429/JACoW-IBIC2025-MOPCO06 31 Jul 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO06.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO06",
       "received_date": "",
@@ -86,10 +140,20 @@
     },
     {
       "paper_id": "MOPCO07",
-      "title": "The SPS beam loss monitoring system renovation plan70The Super Proton Synchrotron (SPS) beam loss monitoring (BLM) system at CERN, operational for several decades, currently comprises 286 Ionisation Chambers (ICs) around the SPS ring and approximately 144 additional detectors along various extraction lines (TT20, TT40, TT60, etc.). A complete renovation of the system is planned during Long Shutdown 3 (LS3), encompassing detectors, cabling, and acquisition electronics. The upgraded architecture will adopt a design similar to the current LHC BLM system—featuring front-end and back-end electronics housed in separate crates and connected via optical links—ensuring compatibility with the LHC upgrade scheduled around LS4. This paper presents an overview of the proposed architecture for the SPS ring and transfer lines, detailing the key components and expected improvements in performance, modularity and reliability.E. Calvo Giraldo, B. Salvachua, C. Zamantzas, E. Effinger, M. Saccani, W. Vigano, S. Jensen  European Organization for Nuclear ResearchPaper: MOPCO07DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO07About:  Received: 01 Sep 2025 — Revised: 05 Sep 2025 — Accepted: 08 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "The SPS beam loss monitoring system renovation plan70The Super Proton Synchrotron (SPS) beam loss monitoring (BLM)",
+      "authors": [
+        "E. Effinger",
+        "W. Vigano",
+        "M. Saccani",
+        "Jensen",
+        "C. Zamantzas",
+        "B. Salvachua",
+        "E. Calvo Giraldo"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "system at CERN, operational for several decades, currently comprises 286 Ionisation Chambers (ICs) around the SPS ring and approximately 144 additional detectors along various extraction lines (TT20, TT40, TT60, etc.). A complete renovation of the system is planned during Long Shutdown 3 (LS3), encompassing detectors, cabling, and acquisition electronics. The upgraded architecture will adopt a design similar to the current LHC BLM system—featuring front-end and back-end electronics housed in separate crates and connected via optical links—ensuring compatibility with the LHC upgrade scheduled around LS4. This paper presents an overview of the proposed architecture for the SPS ring and transfer lines, detailing the key components and expected improvements in performance, modularity and reliability., , , , , , S.  10.18429/JACoW-IBIC2025-MOPCO07 01 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO07.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO07",
       "received_date": "",
@@ -99,10 +163,19 @@
     },
     {
       "paper_id": "MOPCO08",
-      "title": "A 3GHz Wall Current Transformer for Very High Bandwidth Beam Current Measurements74Non-destructive beam current measurements are a crucial aspect of beam instrumentation in any particle accelerator. Often, these measurements must be capable of distinguishing individual beam pulses. In an increasing number of accelerators, pulse repetition rates reach the GHz range. Consequently, beam current measurement bandwidth must exceed a few GHz. To meet this requirement, a wall current transformer was developed with a bandwidth exceeding 3 GHz. It was tested using a vector network analyzer and with an electron beam at CERN's CLEAR facility. Both measurements showed excellent agreement. We introduce the wall current transformer principle and discuss the measurement results. Additionally, we highlight some challenges that must be addressed when measuring high-frequency signals.F. Stulle, E. Touzain, H. Bayle, L. Dupuy  Bergoz Instrumentation (France)P. Korysko  University of OxfordR. Corsini, W. Farabolini  European Organization for Nuclear ResearchPaper: MOPCO08DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO08About:  Received: 22 Aug 2025 — Revised: 04 Sep 2025 — Accepted: 09 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "A 3GHz Wall Current Transformer for Very High Bandwidth Beam Current Measurements74Non-destructive beam current",
+      "authors": [
+        "L. Dupuy  Bergoz Instrumentation",
+        "Farabolini",
+        "E. Touzain",
+        "P. Korysko  University",
+        "F. Stulle",
+        "H. Bayle"
+      ],
+      "institutions": [
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "measurements are a crucial aspect of beam instrumentation in any particle accelerator. Often, these measurements must be capable of distinguishing individual beam pulses. In an increasing number of accelerators, pulse repetition rates reach the GHz range. Consequently, beam current measurement bandwidth must exceed a few GHz. To meet this requirement, a wall current transformer was developed with a bandwidth exceeding 3 GHz. It was tested using a vector network analyzer and with an electron beam at CERN's CLEAR facility. Both measurements showed excellent agreement. We introduce the wall current transformer principle and discuss the measurement results. Additionally, we highlight some challenges that must be addressed when measuring high-frequency signals., , ,  (France) of OxfordR. Corsini, W.  10.18429/JACoW-IBIC2025-MOPCO08 22 Aug 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO08.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO08",
       "received_date": "",
@@ -112,10 +185,29 @@
     },
     {
       "paper_id": "MOPCO09",
-      "title": "EPAC beamline Prototype: Development and optimisation of a high-repetition-rate LWFA system78The Extreme Photonics Applications Centre (EPAC) is a next-generation high-power laser facility designed to deliver stable, high-repetition-rate (10 Hz) LWFA electron beamline with high quality parameters (∼1nC, ∼1 GeV, &LT5% energy spread). As a crucial preparatory step, one of the 10 TW laser system (Gemini) at the Central Laser Facility is being repurposed as a prototype beamline to de-risk EPAC commissioning and to develop critical subsystems. We report on a progress in three core areas: 1. Targetry Development: We designed and implemented gas-cell targets featuring enhanced durability, leveraging replaceable CVD diamond apertures and modular components to support 5 Hz operation. 2. Beam Optimization: Using Bayesian optimization, we explore tuning of key LWFA outputs—electron charge, energy, divergence, and X-ray flux and energy—achieving improved performance across shots. 3. Integrated Simulation Framework: To support beamline design, we are developing a modular toolkit that couples fluid dynamics (OpenFOAM), particle-in-cell (FBPIC), and Monte Carlo (Geant4) simulations.K. FEDOROV, O. Finlay, D. Symes, A. Bennett, J. Giles-Friend, A. Bhardwaj, C. Armstrong, R. Pattathil, C. Selig, A. Thomas, C. Spindloe, B. Morkot, S. Dann, B. Spiers, C. Hernandez-Gomez  Central Laser FacilityE. Kiely  University of WarwickD. McCartney, M. Streeter  Queen's University BelfastPaper: MOPCO09DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO09About:  Received: 02 Sep 2025 — Revised: 09 Sep 2025 — Accepted: 09 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "EPAC beamline Prototype: Development and optimisation of a high-repetition-rate LWFA system78The Extreme Photonics",
+      "authors": [
+        "A. Bhardwaj",
+        "C. Armstrong",
+        "D. Symes",
+        "C. Selig",
+        "A. Thomas",
+        "O. Finlay",
+        "B. Morkot",
+        "J. Giles",
+        "C. Hernandez",
+        "Gomez",
+        "A. Bennett",
+        "M. Streeter  Queen",
+        "C. Spindloe",
+        "B. Spiers",
+        "R. Pattathil",
+        "S. Dann"
+      ],
+      "institutions": [
+        "Central Laser FacilityE"
+      ],
+      "abstract": "Applications Centre (EPAC) is a next-generation high-power laser facility designed to deliver stable, high-repetition-rate (10 Hz) LWFA electron beamline with high quality parameters (∼1nC, ∼1 GeV, &LT5% energy spread). As a crucial preparatory step, one of the 10 TW laser system (Gemini) at the Central Laser Facility is being repurposed as a prototype beamline to de-risk EPAC commissioning and to develop critical subsystems. We report on a progress in three core areas: 1. Targetry Development: We designed and implemented gas-cell targets featuring enhanced durability, leveraging replaceable CVD diamond apertures and modular components to support 5 Hz operation. 2. Beam Optimization: Using Bayesian optimization, we explore tuning of key LWFA outputs—electron charge, energy, divergence, and X-ray flux and energy—achieving improved performance across shots. 3. Integrated Simulation Framework: To support beamline design, we are developing a modular toolkit that couples fluid dynamics (OpenFOAM), particle-in-cell (FBPIC), and Monte Carlo (Geant4) simulations.K. FEDOROV, , , , -Friend, , , , , , , , , , -. Kiely  University of WarwickD. McCartney, 's University Belfast 10.18429/JACoW-IBIC2025-MOPCO09 02 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO09.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO09",
       "received_date": "",
@@ -125,10 +217,16 @@
     },
     {
       "paper_id": "MOPCO10",
-      "title": "The impact of positional inaccuracy on 3D X-ray image quality82X-ray imaging of both material and biological samples is a key application of synchrotrons and laser wakefield accelerators. However, it is possible that undiagnosed beam location offsets can impact the quality of the image created. This is particularly the case in 3D imaging, for which the 3D reconstructions require precise knowledge of the location at which each x-ray projection was taken. This study uses a low-energy x-ray imaging device designed to perform mobile digital tomosynthesis (DT), a modality of 3D x-ray imaging, for veterinary scanning to investigate the impact of this. An intentional offset is randomly applied of size 0.5 mm and 1 mm from the expected x-ray source position, and the quality of the reconstructed image is assessed for both the case where this offset is accounted for, and where it is not. From this, it is concluded that x-ray beams used for 3D imaging applications can have up to a 1 mm error without seeing large degradation in reconstructed image quality.ht be in other modern x-ray contexts, such as within XFEL technology.L. Eley  Cockcroft Institute, University of LiverpoolC. Welsch  Cockcroft Institute, University of Liverpool, University of Liverpool; Cockcroft InstituteA. Mavalankar, S. Wells  Adaptix (United Kingdom)Paper: MOPCO10DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO10About:  Received: 06 Sep 2025 — Revised: 07 Sep 2025 — Accepted: 07 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "The impact of positional inaccuracy on 3D X-ray image quality82X-ray imaging of both material and biological samples is",
+      "authors": [
+        "S. Wells  Adaptix",
+        "Eley",
+        "Welsch"
+      ],
+      "institutions": [
+        "Cockcroft Institute"
+      ],
+      "abstract": "a key application of synchrotrons and laser wakefield accelerators. However, it is possible that undiagnosed beam location offsets can impact the quality of the image created. This is particularly the case in 3D imaging, for which the 3D reconstructions require precise knowledge of the location at which each x-ray projection was taken. This study uses a low-energy x-ray imaging device designed to perform mobile digital tomosynthesis (DT), a modality of 3D x-ray imaging, for veterinary scanning to investigate the impact of this. An intentional offset is randomly applied of size 0.5 mm and 1 mm from the expected x-ray source position, and the quality of the reconstructed image is assessed for both the case where this offset is accounted for, and where it is not. From this, it is concluded that x-ray beams used for 3D imaging applications can have up to a 1 mm error without seeing large degradation in reconstructed image quality.ht be in other modern x-ray contexts, such as within XFEL technology.L. , University of LiverpoolC. , University of Liverpool, University of Liverpool; Cockcroft InstituteA. Mavalankar,  (United Kingdom) 10.18429/JACoW-IBIC2025-MOPCO10 06 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO10.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO10",
       "received_date": "",
@@ -138,10 +236,22 @@
     },
     {
       "paper_id": "MOPCO11",
-      "title": "Optical beam loss monitor installed at the SPS slow extraction region86An optical beam loss monitor (oBLM) has recently been installed at the slow extraction region of the Super Proton Synchrotron (SPS) at CERN. The oBLM offers a new method for detecting beam losses at the SPS by utilizing the Cherenkov radiation emitted during beam loss interactions with an optical fibre. This setup should allow to measure losses continuously over a large section of the accelerator, thus minimising the non-linearities caused by the finite coverage of the currently installed ionisation chambers. Due to the high radiation levels and low expected signals at this location, special care was taken during the procurement process to maximise the signal levels while at the same time extending the lifetime of the system as much as possible. The rationale behind the choice of specific components is discussed, highlighting their advantages compared to other options. Furthermore, initial measurements of beam loss during extraction are presented, and the system’s ability to provide real-time diagnostics for beam protection and machine optimization investigated.M. King  European Organization for Nuclear Research, University of LiverpoolS. Benitez Berrocal, E. Effinger, J. Esteban, J. Kearney, J. Meyer, B. Salvachua  European Organization for Nuclear ResearchC. Welsch, J. Wolfenden  Cockcroft Institute, Cockcroft Institute; University of Liverpool, University of LiverpoolPaper: MOPCO11DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO11About:  Received: 03 Sep 2025 — Revised: 05 Sep 2025 — Accepted: 08 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Optical beam loss monitor installed at the SPS slow extraction region86An optical beam loss monitor (oBLM) has recently",
+      "authors": [
+        "E. Effinger",
+        "Salvachua",
+        "Wolfenden",
+        "J. Esteban",
+        "J. Kearney",
+        "King",
+        "J. Meyer"
+      ],
+      "institutions": [
+        "European Organization for Nuclear ResearchC",
+        "Cockcroft Institute",
+        "European Organization for Nuclear Research"
+      ],
+      "abstract": "been installed at the slow extraction region of the Super Proton Synchrotron (SPS) at CERN. The oBLM offers a new method for detecting beam losses at the SPS by utilizing the Cherenkov radiation emitted during beam loss interactions with an optical fibre. This setup should allow to measure losses continuously over a large section of the accelerator, thus minimising the non-linearities caused by the finite coverage of the currently installed ionisation chambers. Due to the high radiation levels and low expected signals at this location, special care was taken during the procurement process to maximise the signal levels while at the same time extending the lifetime of the system as much as possible. The rationale behind the choice of specific components is discussed, highlighting their advantages compared to other options. Furthermore, initial measurements of beam loss during extraction are presented, and the system’s ability to provide real-time diagnostics for beam protection and machine optimization investigated.M. , University of LiverpoolS. Benitez Berrocal, , , , , B. . Welsch, J. , Cockcroft Institute; University of Liverpool, University of Liverpool 10.18429/JACoW-IBIC2025-MOPCO11 03 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO11.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO11",
       "received_date": "",
@@ -151,10 +261,15 @@
     },
     {
       "paper_id": "MOPCO12",
-      "title": "First beam commissioning experience with RF system on chip based bunch by bunch signal processing systems at SLS 2.0 at SLS 2.090After a dark time of 15 months, the new diffraction limited storage ring SLS 2.0 had first beam in January 2025. In April 2025, the nominal beam current of 400 mA was reached. In this contribution, we present the status and first beam commissioning experience with the RF System-on-Chip (RFSoC) based signal processing systems of the new SLS 2.0 ring. RFSoCs integrate several fast multi-GSample/s ADCs and DACs, FPGA (programmable logic) fabric and multi-core CPUs all on the same chip. During SLS 2.0 commissioning, the integrated EPICS IOC of the RFSoCs provided bunch-by-bunch diagnostics of dedicated BPM position and charge readings. Integrated DACs are driving newly developed transverse and longitudinal kicker magnets, enabling bunch-by-bunch excitation and damping. Bidirectional multi-Gigabit fiber optic links connect the RFSoC to the event system master, thus enabling both synchronisation of the RFSoC to the event system, as well as real-time control of the event system master by the RFSoCs, e.g. for control of beam injection timing and filling pattern.P. Baeta Neves Diniz Santos, B. Keil, G. Marinkovic  Paul Scherrer InstitutePaper: MOPCO12DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO12About:  Received: 06 Sep 2025 — Revised: 08 Sep 2025 — Accepted: 08 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "First beam commissioning experience with RF system on chip based bunch by bunch signal processing systems at SLS 2.0 at",
+      "authors": [
+        "Marinkovic",
+        "B. Keil"
+      ],
+      "institutions": [
+        "Paul Scherrer Institute"
+      ],
+      "abstract": "SLS 2.090After a dark time of 15 months, the new diffraction limited storage ring SLS 2.0 had first beam in January 2025. In April 2025, the nominal beam current of 400 mA was reached. In this contribution, we present the status and first beam commissioning experience with the RF System-on-Chip (RFSoC) based signal processing systems of the new SLS 2.0 ring. RFSoCs integrate several fast multi-GSample/s ADCs and DACs, FPGA (programmable logic) fabric and multi-core CPUs all on the same chip. During SLS 2.0 commissioning, the integrated EPICS IOC of the RFSoCs provided bunch-by-bunch diagnostics of dedicated BPM position and charge readings. Integrated DACs are driving newly developed transverse and longitudinal kicker magnets, enabling bunch-by-bunch excitation and damping. Bidirectional multi-Gigabit fiber optic links connect the RFSoC to the event system master, thus enabling both synchronisation of the RFSoC to the event system, as well as real-time control of the event system master by the RFSoCs, e.g. for control of beam injection timing and filling pattern.P. Baeta Neves Diniz Santos, , G.  10.18429/JACoW-IBIC2025-MOPCO12 06 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO12.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO12",
       "received_date": "",
@@ -164,10 +279,17 @@
     },
     {
       "paper_id": "MOPCO13",
-      "title": "Simulation and feasibility analysis of a non-invasive cavity bunch charge monitor for low-energy antiproton beams93For high-precision experiments involving low-energy antiprotons, non-invasive beam charge measurements with high accuracy are crucial. This paper presents a simulation study investigating the feasibility of a cavity-based beam current monitor (BCM) for low-energy antiprotons. Conventional invasive methods, such as Faraday Cups and MCPs, suffer from charge loss, limiting measurement accuracy. This issue is particularly challenging for low energy charged antimatter, where accounting for charge loss is complex due to uncertainties in their interactions with matter. Existing techniques are reviewed and compared, and efforts to improve measurement accuracy within a tighter error margin than current methods are discussed. This study is motivated by challenges faced by antimatter experiments such as AEgIS at CERN, which aim to probe antimatter behavior under gravity. The preliminary results of the simulation and feasibility analysis of the BCM will be discussed.S. Chandran, B. Rawat, C. Welsch  Cockcroft Institute, University of Liverpool, University of Liverpool; Cockcroft InstituteN. Kumar  Cockcroft Institute, University of LiverpoolB. Rienäcker  University of LiverpoolPaper: MOPCO13DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO13About:  Received: 02 Sep 2025 — Revised: 04 Sep 2025 — Accepted: 06 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Simulation and feasibility analysis of a non-invasive cavity bunch charge monitor for low-energy antiproton beams93For",
+      "authors": [
+        "B. Rawat",
+        "S. Chandran",
+        "Welsch",
+        "Kumar"
+      ],
+      "institutions": [
+        "Cockcroft Institute"
+      ],
+      "abstract": "high-precision experiments involving low-energy antiprotons, non-invasive beam charge measurements with high accuracy are crucial. This paper presents a simulation study investigating the feasibility of a cavity-based beam current monitor (BCM) for low-energy antiprotons. Conventional invasive methods, such as Faraday Cups and MCPs, suffer from charge loss, limiting measurement accuracy. This issue is particularly challenging for low energy charged antimatter, where accounting for charge loss is complex due to uncertainties in their interactions with matter. Existing techniques are reviewed and compared, and efforts to improve measurement accuracy within a tighter error margin than current methods are discussed. This study is motivated by challenges faced by antimatter experiments such as AEgIS at CERN, which aim to probe antimatter behavior under gravity. The preliminary results of the simulation and feasibility analysis of the BCM will be discussed., , C. , University of Liverpool, University of Liverpool; Cockcroft InstituteN. , University of LiverpoolB. Rienäcker  University of Liverpool 10.18429/JACoW-IBIC2025-MOPCO13 02 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO13.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO13",
       "received_date": "",
@@ -177,10 +299,25 @@
     },
     {
       "paper_id": "MOPCO14",
-      "title": "Commissioning of the CLARA facility: status update and diagnostics performance97The Compact Linear Accelerator for Research and Applications (CLARA) is STFC Daresbury Laboratory’s flagship accelerator facility. We present the latest data from the commissioning of the CLARA facility at Daresbury Laboratory. This will include initial beam measurements and diagnostic performance for the 250 MeV high brightness, highly compressed electron bunches. An overview of the diagnostic requirements and anticipated challenges for these high impact user experiments will be provided. The future direction of diagnostics at CLARA, including potential system upgrades and plans for virtual diagnostics, is also discussed.T. Pacey, V. Malconi, S. Mathisen, T. Overton, E. Shackleton, E. Snedden, D. Walsh  Cockcroft Institute, Science and Technology Facilities Council, ASTeC, STFC Daresbury LaboratoryT. Hall, Y. Saveliev, R. Smith  ASTeC, STFC Daresbury Laboratory; Cockcroft Institute, Cockcroft Institute, ASTeC, STFC Daresbury LaboratoryG. Cox, L. McNicholl, M. Shaw, J. Wilson  Science and Technology Facilities CouncilPaper: MOPCO14DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO14About:  Received: 03 Sep 2025 — Revised: 05 Sep 2025 — Accepted: 08 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Commissioning of the CLARA facility: status update and diagnostics performance97The Compact Linear Accelerator for",
+      "authors": [
+        "S. Mathisen",
+        "E. Shackleton",
+        "T. Pacey",
+        "T. Overton",
+        "Walsh",
+        "Y. Saveliev",
+        "E. Snedden",
+        "M. Shaw",
+        "R. Smith",
+        "Wilson",
+        "V. Malconi"
+      ],
+      "institutions": [
+        "Cockcroft Institute",
+        "Science and Technology Facilities Council"
+      ],
+      "abstract": "Research and Applications (CLARA) is STFC Daresbury Laboratory’s flagship accelerator facility. We present the latest data from the commissioning of the CLARA facility at Daresbury Laboratory. This will include initial beam measurements and diagnostic performance for the 250 MeV high brightness, highly compressed electron bunches. An overview of the diagnostic requirements and anticipated challenges for these high impact user experiments will be provided. The future direction of diagnostics at CLARA, including potential system upgrades and plans for virtual diagnostics, is also discussed., , , , , , D. , Science and Technology Facilities Council, ASTeC, STFC Daresbury LaboratoryT. Hall, ,   ASTeC, STFC Daresbury Laboratory; Cockcroft Institute, Cockcroft Institute, ASTeC, STFC Daresbury LaboratoryG. Cox, L. McNicholl, , J.  10.18429/JACoW-IBIC2025-MOPCO14 03 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO14.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO14",
       "received_date": "",
@@ -190,10 +327,15 @@
     },
     {
       "paper_id": "MOPCO15",
-      "title": "Physics-guided data expansion for photocathodes using TESS transverse momentum measurements101Precise characterisation of photocathode mean transverse energy is critical for optimising electron beam quality. This paper presents a physics-informed image processing pipeline using Transverse Energy Spread Spectrometer data (231–291 nm), incorporating Gaussian PSF fitting, Wiener deconvolution, resolution equalisation, and noise-aware augmentation. A high-fidelity dataset of 6500 synthetic images was generated, achieving average SSIM = 0.997 and $ R^2 \\approx 0.98 $, enabling robust MTE prediction and supporting future ML-based diagnostics for next-generation photoinjectors.S. Malhotra  Cockcroft Institute, University of LiverpoolL. Jones  ASTeC, STFC Daresbury Laboratory, Cockcroft Institute, Cockcroft Institute; ASTeC, STFC Daresbury LaboratoryN. Kumar, C. Welsch  Cockcroft Institute, University of Liverpool, University of Liverpool; Cockcroft InstitutePaper: MOPCO15DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO15About:  Received: 03 Sep 2025 — Revised: 08 Sep 2025 — Accepted: 08 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Physics-guided data expansion for photocathodes using TESS transverse momentum measurements101Precise characterisation",
+      "authors": [
+        "Malhotra",
+        "Welsch"
+      ],
+      "institutions": [
+        "Cockcroft Institute"
+      ],
+      "abstract": "of photocathode mean transverse energy is critical for optimising electron beam quality. This paper presents a physics-informed image processing pipeline using Transverse Energy Spread Spectrometer data (231–291 nm), incorporating Gaussian PSF fitting, Wiener deconvolution, resolution equalisation, and noise-aware augmentation. A high-fidelity dataset of 6500 synthetic images was generated, achieving average SSIM = 0.997 and $ R^2 \\approx 0.98 $, enabling robust MTE prediction and supporting future ML-based diagnostics for next-generation photoinjectors.S. , University of LiverpoolL. Jones  ASTeC, STFC Daresbury Laboratory, Cockcroft Institute, Cockcroft Institute; ASTeC, STFC Daresbury LaboratoryN. Kumar, C. , University of Liverpool, University of Liverpool; Cockcroft Institute 10.18429/JACoW-IBIC2025-MOPCO15 03 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO15.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO15",
       "received_date": "",
@@ -203,10 +345,16 @@
     },
     {
       "paper_id": "MOPCO16",
-      "title": "Development of Monitoring and Analysis System for Beam Operation in RAONThe Rare-isotope Accelerator complex for ON-line experiment (RAON) is a heavy ion accelerator with maximum beam power of 400 kW. To facilitate efficient information sharing among multiple users, we have developed an integrated system to monitor and analyze beam operations at the RAON accelerator. This system enables real-time tracking of beam transmission paths by analyzing the status of beam dump and bending magnets. Beam delivery times are calculated for each section based on the defined transmission paths, and the data are recorded by date and experiment to support beam usage analysis. In addition to beam tracking, the system monitors and records changes in key parameters such as vacuum conditions, LLRF settings and beam properties including width and frequency. The records are utilized not only used for monitoring but also serve as data for post-experiment analysis, troubleshooting, and optimization of beam operations, thereby ensuring tracking of facility status and supporting efficient management.E. Im, J. Kwon, M. Park, S. Lee, Y. Ahn, e. kwon  Institute for Basic Science",
-      "authors": [],
+      "title": "Development of Monitoring and Analysis System for Beam Operation in RAONThe Rare-isotope Accelerator complex for",
+      "authors": [
+        "J. Kwon",
+        "Y. Ahn",
+        "E. Im",
+        "M. Park",
+        "S. Lee"
+      ],
       "institutions": [],
-      "abstract": "",
+      "abstract": "ON-line experiment (RAON) is a heavy ion accelerator with maximum beam power of 400 kW. To facilitate efficient information sharing among multiple users, we have developed an integrated system to monitor and analyze beam operations at the RAON accelerator. This system enables real-time tracking of beam transmission paths by analyzing the status of beam dump and bending magnets. Beam delivery times are calculated for each section based on the defined transmission paths, and the data are recorded by date and experiment to support beam usage analysis. In addition to beam tracking, the system monitors and records changes in key parameters such as vacuum conditions, LLRF settings and beam properties including width and frequency. The records are utilized not only used for monitoring but also serve as data for post-experiment analysis, troubleshooting, and optimization of beam operations, thereby ensuring tracking of facility status and supporting efficient management., , , , , e. kwon  Institute for Basic Science",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO16.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO16",
       "received_date": "",
@@ -216,10 +364,33 @@
     },
     {
       "paper_id": "MOPCO17",
-      "title": "Design Status of the Electron-Ion Collider Beam Instrumentation105The Electron Ion Collider (EIC) is being built at Brookhaven National Laboratory (BNL). The early system design phase efforts are underway. In addition to upgrading the existing RHIC instrumentation for the EIC hadron storage ring, new electron accelerator subsystems will include a 750 MeV Linac, accumulator ring, rapid-cycling synchrotron, electron storage ring, and a hadron cooling facility. The scope of the instrumentation includes devices to measure beam position, loss, current, charge, tune, transverse and longitudinal profiles, emittance, and crabbing angles. A description of the planned instruments and the present design status will be presented.D. Gassner, A. Pramberger, A. Blednykh, B. Bacha, C. Hetzel, C. Liu, E. Skordis, F. Micolon, G. Bassi, I. Pinayev, J. Pomaro, J. Bellon, K. Matsushima, L. Flader, M. Wendt, M. Paniccia, M. Sangroula, M. Oh, R. Hulsart, R. Michnoff  Brookhaven National LaboratoryPaper: MOPCO17DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO17About:  Received: 03 Sep 2025 — Revised: 09 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Design Status of the Electron-Ion Collider Beam Instrumentation105The Electron Ion Collider (EIC) is being built at",
+      "authors": [
+        "M. Paniccia",
+        "B. Bacha",
+        "E. Skordis",
+        "C. Liu",
+        "G. Bassi",
+        "L. Flader",
+        "A. Pramberger",
+        "J. Pomaro",
+        "A. Blednykh",
+        "D. Gassner",
+        "M. Sangroula",
+        "I. Pinayev",
+        "K. Matsushima",
+        "M. Oh",
+        "R. Hulsart",
+        "M. Wendt",
+        "C. Hetzel",
+        "F. Micolon",
+        "Michnoff",
+        "J. Bellon"
+      ],
+      "institutions": [
+        "Brookhaven National Laboratory"
+      ],
+      "abstract": "Brookhaven National Laboratory (BNL). The early system design phase efforts are underway. In addition to upgrading the existing RHIC instrumentation for the EIC hadron storage ring, new electron accelerator subsystems will include a 750 MeV Linac, accumulator ring, rapid-cycling synchrotron, electron storage ring, and a hadron cooling facility. The scope of the instrumentation includes devices to measure beam position, loss, current, charge, tune, transverse and longitudinal profiles, emittance, and crabbing angles. A description of the planned instruments and the present design status will be presented., , , , , , , , , , , , , , , , , , , R.  10.18429/JACoW-IBIC2025-MOPCO17 03 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO17.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO17",
       "received_date": "",
@@ -229,10 +400,19 @@
     },
     {
       "paper_id": "MOPCO18",
-      "title": "Software Upgrade of Beam Diagnostics Readout System Based on PXIe Hardware109In the beam diagnostics system of the CSNS accelerator, multiple National Instruments (NI) PXIe multifunction DAQ modules were utilized for readout system development. The original software architecture, implemented with LabVIEW+DSC modules on Windows system, introduced substantial challenges in EPICS integration. This paper details a software upgrade methodology that preserves the existing NI PXIe hardware infrastructure. The upgraded system implements standard EPICS Input/Output Controllers (IOCs) developed in C language under Linux system, integrating signal acquisition and front-end electronics control functionalities within EPICS IOCs. This re-engineering approach enhances the readout system stability while improving the reliability and flexibility of EPICS data interaction. The successful migration demonstrates an effective hardware-preserving software optimization strategy for accelerator instrumentation systems.Z. Xu, B. Zhang, F. Li, L. Zeng, M. Rehman, R. Yang, R. Qiu, W. Huang  Institute of High Energy Physics, China Spallation Neutron SourcePaper: MOPCO18DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO18About:  Received: 03 Sep 2025 — Revised: 07 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
+      "title": "Software Upgrade of Beam Diagnostics Readout System Based on PXIe Hardware109",
+      "authors": [
+        "F. Li",
+        "L. Zeng",
+        "B. Zhang",
+        "R. Qiu",
+        "R. Yang",
+        "M. Rehman",
+        "W. Huang  Institute",
+        "Z. Xu"
+      ],
       "institutions": [],
-      "abstract": "",
+      "abstract": "In the beam diagnostics system of the CSNS accelerator, multiple National Instruments (NI) PXIe multifunction DAQ modules were utilized for readout system development. The original software architecture, implemented with LabVIEW+DSC modules on Windows system, introduced substantial challenges in EPICS integration. This paper details a software upgrade methodology that preserves the existing NI PXIe hardware infrastructure. The upgraded system implements standard EPICS Input/Output Controllers (IOCs) developed in C language under Linux system, integrating signal acquisition and front-end electronics control functionalities within EPICS IOCs. This re-engineering approach enhances the readout system stability while improving the reliability and flexibility of EPICS data interaction. The successful migration demonstrates an effective hardware-preserving software optimization strategy for accelerator instrumentation systems., , , , , , ,  of High Energy Physics, China Spallation Neutron Source 10.18429/JACoW-IBIC2025-MOPCO18 03 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO18.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO18",
       "received_date": "",
@@ -242,10 +422,17 @@
     },
     {
       "paper_id": "MOPCO19",
-      "title": "Large Dynamic Range Beam Intensity Measurement of Both H0 and Proton Beams in Injection Upgrade of CSNS-II113China Spallation Neutron Source (CSNS) upgrade project (CSNS-II) started in 2024. As the first important task, the injection section will be redesigned and a lot of beam instruments will be installed along the injection to I-Dump beam line. The H0 beam intensity at the downstream of the stripping foil is several microampere during the normal operation, while the proton beam intensity at the I-dump may be over 80mA during the commissioning of linac and RCS. A corresponding design of the ACCT sensor and electronics is introduced in this paper. There are two nanocrystalline cores in H0CT, providing two different turns ratio for the large dynamic range beam intensity measurement. The gain of the electronics is switchable in two ranges. The INDCT is equipped with only one core and the electronics design is aiming to a high SNR for the injected proton beam power evaluation. Tests in the lab showed a good linearity of the H0CT and INDCT sensors with the electronics. Beam commissioning of the injection section is planned in October of 2025.W. Huang, R. Qiu, F. Li, L. Zeng, R. Yang, Z. Xu  Institute of High Energy Physics, Spallation Neutron Source Science CenterX. Nie  Institute of High Energy Physics, Spallation Neutron Source Science Center, Institute of High Energy Physics; Spallation Neutron Source Science CenterPaper: MOPCO19DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO19About:  Received: 03 Sep 2025 — Revised: 11 Sep 2025 — Accepted: 26 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
+      "title": "Large Dynamic Range Beam Intensity Measurement of Both H0 and Proton Beams in Injection Upgrade of CSNS-II113China",
+      "authors": [
+        "W. Huang",
+        "F. Li",
+        "L. Zeng",
+        "R. Qiu",
+        "R. Yang",
+        "Z. Xu  Institute"
+      ],
       "institutions": [],
-      "abstract": "",
+      "abstract": "Spallation Neutron Source (CSNS) upgrade project (CSNS-II) started in 2024. As the first important task, the injection section will be redesigned and a lot of beam instruments will be installed along the injection to I-Dump beam line. The H0 beam intensity at the downstream of the stripping foil is several microampere during the normal operation, while the proton beam intensity at the I-dump may be over 80mA during the commissioning of linac and RCS. A corresponding design of the ACCT sensor and electronics is introduced in this paper. There are two nanocrystalline cores in H0CT, providing two different turns ratio for the large dynamic range beam intensity measurement. The gain of the electronics is switchable in two ranges. The INDCT is equipped with only one core and the electronics design is aiming to a high SNR for the injected proton beam power evaluation. Tests in the lab showed a good linearity of the H0CT and INDCT sensors with the electronics. Beam commissioning of the injection section is planned in October of 2025., , , , ,  of High Energy Physics, Spallation Neutron Source Science CenterX. Nie  Institute of High Energy Physics, Spallation Neutron Source Science Center, Institute of High Energy Physics; Spallation Neutron Source Science Center 10.18429/JACoW-IBIC2025-MOPCO19 03 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO19.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO19",
       "received_date": "",
@@ -255,10 +442,18 @@
     },
     {
       "paper_id": "MOPCO20",
-      "title": "CSNS-II superconducting Section Beam Loss Measurement Electronic DesignThe CSNS-II linear accelerator upgrade will adopt superconducting accelerator structures, with the beamline enclosed in low-temperature modules. Detection of beam loss can only be done on the outer surface of the low-temperature modules. The CSNS-II accelerator plans to use a parallel plate multi-electrode ionization chamber as the beam loss monitor (BLM) probe for the superconducting section. The electronic system of the beam loss measurement (BLM) is primarily used for signal conditioning, digitization (ADC), transmission storage as EPICS PV quantities, and providing interlock signals for machine protection based on the output signals from the BLM probes. The main tasks of the development of the beam loss measurement (BLM) electronic system include: signal conditioning of weak current output from the BLM probes in the analog circuit section; and analog-to-digital conversion, digital signal processing, storage, PV quantity publication in the digital circuit section for the front-end analog output signals.L. Zeng, F. Li, M. Rehman, R. Yang, R. Qiu, W. Huang, Z. Xu  Institute of High Energy Physics",
-      "authors": [],
+      "title": "CSNS-II superconducting Section Beam Loss Measurement Electronic DesignThe CSNS-II linear accelerator upgrade will",
+      "authors": [
+        "F. Li",
+        "W. Huang",
+        "L. Zeng",
+        "R. Qiu",
+        "R. Yang",
+        "M. Rehman",
+        "Z. Xu  Institute"
+      ],
       "institutions": [],
-      "abstract": "",
+      "abstract": "adopt superconducting accelerator structures, with the beamline enclosed in low-temperature modules. Detection of beam loss can only be done on the outer surface of the low-temperature modules. The CSNS-II accelerator plans to use a parallel plate multi-electrode ionization chamber as the beam loss monitor (BLM) probe for the superconducting section. The electronic system of the beam loss measurement (BLM) is primarily used for signal conditioning, digitization (ADC), transmission storage as EPICS PV quantities, and providing interlock signals for machine protection based on the output signals from the BLM probes. The main tasks of the development of the beam loss measurement (BLM) electronic system include: signal conditioning of weak current output from the BLM probes in the analog circuit section; and analog-to-digital conversion, digital signal processing, storage, PV quantity publication in the digital circuit section for the front-end analog output signals., , , , , ,  of High Energy Physics",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO20.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO20",
       "received_date": "",
@@ -268,10 +463,20 @@
     },
     {
       "paper_id": "MOPCO21",
-      "title": "Investigation and improvement of slow extraction quality at HIRFL-CSRmThe slow extraction experimental users are urgent and imperative for the quasi-consecutive and uniform beam during the spill, generally several seconds. The online monitoring of the beam spot and intensity are also demanded. Recently, a set of slow extraction instruments were upgraded at the HIRFL-CSRm not only for the online monitoring, but also the improvement of the spill quality and the investigation of the micro structure. A new RF knockout (RF-KO) with the equivalent power up to 9 kW was equipped at the CSRm for the third-integer resonance. An online ionization chamber was fixed at the CSR External-target Experiment (CEE) monitoring the pre-target beam spot and intensity. A feedback loop comprises the RF-KO, IC and the home-made electronics, was adopted and demonstrated a significant improvement on the spill quality. A pilot experiment with a SiPM based plastic scintillator at the CEE revealed the sub-ns micro structures. The data acquisition system features 1 Gsps sampling rate and 5s storage, covering the whole spill. The measurement in recent campaigns is presented and the further improvement of the feedback system, the detector design, the electronics parameters is given.T. Liu  Institute of Modern Physics, Chinese Academy of Sciences, Institute of Modern PhysicsG. Zhu, K. Gu, X. Qiu, H. Xie, L. Li, Z. Li, Y. Wei, Y. Zhang, J. Wu  Institute of Modern Physics",
-      "authors": [],
+      "title": "Investigation and improvement of slow extraction quality at HIRFL-CSRmThe slow extraction experimental users are urgent",
+      "authors": [
+        "Y. Zhang",
+        "J. Wu  Institute",
+        "L. Li",
+        "H. Xie",
+        "T. Liu  Institute",
+        "Y. Wei",
+        "X. Qiu",
+        "K. Gu",
+        "Z. Li"
+      ],
       "institutions": [],
-      "abstract": "",
+      "abstract": "and imperative for the quasi-consecutive and uniform beam during the spill, generally several seconds. The online monitoring of the beam spot and intensity are also demanded. Recently, a set of slow extraction instruments were upgraded at the HIRFL-CSRm not only for the online monitoring, but also the improvement of the spill quality and the investigation of the micro structure. A new RF knockout (RF-KO) with the equivalent power up to 9 kW was equipped at the CSRm for the third-integer resonance. An online ionization chamber was fixed at the CSR External-target Experiment (CEE) monitoring the pre-target beam spot and intensity. A feedback loop comprises the RF-KO, IC and the home-made electronics, was adopted and demonstrated a significant improvement on the spill quality. A pilot experiment with a SiPM based plastic scintillator at the CEE revealed the sub-ns micro structures. The data acquisition system features 1 Gsps sampling rate and 5s storage, covering the whole spill. The measurement in recent campaigns is presented and the further improvement of the feedback system, the detector design, the electronics parameters is given. of Modern Physics, Chinese Academy of Sciences, Institute of Modern PhysicsG. Zhu, , , , , , , ,  of Modern Physics",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO21.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO21",
       "received_date": "",
@@ -281,10 +486,18 @@
     },
     {
       "paper_id": "MOPCO22",
-      "title": "HEPS beam charge measurement system117HEPS beam charge measurement includes bunch charge measurement system and average current meas-urement system. The injection scheme of HEPS requires charge monitor with high precision, stability, and a large dynamic range at each phase. This paper introduces the design and commissioning status of HEPS charge meas-urement system Signal reconstruction method applied in bunch charge measurement is also described in the paper.Y. Zhao, J. Cao, J. He, J. Yue, L. W, T. Xu, Y. Sui, Y. Du  Institute of High Energy PhysicsPaper: MOPCO22DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO22About:  Received: 03 Sep 2025 — Revised: 15 Sep 2025 — Accepted: 25 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
+      "title": "HEPS beam charge measurement system117HEPS beam charge measurement includes bunch charge measurement system and average",
+      "authors": [
+        "J. Cao",
+        "J. Yue",
+        "T. Xu",
+        "Y. Du  Institute",
+        "Y. Zhao",
+        "J. He",
+        "Y. Sui"
+      ],
       "institutions": [],
-      "abstract": "",
+      "abstract": "current meas-urement system. The injection scheme of HEPS requires charge monitor with high precision, stability, and a large dynamic range at each phase. This paper introduces the design and commissioning status of HEPS charge meas-urement system Signal reconstruction method applied in bunch charge measurement is also described in the paper., , , , L. W, , ,  of High Energy Physics 10.18429/JACoW-IBIC2025-MOPCO22 03 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO22.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO22",
       "received_date": "",
@@ -294,10 +507,26 @@
     },
     {
       "paper_id": "MOPCO23",
-      "title": "Commissioning of the 71 MeV beam delivery line of the TOP-IMPLART accelerator120TOP-IMPLART is a pulsed RF proton linear accelerator in operation at the ENEA Frascati Research Center originally built as a technological demonstrator for a full-linear solution to protontherapy, it is currently evolving towards a facility available for research and industrial users in different fields, ranging from biomedical to aerospace applications. It consists of a commercial AccSys PL7 model 425 MHz injector followed by eight SCDTL accelerating modules operating at 3 GHz. Proton beams in the range 1-6 MeV are available from a vertical delivery line placed at the exit of the injector, and at 63 MeV or 71 MeV (intermediate and lower energies are achieved by degraders) from a horizontal delivery line at the exit of the accelerator, where a pulse current variable up to 20 µA is provided in pulses 2.5 µs long at a typical repetition rate of 25 Hz. Our contribution presents the first experimental results from the commissioning of the high-energy line. It is a multi-purpose in-house designed line featuring a magnetic scanning system and a set of instrumentation, diagnostics, and target positioning frames placed on motorized platforms allowing for customizable irradiation setups.P. Nenzi  Ente per le Nuove Tecnologie, l'Energie e l'Ambiente, ENEA Frascati Research CentreA. Ampollini, M. Astorino, G. Bazzano, A. Doria, F. Fortini, E. Pavoni, G. Picardi, M. Piccinini, C. Ronsivalle, V. Surrenti, E. Trinca  ENEA Frascati Research CentreE. Nichelatti  ENEA Casaccia Research CentrePaper: MOPCO23DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO23About:  Received: 02 Sep 2025 — Revised: 05 Sep 2025 — Accepted: 09 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Commissioning of the 71 MeV beam delivery line of the TOP-IMPLART accelerator120TOP-IMPLART is a pulsed RF proton",
+      "authors": [
+        "C. Ronsivalle",
+        "M. Astorino",
+        "M. Piccinini",
+        "V. Surrenti",
+        "G. Picardi",
+        "G. Bazzano",
+        "A. Doria",
+        "E. Pavoni",
+        "P. Nenzi  Ente",
+        "F. Fortini",
+        "Nichelatti",
+        "Trinca"
+      ],
+      "institutions": [
+        "ENEA Frascati Research CentreE",
+        "ENEA Casaccia Research Centre"
+      ],
+      "abstract": "linear accelerator in operation at the ENEA Frascati Research Center originally built as a technological demonstrator for a full-linear solution to protontherapy, it is currently evolving towards a facility available for research and industrial users in different fields, ranging from biomedical to aerospace applications. It consists of a commercial AccSys PL7 model 425 MHz injector followed by eight SCDTL accelerating modules operating at 3 GHz. Proton beams in the range 1-6 MeV are available from a vertical delivery line placed at the exit of the injector, and at 63 MeV or 71 MeV (intermediate and lower energies are achieved by degraders) from a horizontal delivery line at the exit of the accelerator, where a pulse current variable up to 20 µA is provided in pulses 2.5 µs long at a typical repetition rate of 25 Hz. Our contribution presents the first experimental results from the commissioning of the high-energy line. It is a multi-purpose in-house designed line featuring a magnetic scanning system and a set of instrumentation, diagnostics, and target positioning frames placed on motorized platforms allowing for customizable irradiation setups. per le Nuove Tecnologie, l'Energie e l'Ambiente, ENEA Frascati Research CentreA. Ampollini, , , , , , , , , , E. .  10.18429/JACoW-IBIC2025-MOPCO23 02 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO23.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO23",
       "received_date": "",
@@ -307,10 +536,15 @@
     },
     {
       "paper_id": "MOPCO24",
-      "title": "Advancements in Cherenkov fiber-based machine protection system at TRIUMF’s e-Linac124A Cherenkov fiber-based shut-off system is being developed for TRIUMF’s ARIEL e-Linac to provide a scalable, cost-effective solution for monitoring beam losses in high-radiation environments. The system uses a single 100m long thin silica fiber with photomultiplier tubes at both ends, allowing sensitive electronics to be located outside the radiation area. This design is favorable over bulky ionization chambers and more expensive scintillation-based detectors, as it improves and simplifies deployment in complex environments, particularly the ARIEL beamline tunnel. The prototype demonstrates sub-10 µs response times and position-sensitive detection via the time delay between upstream and downstream signals. Ongoing work focuses on the achievable spatial resolution, the integration into ARIEL’s operations control environment and the systematic evaluation of reliability and sensitivity.R. Hermann, F. Ames, H. Koay, M. Alcorta Moreno  TRIUMFPaper: MOPCO24DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO24About:  Received: 03 Sep 2025 — Revised: 22 Sep 2025 — Accepted: 25 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
+      "title": "Advancements in Cherenkov fiber-based machine protection system at TRIUMF’s e-Linac124A Cherenkov fiber-based shut-off",
+      "authors": [
+        "M. Alcorta Moreno",
+        "H. Koay",
+        "F. Ames",
+        "R. Hermann"
+      ],
       "institutions": [],
-      "abstract": "",
+      "abstract": "system is being developed for TRIUMF’s ARIEL e-Linac to provide a scalable, cost-effective solution for monitoring beam losses in high-radiation environments. The system uses a single 100m long thin silica fiber with photomultiplier tubes at both ends, allowing sensitive electronics to be located outside the radiation area. This design is favorable over bulky ionization chambers and more expensive scintillation-based detectors, as it improves and simplifies deployment in complex environments, particularly the ARIEL beamline tunnel. The prototype demonstrates sub-10 µs response times and position-sensitive detection via the time delay between upstream and downstream signals. Ongoing work focuses on the achievable spatial resolution, the integration into ARIEL’s operations control environment and the systematic evaluation of reliability and sensitivity., , ,   TRIUMF 10.18429/JACoW-IBIC2025-MOPCO24 03 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO24.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO24",
       "received_date": "",
@@ -320,10 +554,15 @@
     },
     {
       "paper_id": "MOPCO25",
-      "title": "Design and development of turn-by-turn and bunch-by-bunch high-speed 128-channel data acquisition electronics applied to the HIAF facilityReal-time precision monitoring of beam profiles and emittance parameters in the High-Intensity Heavy-Ion Accelerator Facility (HIAF) presents critical challenges for analyzing collective beam effects and optimizing operations. During acceleration phases requiring sub-microsecond temporal resolution (0.1-2.048 MHz cyclotron frequency), we developed a heterogeneous computing-based diagnostic system achieving 15 MS/s 128-channel synchronous sampling.The hardware integrates ZYNQ-UltraScale+ MPSoC with eight Kintex-7 FPGAs through a custom nanosecond-synchronized backplane, delivering 26.88 GS/s parallel throughput. A phase-locked adaptive algorithm using multi-channel SUM values enables dynamic frequency matching and real-time turn-by-turn processing. Coupled with multi-wire detectors and residual gas probes (IPM), the system resolves transverse beam profiles (≤500 ns/turn) and longitudinal charge dynamics simultaneously, enabling full 4D phase-space reconstruction for unprecedented accelerator control.Z. Li, J. Wu, K. Gu, S. LU, X. Qiu  Institute of Modern Physics, Chinese Academy of Sciences",
-      "authors": [],
+      "title": "Design and development of turn-by-turn and bunch-by-bunch high-speed 128-channel data acquisition electronics applied",
+      "authors": [
+        "J. Wu",
+        "K. Gu",
+        "Z. Li",
+        "X. Qiu  Institute"
+      ],
       "institutions": [],
-      "abstract": "",
+      "abstract": "to the HIAF facilityReal-time precision monitoring of beam profiles and emittance parameters in the High-Intensity Heavy-Ion Accelerator Facility (HIAF) presents critical challenges for analyzing collective beam effects and optimizing operations. During acceleration phases requiring sub-microsecond temporal resolution (0.1-2.048 MHz cyclotron frequency), we developed a heterogeneous computing-based diagnostic system achieving 15 MS/s 128-channel synchronous sampling.The hardware integrates ZYNQ-UltraScale+ MPSoC with eight Kintex-7 FPGAs through a custom nanosecond-synchronized backplane, delivering 26.88 GS/s parallel throughput. A phase-locked adaptive algorithm using multi-channel SUM values enables dynamic frequency matching and real-time turn-by-turn processing. Coupled with multi-wire detectors and residual gas probes (IPM), the system resolves transverse beam profiles (≤500 ns/turn) and longitudinal charge dynamics simultaneously, enabling full 4D phase-space reconstruction for unprecedented accelerator control., , , S. LU,  of Modern Physics, Chinese Academy of Sciences",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO25.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO25",
       "received_date": "",
@@ -333,10 +572,16 @@
     },
     {
       "paper_id": "MOPCO26",
-      "title": "Design and Simulation of Miniaturized Permanent Magnet Arrays for Compact Diagnostic Applications128This paper presents the design and simulation of miniaturized permanent magnet configurations for Nuclear Magnetic Resonance (NMR) applications where compactness and field quality are critical. Traditional NMR systems require large and costly equipment to achieve high magnetic field uniformity, which limits portability and broader diagnostic use. We investigate compact magnet geometries, including H-type and Halbach arrays, evaluating their field strength and homogeneity. Special attention is given to the trade-off between device miniaturization and achievable field uniformity, a key factor in measurement sensitivity. Through computational modelling, we establish a framework for quantifying and optimizing magnetic field homogeneity, providing design strategies relevant for portable diagnostic instrumentation and potential applications where in-situ, non-invasive measurements are required.D. Aflyatunova  Cockcroft Institute, University of LiverpoolC. Welsch  Cockcroft Institute, University of Liverpool, University of Liverpool; Cockcroft InstituteG. Gao, G. Travish  ViBo HealthPaper: MOPCO26DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO26About:  Received: 07 Sep 2025 — Revised: 08 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Design and Simulation of Miniaturized Permanent Magnet Arrays for Compact Diagnostic Applications128",
+      "authors": [
+        "Aflyatunova",
+        "G. Travish",
+        "Welsch"
+      ],
+      "institutions": [
+        "Cockcroft Institute"
+      ],
+      "abstract": "This paper presents the design and simulation of miniaturized permanent magnet configurations for Nuclear Magnetic Resonance (NMR) applications where compactness and field quality are critical. Traditional NMR systems require large and costly equipment to achieve high magnetic field uniformity, which limits portability and broader diagnostic use. We investigate compact magnet geometries, including H-type and Halbach arrays, evaluating their field strength and homogeneity. Special attention is given to the trade-off between device miniaturization and achievable field uniformity, a key factor in measurement sensitivity. Through computational modelling, we establish a framework for quantifying and optimizing magnetic field homogeneity, providing design strategies relevant for portable diagnostic instrumentation and potential applications where in-situ, non-invasive measurements are required.D. , University of LiverpoolC. , University of Liverpool, University of Liverpool; Cockcroft InstituteG. Gao,   ViBo Health 10.18429/JACoW-IBIC2025-MOPCO26 07 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO26.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO26",
       "received_date": "",
@@ -346,10 +591,18 @@
     },
     {
       "paper_id": "MOPCO28",
-      "title": "Web Streaming Integration for the TLS Beam Size Monitoring Broadcast System132The beam size monitor broadcast system at the Taiwan Light Source (TLS) has traditionally used analog coaxial cables and modulators to transmit measurement images and data to control rooms and beamline stations via televisions and tuners. While simple and network-independent, this setup suffers from low resolution, frequent interference, and aging hardware with no ongoing maintenance. This paper presents a lightweight, non-intrusive upgrade that replaces the legacy system with a web-based real-time streaming solution. By capturing the existing output from the measurement system and streaming it using standard web technologies, users can access beam size visuals on any browser-enabled device, gaining better image quality and improved stability while eliminating traditional broadcast maintenance. As TLS is scheduled to be decommissioned in 2027, this solution offers a fast, low-risk, and cost-effective modernization path without altering existing instruments or computing environments. The system is currently under testing, and this paper describes its architecture, implementation, and preliminary results.L. Hsu, C. Liao, C. Wu, J. Liao, Z. Wu  National Synchrotron Radiation Research CenterPaper: MOPCO28DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO28About:  Received: 27 Aug 2025 — Revised: 06 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Web Streaming Integration for the TLS Beam Size Monitoring Broadcast System132The beam size monitor broadcast system at",
+      "authors": [
+        "J. Liao",
+        "C. Wu",
+        "Wu",
+        "C. Liao",
+        "L. Hsu"
+      ],
+      "institutions": [
+        "National Synchrotron Radiation Research Center"
+      ],
+      "abstract": "the Taiwan Light Source (TLS) has traditionally used analog coaxial cables and modulators to transmit measurement images and data to control rooms and beamline stations via televisions and tuners. While simple and network-independent, this setup suffers from low resolution, frequent interference, and aging hardware with no ongoing maintenance. This paper presents a lightweight, non-intrusive upgrade that replaces the legacy system with a web-based real-time streaming solution. By capturing the existing output from the measurement system and streaming it using standard web technologies, users can access beam size visuals on any browser-enabled device, gaining better image quality and improved stability while eliminating traditional broadcast maintenance. As TLS is scheduled to be decommissioned in 2027, this solution offers a fast, low-risk, and cost-effective modernization path without altering existing instruments or computing environments. The system is currently under testing, and this paper describes its architecture, implementation, and preliminary results., , , , Z.  10.18429/JACoW-IBIC2025-MOPCO28 27 Aug 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO28.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO28",
       "received_date": "",
@@ -359,10 +612,24 @@
     },
     {
       "paper_id": "MOPCO29",
-      "title": "Exploring beam diagnostic performances of cSTART using the KARA booster synchrotron135cSTART is a future storage ring currently under development at KIT with the purpose to investigate various non-equilibrium beam conditions and the injection and storage of LPA (Laser Plasma Accelerator) like beams. To understand and control the non-equilibrium beam dynamics at cSTART, various beam diagnostics with demanding specifications are required. The KARA booster has been used as an important tool to explore diagnostics for cSTART due to similarities in parameters, in particular the low electron beam energy (50 MeV) and the relatively high revolution frequency. Several beam diagnostics installed in the booster will be also installed in cSTART, i.e. the BPM readout electronics, the Bunch-by-Bunch (BBB) feedback system, the beam loss detection system, etc. In this context, dedicated beam time was used to test the performances of the different beam diagnostics systems, and to prepare for work around solutions in case of limitations if any. In this paper, we will describe the different experiments, emphasizing the procedures and highlighting the applied analysis. Moreover, we will discuss the obtained results and elaborate on their indications for the cSTART performance.D. El Khechen, M. Fuchs, R. Ruprecht, A. Mueller, J. Steinmann, E. Blomley, K. Kaljic, M. Schuh, E. Huttel, A. Mochihashi, P. Schreiber  Karlsruhe Institute of TechnologyPaper: MOPCO29DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO29About:  Received: 03 Sep 2025 — Revised: 09 Sep 2025 — Accepted: 11 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Exploring beam diagnostic performances of cSTART using the KARA booster synchrotron135cSTART is a future storage ring",
+      "authors": [
+        "A. Mochihashi",
+        "Schreiber",
+        "R. Ruprecht",
+        "E. Blomley",
+        "J. Steinmann",
+        "K. Kaljic",
+        "M. Schuh",
+        "D. El Khechen",
+        "M. Fuchs",
+        "E. Huttel",
+        "A. Mueller"
+      ],
+      "institutions": [
+        "Karlsruhe Institute of Technology"
+      ],
+      "abstract": "currently under development at KIT with the purpose to investigate various non-equilibrium beam conditions and the injection and storage of LPA (Laser Plasma Accelerator) like beams. To understand and control the non-equilibrium beam dynamics at cSTART, various beam diagnostics with demanding specifications are required. The KARA booster has been used as an important tool to explore diagnostics for cSTART due to similarities in parameters, in particular the low electron beam energy (50 MeV) and the relatively high revolution frequency. Several beam diagnostics installed in the booster will be also installed in cSTART, i.e. the BPM readout electronics, the Bunch-by-Bunch (BBB) feedback system, the beam loss detection system, etc. In this context, dedicated beam time was used to test the performances of the different beam diagnostics systems, and to prepare for work around solutions in case of limitations if any. In this paper, we will describe the different experiments, emphasizing the procedures and highlighting the applied analysis. Moreover, we will discuss the obtained results and elaborate on their indications for the cSTART performance., , , , , , , , , , P.  10.18429/JACoW-IBIC2025-MOPCO29 03 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO29.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO29",
       "received_date": "",
@@ -372,10 +639,16 @@
     },
     {
       "paper_id": "MOPCO31",
-      "title": "Development of BPM electronics for PIP-II at Fermilab139PIP-II (Proton Improvement Plan-II) is a critical upgrade to the Fermilab accelerator complex. The 800 MeV superconducting linear accelerator will utilize 126 beam position monitors (BPMs) across the Warm Front End (WFE), superconducting linac (SC LINAC), and Beam Transfer Line (BTL). These BPMs provide beam position, phase, timing, and intensity data, meeting stringent physics requirements: 10 µm position resolution, 0.1 mm position accuracy, 1% intensity resolution, 0.3° phase resolution, and 1° phase stability. This paper presents the uTCA4.0-based BPM electronics system. Each AMC with an RTM processes eight signals from two BPMs, with a 12-slot uTCA chassis supporting up to 24 BPMs. The system features 8-channel 250 MSPS ADCs and a Xilinx UltraScale+ SoC FPGA running Linux, facilitating high-speed data transfer via 10 Gigabit Ethernet. Key design aspects include analog signal conditioning, JESD204B routing, clock distribution, and thermal management. FPGA handles BPM signal processing, time tag, digital down-conversion, and phase drift compensation. Performance benchmarks, including position, phase resolution and temperature stability, are validated through dedicated testing.S. Liu, N. Eddy, B. FELLENZ, A. Semenov  Fermi National Accelerator LaboratoryPaper: MOPCO31DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO31About:  Received: 22 Aug 2025 — Revised: 06 Sep 2025 — Accepted: 06 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Development of BPM electronics for PIP-II at Fermilab139PIP-II (Proton Improvement Plan-II) is a critical upgrade to",
+      "authors": [
+        "S. Liu",
+        "N. Eddy",
+        "Semenov"
+      ],
+      "institutions": [
+        "Fermi National Accelerator Laboratory"
+      ],
+      "abstract": "the Fermilab accelerator complex. The 800 MeV superconducting linear accelerator will utilize 126 beam position monitors (BPMs) across the Warm Front End (WFE), superconducting linac (SC LINAC), and Beam Transfer Line (BTL). These BPMs provide beam position, phase, timing, and intensity data, meeting stringent physics requirements: 10 µm position resolution, 0.1 mm position accuracy, 1% intensity resolution, 0.3° phase resolution, and 1° phase stability. This paper presents the uTCA4.0-based BPM electronics system. Each AMC with an RTM processes eight signals from two BPMs, with a 12-slot uTCA chassis supporting up to 24 BPMs. The system features 8-channel 250 MSPS ADCs and a Xilinx UltraScale+ SoC FPGA running Linux, facilitating high-speed data transfer via 10 Gigabit Ethernet. Key design aspects include analog signal conditioning, JESD204B routing, clock distribution, and thermal management. FPGA handles BPM signal processing, time tag, digital down-conversion, and phase drift compensation. Performance benchmarks, including position, phase resolution and temperature stability, are validated through dedicated testing., , B. FELLENZ, A.  10.18429/JACoW-IBIC2025-MOPCO31 22 Aug 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO31.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO31",
       "received_date": "",
@@ -385,10 +658,15 @@
     },
     {
       "paper_id": "MOPCO32",
-      "title": "Development of a fast extraction method for short high intensity pulses at ELSA142Studies concerning the FLASH effect for radiation therapy are currently performed at ELSA. The booster synchrotron is used in a preliminary mode of operation to deliver electron beam pulses of 1.2 GeV energy with fixed length of 250 ns to irradiate cell samples. To enable different spill durations ranging from nanoseconds up to several ms in an energy range of 0.8 to 3.2 GeV a fast extraction from the stretcher ring is developed. Therefore a repurposing of the existing injection kickers for extraction is under study to achieve single turn extraction, up to extraction within a few turns. While the effect on the beam dynamics is observed with a streak camera, the measurement of the extracted beam is performed via current and chromox monitors. For longer spill durations, reaching up to ms, the feasibility of multiple concepts for a quicker resonant extraction at ELSA is investigated.L. Thome, K. Desch, D. Proft, M. Switka  University of BonnPaper: MOPCO32DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO32About:  Received: 03 Sep 2025 — Revised: 07 Sep 2025 — Accepted: 08 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
+      "title": "Development of a fast extraction method for short high intensity pulses at ELSA142Studies concerning the FLASH effect",
+      "authors": [
+        "L. Thome",
+        "M. Switka  University",
+        "D. Proft",
+        "K. Desch"
+      ],
       "institutions": [],
-      "abstract": "",
+      "abstract": "for radiation therapy are currently performed at ELSA. The booster synchrotron is used in a preliminary mode of operation to deliver electron beam pulses of 1.2 GeV energy with fixed length of 250 ns to irradiate cell samples. To enable different spill durations ranging from nanoseconds up to several ms in an energy range of 0.8 to 3.2 GeV a fast extraction from the stretcher ring is developed. Therefore a repurposing of the existing injection kickers for extraction is under study to achieve single turn extraction, up to extraction within a few turns. While the effect on the beam dynamics is observed with a streak camera, the measurement of the extracted beam is performed via current and chromox monitors. For longer spill durations, reaching up to ms, the feasibility of multiple concepts for a quicker resonant extraction at ELSA is investigated., , ,  of Bonn 10.18429/JACoW-IBIC2025-MOPCO32 03 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO32.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO32",
       "received_date": "",
@@ -398,10 +676,15 @@
     },
     {
       "paper_id": "MOPCO33",
-      "title": "Status of the source of polarized electrons at ELSA with improved laser and electron beam diagnostics145The ELSA facility at the University of Bonn uses a storage ring to accelerate polarized electrons up to 3.2 GeV. The photoinjector source is driven by a Ti:Sa laser beam to obtain a high polarization degree (~86%) from a GaAsP strained-layer superlattice crystal photocathode. After a prolonged shutdown of the source we restored its status to fully operational and fine-tuned the laser system, the crystal storage and cleaning apparatus as well as the Linac transfer beamline. The in-house developed diagnostic software FGrabbit has been employed for the analysis of laser and electron beam camera images, providing increased precision and dynamic range in the optimization process. The impact of the crystal cleaning process was studied with spatially resolved quantum efficiency mapping of the photocathode surface.M. Switka, K. Desch, D. Proft, A. Spreitzer  University of BonnPaper: MOPCO33DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO33About:  Received: 03 Sep 2025 — Revised: 09 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
+      "title": "Status of the source of polarized electrons at ELSA with improved laser and electron beam diagnostics145The ELSA",
+      "authors": [
+        "A. Spreitzer  University",
+        "M. Switka",
+        "K. Desch",
+        "D. Proft"
+      ],
       "institutions": [],
-      "abstract": "",
+      "abstract": "facility at the University of Bonn uses a storage ring to accelerate polarized electrons up to 3.2 GeV. The photoinjector source is driven by a Ti:Sa laser beam to obtain a high polarization degree (~86%) from a GaAsP strained-layer superlattice crystal photocathode. After a prolonged shutdown of the source we restored its status to fully operational and fine-tuned the laser system, the crystal storage and cleaning apparatus as well as the Linac transfer beamline. The in-house developed diagnostic software FGrabbit has been employed for the analysis of laser and electron beam camera images, providing increased precision and dynamic range in the optimization process. The impact of the crystal cleaning process was studied with spatially resolved quantum efficiency mapping of the photocathode surface., , ,  of Bonn 10.18429/JACoW-IBIC2025-MOPCO33 03 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO33.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO33",
       "received_date": "",
@@ -411,10 +694,15 @@
     },
     {
       "paper_id": "MOPCO34",
-      "title": "Development of BPM Electronics for Korean 4th Generation Storage Ring148New BPM electronics have been developed for installation in the storage ring of the 4th Generation Synchrotron Radiation Facility in Ochang, South Korea. Based on the first prototype, two different platforms were utilized for the development of the second prototype. The first version employs an RFSoC-based design, which acquires broadband signals up to 2 GHz using a high-performance 2.5 GS/s ADC, enabling real-time turn-by-turn data measurement. The second version is implemented using a commercial uTCA board along with a newly developed RTM card designed specifically for BPM electronics. This uTCA-based system utilizes a 500 MHz center frequency with a ±10 MHz narrowband AFE RTM card and a 250 MS/s ADC to perform turn-by-turn data acquisition. This paper presents detailed hardware specifications and configurations and provides an in-depth analysis of beam test results conducted at PLS-II.S. Jang, D. Shin  Pohang Accelerator LaboratoryPaper: MOPCO34DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO34About:  Received: 07 Sep 2025 — Revised: 08 Sep 2025 — Accepted: 10 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Development of BPM Electronics for Korean 4th Generation Storage Ring148New BPM electronics have been developed for",
+      "authors": [
+        "Shin",
+        "S. Jang"
+      ],
+      "institutions": [
+        "Pohang Accelerator Laboratory"
+      ],
+      "abstract": "installation in the storage ring of the 4th Generation Synchrotron Radiation Facility in Ochang, South Korea. Based on the first prototype, two different platforms were utilized for the development of the second prototype. The first version employs an RFSoC-based design, which acquires broadband signals up to 2 GHz using a high-performance 2.5 GS/s ADC, enabling real-time turn-by-turn data measurement. The second version is implemented using a commercial uTCA board along with a newly developed RTM card designed specifically for BPM electronics. This uTCA-based system utilizes a 500 MHz center frequency with a ±10 MHz narrowband AFE RTM card and a 250 MS/s ADC to perform turn-by-turn data acquisition. This paper presents detailed hardware specifications and configurations and provides an in-depth analysis of beam test results conducted at PLS-II., D.  10.18429/JACoW-IBIC2025-MOPCO34 07 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO34.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO34",
       "received_date": "",
@@ -424,10 +712,12 @@
     },
     {
       "paper_id": "MOPCO35",
-      "title": "An overview of the beam instrumentations for the CSNS upgradeThe China Spallation Neutron Source (CSNS) is a major facility for neutron science in China, and is currently operating at an averaged beam power of 170 kW with a beam energy of 1.6 GeV and repetation rate of 25 Hz. In 2024, the CSNS Upgrade project (CSNS-II) was launched with a goal beam power of 500 kW. We will present an overview of the new diagnostics and the corresponding challenges. We will also review the recent R&D activities on the laser-wire monitor system, ionization profile monitor, bunch shape monitors, beam position monitor and the development of the new material such as carbon-nano tube (CNT) wire, florescence wire and low-resistance MCP.R. Yang  Institute of High Energy Physics",
-      "authors": [],
+      "title": "An overview of the beam instrumentations for the CSNS upgradeThe China Spallation Neutron Source (CSNS) is a major",
+      "authors": [
+        "R. Yang  Institute"
+      ],
       "institutions": [],
-      "abstract": "",
+      "abstract": "facility for neutron science in China, and is currently operating at an averaged beam power of 170 kW with a beam energy of 1.6 GeV and repetation rate of 25 Hz. In 2024, the CSNS Upgrade project (CSNS-II) was launched with a goal beam power of 500 kW. We will present an overview of the new diagnostics and the corresponding challenges. We will also review the recent R&D activities on the laser-wire monitor system, ionization profile monitor, bunch shape monitors, beam position monitor and the development of the new material such as carbon-nano tube (CNT) wire, florescence wire and low-resistance MCP. of High Energy Physics",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO35.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO35",
       "received_date": "",
@@ -437,10 +727,17 @@
     },
     {
       "paper_id": "MOPCO36",
-      "title": "Application of convolutional neural networks for pile up correction in single particle counting152An exploration into the application of machine learning (ML) approaches to identify pile-ups and correct them in single particle counters at the GSI Helmholtz Centre for Heavy Ion Research in presented. About 100000 particle pulse data from various spills were manually labelled and a convolutional neural network (CNN) was developed to accurately count the number of particles without domain-specific knowledge. This contribution represents proof-of-work for a fast error free automated particle counting system. The identified algorithm was developed with a perspective of implementation into an FPGA.T. Habermann, M. Kumm  Fulda University of Applied SciencesR. Singh  GSI Helmholtz Centre for Heavy Ion ResearchPaper: MOPCO36DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO36About:  Received: 01 Sep 2025 — Revised: 07 Sep 2025 — Accepted: 07 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Application of convolutional neural networks for pile up correction in single particle counting152An exploration into",
+      "authors": [
+        "Singh",
+        "T. Habermann",
+        "Kumm"
+      ],
+      "institutions": [
+        "Fulda University of Applied SciencesR",
+        "GSI Helmholtz Centre for Heavy Ion Research"
+      ],
+      "abstract": "the application of machine learning (ML) approaches to identify pile-ups and correct them in single particle counters at the GSI Helmholtz Centre for Heavy Ion Research in presented. About 100000 particle pulse data from various spills were manually labelled and a convolutional neural network (CNN) was developed to accurately count the number of particles without domain-specific knowledge. This contribution represents proof-of-work for a fast error free automated particle counting system. The identified algorithm was developed with a perspective of implementation into an FPGA., M. .  10.18429/JACoW-IBIC2025-MOPCO36 01 Sep 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO36.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO36",
       "received_date": "",
@@ -450,10 +747,14 @@
     },
     {
       "paper_id": "MOPCO37",
-      "title": "A Proposed CEBAF Diagnostics UpgradeThe Continuous Electron Beam Facility (CEBAF) has been in operation since 1994. The accelerator has seen several upgrades to RF and cryogenic systems and capabilities. However, the diagnostics used for beam delivery have remained largely unchanged. With several challenging experiments on the way and obsolescence issues with existing hardware, the time has come to explore a significant upgrade to CEBAF’s diagnostic capabilities. The primary focus for the upgrade will be the development of a next generation beam position monitoring system along with a new accelerator timing and synchronization system. Research and development efforts are underway with prototypes for both systems in testing. Updates, plans, challenges and potential solutions will be presented.N. Rider  Thomas Jefferson National Accelerator Facility",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "A Proposed CEBAF Diagnostics UpgradeThe Continuous Electron Beam Facility (CEBAF) has been in operation since 1994. The",
+      "authors": [
+        "Rider"
+      ],
+      "institutions": [
+        "Thomas Jefferson National Accelerator Facility"
+      ],
+      "abstract": "accelerator has seen several upgrades to RF and cryogenic systems and capabilities. However, the diagnostics used for beam delivery have remained largely unchanged. With several challenging experiments on the way and obsolescence issues with existing hardware, the time has come to explore a significant upgrade to CEBAF’s diagnostic capabilities. The primary focus for the upgrade will be the development of a next generation beam position monitoring system along with a new accelerator timing and synchronization system. Research and development efforts are underway with prototypes for both systems in testing. Updates, plans, challenges and potential solutions will be presented.N.",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO37.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO37",
       "received_date": "",
@@ -463,10 +764,18 @@
     },
     {
       "paper_id": "MOPCO39",
-      "title": "Design and Implementation of Embedded System in HIAF Beam Diagnostics SystemThe beam diagnostic system of HIAF includes many subsystems, and the self-developed and researched electronic hardware adopts a highly integrated software and hardware architecture.To meet the requirements of beam debugging and measurement as well as user testing and experiments, the author of this paper developed a beam diagnostic embedded system based on EPICS and LACCS.This system fully utilizes whole resources to achieve real-time parameter setting, dynamic monitoring of status quantities, real-time transmission and monitoring of beam waveform data, and processing and storage of beam big data.The system have been online and operate for nearly a thousand sets, and run stably for a long time. The long-term stable operation of the laboratory and the temperature drift is respectively &LT3 um/℃ and 0.02 °/℃，which meet the beam debugging and operation requirements of the HIAF and other accelerator beam diagnosis systems，like SSC-Linac, LEAF, CAFe and PREF.R. Tian  Institute of Modern Physics, Chinese Academy of SciencesG. Zhu, H. Xie, J. Wu, K. Gu, Y. Zhang, Y. Wei, Z. Li  Institute of Modern Physics",
-      "authors": [],
+      "title": "Design and Implementation of Embedded System in HIAF Beam Diagnostics SystemThe beam diagnostic system of HIAF includes",
+      "authors": [
+        "J. Wu",
+        "Y. Zhang",
+        "Z. Li  Institute",
+        "H. Xie",
+        "Y. Wei",
+        "K. Gu",
+        "R. Tian  Institute"
+      ],
       "institutions": [],
-      "abstract": "",
+      "abstract": "many subsystems, and the self-developed and researched electronic hardware adopts a highly integrated software and hardware architecture.To meet the requirements of beam debugging and measurement as well as user testing and experiments, the author of this paper developed a beam diagnostic embedded system based on EPICS and LACCS.This system fully utilizes whole resources to achieve real-time parameter setting, dynamic monitoring of status quantities, real-time transmission and monitoring of beam waveform data, and processing and storage of beam big data.The system have been online and operate for nearly a thousand sets, and run stably for a long time. The long-term stable operation of the laboratory and the temperature drift is respectively &LT3 um/℃ and 0.02 °/℃，which meet the beam debugging and operation requirements of the HIAF and other accelerator beam diagnosis systems，like SSC-Linac, LEAF, CAFe and PREF. of Modern Physics, Chinese Academy of SciencesG. Zhu, , , , , ,  of Modern Physics",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO39.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO39",
       "received_date": "",
@@ -476,10 +785,15 @@
     },
     {
       "paper_id": "MOPCO40",
-      "title": "Design of digital acquisition for beam current monitor156As a part of the Proton Improvement Plan – II (PIP-II) at Fermilab, instrumentation systems are being modernized to take advantage of the higher speeds and ease of use offered by standardized embedded systems like MicroTCA. A rear-transition module (RTM) is being designed to interface with said embedded systems. In each of the four identical channels on the RTM, the differential signal from an alternating-current current transformer (ACCT) transimpedance amplifier will again be amplified by a differential operation-amplifier, then filtered by a low-pass topology. The conditioned signal is then digitized at a maximum of 10MS/s by an analog to digital converter (ADC) integrated circuit. After digitization, the ADC passes the data to an off the shelf AdvancedMC (AMC) Xilinx FPGA module using low voltage differential signals. This paper will describe the simulation of analog circuitry for signal conditioning, simulation of digital signal integrity based on physical design as well as verification of design characteristics critical to signal integrity. This work aims to create a methodology that can be applied to future RTMs requiring application of high-speed digital design principles.R. White, J. Berlioz  Fermi National Accelerator LaboratoryPaper: MOPCO40DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOPCO40About:  Received: 29 Aug 2025 — Revised: 05 Sep 2025 — Accepted: 06 Sep 2025 — Issue date: 29 Sep 2025",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Design of digital acquisition for beam current monitor156As a part of the Proton Improvement Plan – II (PIP-II) at",
+      "authors": [
+        "Berlioz",
+        "R. White"
+      ],
+      "institutions": [
+        "Fermi National Accelerator Laboratory"
+      ],
+      "abstract": "Fermilab, instrumentation systems are being modernized to take advantage of the higher speeds and ease of use offered by standardized embedded systems like MicroTCA. A rear-transition module (RTM) is being designed to interface with said embedded systems. In each of the four identical channels on the RTM, the differential signal from an alternating-current current transformer (ACCT) transimpedance amplifier will again be amplified by a differential operation-amplifier, then filtered by a low-pass topology. The conditioned signal is then digitized at a maximum of 10MS/s by an analog to digital converter (ADC) integrated circuit. After digitization, the ADC passes the data to an off the shelf AdvancedMC (AMC) Xilinx FPGA module using low voltage differential signals. This paper will describe the simulation of analog circuitry for signal conditioning, simulation of digital signal integrity based on physical design as well as verification of design characteristics critical to signal integrity. This work aims to create a methodology that can be applied to future RTMs requiring application of high-speed digital design principles., J.  10.18429/JACoW-IBIC2025-MOPCO40 29 Aug 2025 —  —  —",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOPCO40.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOPCO40",
       "received_date": "",
@@ -489,5 +803,5 @@
     }
   ],
   "paper_count": 37,
-  "scrape_time": "2025-09-29 18:48:47"
+  "scrape_time": "2025-09-29 19:50:54"
 }

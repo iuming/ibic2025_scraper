@@ -8,10 +8,14 @@
   "papers": [
     {
       "paper_id": "MOAI01",
-      "title": "Experience with proton beam instrumentation during commissioning of the ESS superconducting linacIn March 2025, the beam commissioning of the entire ESS linac commenced, supported by a diverse suite of instrumentation systems. This campaign followed the 2023 commissioning of the normal-conducting linac, which accelerated protons to 70 MeV. During the intervening period, the entire superconducting linac and the transport line to the tuning dump were installed. Several instrumentation systems underwent expansion, including the deployment of new position and phase measurement devices, current monitors, and beam loss detectors. In addition, various types of instruments saw beam for the first time, such as ionization profile monitors, fast wire scanners, beam stops, imaging systems, and an aperture monitor. The commissioning campaign culminated in the acceleration of first protons through the final drift tube linac tank (to 90 MeV), the superconducting spoke structures (to 216 MeV), and the medium-beta and high-beta elliptical structures (to >800 MeV). In this paper, we present the initial beam measurements, as well as verification of the protection functions and lessons learned from the experience.T. Shea  European Spallation Source",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Experience with proton beam instrumentation during commissioning of the ESS superconducting linac",
+      "authors": [
+        "Shea"
+      ],
+      "institutions": [
+        "European Spallation Source"
+      ],
+      "abstract": "In March 2025, the beam commissioning of the entire ESS linac commenced, supported by a diverse suite of instrumentation systems. This campaign followed the 2023 commissioning of the normal-conducting linac, which accelerated protons to 70 MeV. During the intervening period, the entire superconducting linac and the transport line to the tuning dump were installed. Several instrumentation systems underwent expansion, including the deployment of new position and phase measurement devices, current monitors, and beam loss detectors. In addition, various types of instruments saw beam for the first time, such as ionization profile monitors, fast wire scanners, beam stops, imaging systems, and an aperture monitor. The commissioning campaign culminated in the acceleration of first protons through the final drift tube linac tank (to 90 MeV), the superconducting spoke structures (to 216 MeV), and the medium-beta and high-beta elliptical structures (to >800 MeV). In this paper, we present the initial beam measurements, as well as verification of the protection functions and lessons learned from the experience.T.",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOAI01.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOAI01",
       "received_date": "",
@@ -21,10 +25,14 @@
     },
     {
       "paper_id": "MOAKN01",
-      "title": "Keynote talk: UK Accelerators and Beam InstrumentationThe UK accelerator community has established itself as an international leader in beam instrumentation R&D, contributing cutting-edge technologies and methodologies to accelerator science across the world. An overview of UK achievements in beam instrumentation will be presented, spanning developments in non-invasive diagnostics, advanced sensor technologies, and innovative data science, while highlighting the collaborations across national laboratories, universities, and international research infrastructures which have shaped this success. Looking ahead, this talk will highlight emerging directions in smart diagnostics, such as AI-enabled instrumentation, alongside growing priorities around sustainability and knowledge valorisation. Emphasis will be placed on translating R&D into wider benefit through industry collaboration, innovation, and skills development.J. Wolfenden  Cockcroft Institute",
-      "authors": [],
-      "institutions": [],
-      "abstract": "",
+      "title": "Keynote talk: UK Accelerators and Beam InstrumentationThe UK accelerator community has established itself as an",
+      "authors": [
+        "Wolfenden"
+      ],
+      "institutions": [
+        "Cockcroft Institute"
+      ],
+      "abstract": "international leader in beam instrumentation R&D, contributing cutting-edge technologies and methodologies to accelerator science across the world. An overview of UK achievements in beam instrumentation will be presented, spanning developments in non-invasive diagnostics, advanced sensor technologies, and innovative data science, while highlighting the collaborations across national laboratories, universities, and international research infrastructures which have shaped this success. Looking ahead, this talk will highlight emerging directions in smart diagnostics, such as AI-enabled instrumentation, alongside growing priorities around sustainability and knowledge valorisation. Emphasis will be placed on translating R&D into wider benefit through industry collaboration, innovation, and skills development.J.",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOAKN01.pdf",
       "doi": "https://doi.org/10.18429/JACoW-IBIC2025-MOAKN01",
       "received_date": "",
@@ -35,9 +43,7 @@
     {
       "paper_id": "MOAWOR01",
       "title": "Welcome & Opening Remarks",
-      "authors": [
-        "Welcome & Opening Remarks"
-      ],
+      "authors": [],
       "institutions": [],
       "abstract": "",
       "pdf_url": "https://meow.elettra.eu/90/pdf/MOAWOR01.pdf",
@@ -49,5 +55,5 @@
     }
   ],
   "paper_count": 3,
-  "scrape_time": "2025-09-29 18:48:18"
+  "scrape_time": "2025-09-29 19:50:23"
 }

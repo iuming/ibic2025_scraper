@@ -1,24 +1,27 @@
 Session: THB - Longitudinal Diagnostics and Synchronization / Special Talks / Closing Session
 Session ID: 874-thb
 URL: https://meow.elettra.eu/90/session/874-thb/index.html
-Scrape time: 2025-09-29 18:41:14
+Scrape time: 2025-09-29 19:57:06
 Paper count: 3
 Available PDFs: 1/3
 ================================================================================
 
 1. Paper ID: THBC01
-   Title: High-performance bunch arrival time monitors with fs precision at DESY832Pump-probe experiments at Free-Electron Laser facilities depend heavily on the relative timing precision of the pump and the probe, which determines the resolution of the observed ultrafast phenomena. The DESY's Bunch Arrival Time Monitors (BAM) are state-of-the-art sensors based on an electro-optical detection principle, that delivers information on the bunch timing with unprecedented femtosecond-level precision. Timing synchronization at machine level is achieved through a complex system of arrival time sensors, stabilized optical distribution, and feedback controls. Major advances in the performance, construction, and operation of the BAMs are discussed in detail. Integration of the sensor into the synchronization system, and important global optimization and interplay are mentioned as well. These improvements enabled a synchronization of the electron beam with a world-leading precision of less than 3fs at European XFEL.J. Kral, M. Büchler, J. Georg, J. Roever, M. Czwalinna  Deutsches Elektronen-Synchrotron DESYPaper:
+   Title: High-performance bunch arrival time monitors with fs precision at DESY832Pump-probe experiments at Free-Electron Laser
+   Authors: J. Kral, M. Czwalinna  Deutsches Elektronen, J. Roever, J. Georg
    Page: 
    PDF Status: ✓ Available
    PDF URL: https://meow.elettra.eu/90/pdf/THBC01.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-THBC01
+   Abstract: facilities depend heavily on the relative timing precision of the pump and the probe, which determines the resolution of the observed ultrafast phenomena. The DESY's Bunch Arrival Time Monitors (BAM) are state-of-the-art sensors based on an electro-optical detection principle, that delivers informat...
 ------------------------------------------------------------
 2. Paper ID: THBI01
-   Title: Positronium Laser Cooling: A Science Highlight and Instrumentation ChallengesThe successful laser cooling of positronium (Ps) via the 1$^3$S – 2$^3$P transition using broadband laser pulses, recognized as a Physics World Top 10 breakthrough in 2024, marked a milestone in antimatter research. Ps, a bound state of a positron and electron, posed significant challenges due to its 142 ns lifetime and broad Doppler profile. Achieved by the AEgIS collaboration at CERN, this breakthrough relied on precise positron beam control from a Surko-style buffer gas trap, nano-engineered positron-to-positronium converters, and advanced detection systems. This contribution highlights the instrumentation challenges underlying this success, including stabilizing and fine-tuning the positron beam with advanced magnetic and electrostatic confinement, nanosecond-level synchronization of laser pulses, and high-resolution, low-noise detection systems. These developments enabled positronium cooling and laid the groundwork for precision antimatter studies, underscoring the critical role of beam stability, timing, and diagnostics in fundamental physics.B. Rienäcker  University of Liverpool
+   Title: Positronium Laser Cooling: A Science Highlight and Instrumentation ChallengesThe successful laser cooling of
    Page: 
    PDF Status: ✗ Not available
    PDF URL: https://meow.elettra.eu/90/pdf/THBI01.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-THBI01
+   Abstract: positronium (Ps) via the 1$^3$S – 2$^3$P transition using broadband laser pulses, recognized as a Physics World Top 10 breakthrough in 2024, marked a milestone in antimatter research. Ps, a bound state of a positron and electron, posed significant challenges due to its 142 ns lifetime and broad Dopp...
 ------------------------------------------------------------
 3. Paper ID: THBIBIC26
    Title: IBIC 2026

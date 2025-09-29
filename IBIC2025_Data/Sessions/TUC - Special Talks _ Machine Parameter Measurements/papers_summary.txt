@@ -1,22 +1,26 @@
 Session: TUC - Special Talks / Machine Parameter Measurements
 Session ID: 882-tuc
 URL: https://meow.elettra.eu/90/session/882-tuc/index.html
-Scrape time: 2025-09-29 18:50:21
+Scrape time: 2025-09-29 19:52:50
 Paper count: 2
 Available PDFs: 0/2
 ================================================================================
 
 1. Paper ID: TUCC01
-   Title: Novel method for real-time temperature monitoring of isotope production targetsThe extraction of radioactive ion beams (RIB) from proton bombardment on Isotope Separation On-Line (ISOL) production targets depends on the optimization of multiple parameters. Proton beam intensity, the position and shape of the proton beam onto the target are important factors. Crucial for the efficient release of radioactive isotopes from a target are peak temperatures up to 2300 C and temperature gradients within. Since ISOL targets operate in a hard radiation environment conventional temperature diagnostics are not feasible. We have developed an optical system for remote temperature measurements in ISOL targets. It detects the emitted light of the hot target from a distance and correlates near infrared emissions (NIR) to temperature. The device includes a set of optics that transports the light to a NIR spectrometer, and the calculated target temperature is integrated into EPICS and MIDAS frameworks. The strength of the method is that no prior knowledge of the emissivity is required. The diagnostic guides on-line RIB delivery and supports R&D activities to optimize RIB production. Details of the device and measurements will be reported.A. Laxdal, D. Joseph, F. Ames, J. lassen, L. Backes, M. Fatouros, P. Kunz  TRIUMFA. Wolski, B. Cheal, M. Pearson  University of Liverpool
+   Title: Novel method for real-time temperature monitoring of isotope production targetsThe extraction of radioactive ion beams
+   Authors: B. Cheal, L. Backes, M. Pearson  University, M. Fatouros, A. Laxdal, F. Ames, D. Joseph, P. Kunz
    Page: 
    PDF Status: ✗ Not available
    PDF URL: https://meow.elettra.eu/90/pdf/TUCC01.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUCC01
+   Abstract: (RIB) from proton bombardment on Isotope Separation On-Line (ISOL) production targets depends on the optimization of multiple parameters. Proton beam intensity, the position and shape of the proton beam onto the target are important factors. Crucial for the efficient release of radioactive isotopes ...
 ------------------------------------------------------------
 2. Paper ID: TUCPD01
-   Title: Breaking Boundaries: Innovation and Inclusion in Instrumentation ScienceThis contribution will reflect on Professor Bell-Burnell's career, spanning decades of groundbreaking work in astrophysics, from the discovery of pulsars to leadership in the global scientific community. Along the way, she has received numerous prestigious awards, including the Special Breakthrough Prize in Fundamental Physics, the Royal Astronomical Society Gold Medal, and the President’s Medal of the Institute of Physics, recognizing her outstanding contributions to science and beyond. Professor Bell-Burnell has worked as an observer in gamma ray, X-ray, IR and millimetre and radio astronomy and will describe each phase briefly. Beyond the science, Professor Dame Bell-Burnell will explore the importance of promoting equality, diversity, and inclusion (EDI) in STEM, drawing on her experiences to highlight how fostering an inclusive environment strengthens innovation and career development. **Speaker: Prof Dame Jocelyn Bell-Burnell**J. Bell Burnell  University of Oxford
+   Title: Breaking Boundaries: Innovation and Inclusion in Instrumentation ScienceThis contribution will reflect on Professor
+   Authors: J. Bell Burnell  University
    Page: 
    PDF Status: ✗ Not available
    PDF URL: https://meow.elettra.eu/90/pdf/TUCPD01.pdf
    DOI: https://doi.org/10.18429/JACoW-IBIC2025-TUCPD01
+   Abstract: Bell-Burnell's career, spanning decades of groundbreaking work in astrophysics, from the discovery of pulsars to leadership in the global scientific community. Along the way, she has received numerous prestigious awards, including the Special Breakthrough Prize in Fundamental Physics, the Royal Astr...
 ------------------------------------------------------------
