@@ -1,0 +1,51 @@
+{
+  "session_info": {
+    "id": "870-tha",
+    "name": "THA - Longitudinal Diagnostics and Synchronization",
+    "url": "https://meow.elettra.eu/90/session/870-tha/index.html",
+    "prefix": "THA"
+  },
+  "papers": [
+    {
+      "paper_id": "THAC01",
+      "title": "Characterization of sub-femto-second pulse duration of low-charge electron bunches using a Bunch-Compressor-Monitor at SwissFELThe absolute characterization of the electron pulse duration- bunch length - in the ultra-short and low- charge (3-10 pC) operation mode of SwissFEL is relevant to a deeper understanding of the spectral structure and broad-band distribution of the resultant Free-Electron-Laser (FEL) pulse. Under this operation mode of SwissFEL, the output signals of the Bunch-Compressor-Monitor (BCM) in operation after the final magnetic chicane (ECOL) of the hard x-ray undulator line of SwissFEL (Aramis) can be suitably processed to obtain an absolute characterization of the electron bunch-length [1]. This is possible in the ECOL-BCM thanks to the simultaneous detection of the Edge-Synchrotron radiation pulse in two different and partially overlapping spectral bands by means of a pyro-detector and an optical fiber spectrometer. Experimental results on the absolute characterization of the electron bunch-length at the ultra-short and low-charge operation mode of SwissFEL will be presented together with details on the formal method applied for processing the two output signals of the ECOL-BCM [1].G. Orlandi, E. Prat, F. Addesa, P. Dijkstal, R. Ischebeck, S. Meaney, S. Reiche, T. Schietinger  Paul Scherrer Institute",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "pdf_url": "https://meow.elettra.eu/90/pdf/THAC01.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2025-THAC01",
+      "received_date": "",
+      "accepted_date": "",
+      "page_number": "",
+      "pdf_available": false
+    },
+    {
+      "paper_id": "THAI01",
+      "title": "Experimental Investigation of Selective Photo-Detachment for Longitudinal Scraping in H⁻ LinacsLongitudinal emittance growth is a critical challenge in RF linacs. We propose a novel solution to mitigate this issue: employing temporally spaced laser pulses to selectively photo-detach electrons from the longitudinal head and tail regions of H- ion bunches. This removal is theorized to reduce particle distributions in the extreme orbits, thereby improving beam uniformity and minimizing emittance growth. Our experimental investigation used the LaserNotcher system at the front end of Fermilab's linac. The laser delivers peak powers of 1.6 MW with sub-nanosecond temporal precision. Using this system, we successfully neutralized the first and last half-nanosecond of several H- bunches, which were subsequently propagated through the linac and injected into the booster. Data on pulse width, average height, and temporal spacing over several booster cycles were measured for both the scraped and unscraped bunches. Statistical analysis was done to evaluate the significance of these results. This study aims to assess the feasibility of laser-based scraping systems in future linac designs and their potential to enable higher beam energies with improved emittance control.P. Landon, E. Kearns  Boston UniversityD. Johnson, J. Ruan, T. Johnson  Fermi National Accelerator Laboratory",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "pdf_url": "https://meow.elettra.eu/90/pdf/THAI01.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2025-THAI01",
+      "received_date": "",
+      "accepted_date": "",
+      "page_number": "",
+      "pdf_available": false
+    },
+    {
+      "paper_id": "THAI02",
+      "title": "Multi-Facility Virtual Diagnostic for Longitudinal Phase Space ImagingA thorough understanding of the Longitudinal Phase Space (LPS) of the electron beam is of great advantage to any modern linear accelerator, and of critical importance for operating a Free Electron Laser (FEL). A diagnostic system equipped with a Transverse Deflecting Structure (TDS) allows full imaging of a beam’s LPS. However, measurements with a TDS are not always easily accessible and are often destructive. In this talk, we present an application of machine learning in the form of a virtual diagnostic which allows for online extraction of the beam’s LPS based on non-destructive measurements. We present how such virtual diagnostics have been developed and tested for three different accelerators: the MAX IV linac and the FELs at FERMI and SwissFEL. We show how a single, general network architecture and training set up can be used to reach reliable predictions of the LPS for all three facilities. For future work, we show how virtual diagnostics could be further developed to suit the specific needs of operations at each facility.J. Lundquist, S. Werin  MAX IV LaboratoryE. Mansten  Lund University, MAX IV LaboratoryF. Curbis  Lund UniversityG. Penco  Elettra-Sincrotrone Trieste S.C.p.A.P. Dijkstal  Paul Scherrer Institute, Paul Scherrer Institut",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "pdf_url": "https://meow.elettra.eu/90/pdf/THAI02.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2025-THAI02",
+      "received_date": "",
+      "accepted_date": "",
+      "page_number": "",
+      "pdf_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-09-29 18:41:11"
+}

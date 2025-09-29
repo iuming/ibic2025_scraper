@@ -1,0 +1,39 @@
+IBIC2025 Conference Complete Scraping Report
+============================================================
+Scrape completion time: 2025-09-29 18:48:17
+Sessions processed: 3
+Total papers: 9
+Available PDFs: 6
+Successfully downloaded PDFs: 0
+Download success rate: 0.0%
+Errors: 0
+
+Session detailed statistics:
+--------------------------------------------------
+Session: MOA - Welcome/Overview and Commissioning
+   Papers: 3
+   Available PDFs: 0
+   URL: https://meow.elettra.eu/90/session/927-moa/index.html
+   Paper list:
+     [---] MOAI01: Experience with proton beam instrumentation during commissio...
+     [---] MOAKN01: Keynote talk: UK Accelerators and Beam InstrumentationThe UK...
+     [---] MOAWOR01: Welcome & Opening Remarks...
+
+Session: MOB - Beam Charge and Current Monitors
+   Papers: 3
+   Available PDFs: 3
+   URL: https://meow.elettra.eu/90/session/926-mob/index.html
+   Paper list:
+     [PDF] MOBC01: Measurement of nanoampere beam intensities at FAIR1Like stan...
+     [PDF] MOBC02: Performance study of Fast Beam Current Transformer calibrati...
+     [PDF] MOBI01: Transverse Momentum Measuring Systems: The Cryogenic Momenta...
+
+Session: MOC - Overview and Commissioning
+   Papers: 3
+   Available PDFs: 3
+   URL: https://meow.elettra.eu/90/session/862-moc/index.html
+   Paper list:
+     [PDF] MOCC01: Current Activities of the Beam Diagnostics in the J-PARC Lin...
+     [PDF] MOCC02: Beam diagnostics for IFMIF-DONES: addressing the challenges ...
+     [PDF] MOCI01: Commissioning and First Operation of SLS 2.0, the Upgrade of...
+

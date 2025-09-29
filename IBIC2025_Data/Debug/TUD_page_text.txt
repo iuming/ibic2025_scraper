@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+
+        Transverse Profile and Emittance Monitors
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        IBIC2025 - ProceedingsLiverpool, UK
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+TUD
+
+
+                -
+            
+
+                Transverse Profile and Emittance Monitors
+            
+
+                09 Sep 2025, 14:50 -
+                16:00
+            
+
+
+            Chair: Junxia Wu (Institute of Modern Physics, Chinese Academy of Sciences)
+        
+
+TUDC01Study of super-resolution reconstruction in transverse phase space measured via slit-scanning method323Electron beam injectors, critical to advanced light sources and ultrafast diffraction systems, require precise transverse phase space diagnostics to optimize beam quality. Conventional slit-scanning combined with computed tomography (CT) enables non-presumptive phase space reconstruction but faces resolution limitations under sparse sampling. This study introduces a deep learning framework to achieve super-resolution reconstruction from minimal scan data. By integrating beam transport physics with neural networks, the method overcomes resolution degradation in low-data regimes. Numerical validations on a low-energy injector test platform demonstrate significant resolution improvements over algebraic techniques. The proposed algorithm, coupled with beam dynamics simulations, forms a systematic engineering solution for high-fidelity diagnostics. This approach enhances phase space characterization efficiency, supporting accelerator commissioning with reduced experimental overhead.H. Hu, B. Zhou, Y. Xia, D. Lu, Y. Zeng, Y. Wang, K. Liu, T. Hu  Huazhong University of Science and TechnologyPaper: TUDC01DOI: reference for this paper: 10.18429/JACoW-IBIC2025-TUDC01About:  Received: 03 Sep 2025 — Revised: 12 Sep 2025 — Accepted: 23 Sep 2025 — Issue date: 29 Sep 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUDC02Beam profile measurement with pinhole camera and Kirkpatrick-Baez mirror at HEPSThe High Energy Photon Source (HEPS) is a 6 GeV electron storage ring light source currently under beam commissioning. We have designed a beam diagnostics beamline that integrates both pinhole imaging and KB mirror imaging systems, enabling the measurement of beam profiles and the calculation of beam sizes and emittance. Both systems are designed to measure the same source point, with the capability to switch between them for beam imaging. Currently, the measured emittance values are 91.8 pm in the horizontal and 4.9 pm in the vertical. This paper provides a detailed account of the measurement results from both imaging systems.D. Zhu, W. Zhang, Y. Sui, J. Cao, J. Yue  Institute of High Energy PhysicsCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+TUDI01A review of space charge compensation diagnostics328The space charge of high-intensity ion beams makes it challenging to transport the beam through the LEBT and inject it into the subsequent accelerator. Space charge compensation (SCC) is a process that lowers the space charge of an ion beam by trapping either positive ions or electrons, created by interaction of the beam with residual gas. The compensating secondary particles reduce the beam potential and the space charge-induced divergence of the beam. Significant beam losses during SCC build-up necessitate minimising the SCC time of pulsed high-current ion beams. To address this, diagnostics techniques are used to study the SCC process and measure its degree or time. These techniques include emittance meters, beam profile monitors, wire scanners, retarding field analysers, and optical sensors. Such diagnostics are applicable to positive and negative ion beams, with unique challenges based on the specific ion beam and residual gas used. In this paper we review common SCC diagnostic techniques, discuss the differences in SCC diagnostics for continuous and pulsed beams as well as positive and negative beams, and highlight the importance of supporting particle-in-cell simulations.E. Flannigan, O. Tarvainen, R. Abel, D. Faircloth, A. Garcia Sosa, D. Morris, D. Emerson, B. John, K. Jonathan  Science and Technology Facilities CouncilPaper: TUDI01DOI: reference for this paper: 10.18429/JACoW-IBIC2025-TUDI01About:  Received: 03 Sep 2025 — Revised: 04 Sep 2025 — Accepted: 06 Sep 2025 — Issue date: 29 Sep 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

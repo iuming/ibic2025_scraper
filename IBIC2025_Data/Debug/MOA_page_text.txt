@@ -1,0 +1,75 @@
+
+
+
+
+
+
+
+
+
+        Welcome/Overview and Commissioning
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        IBIC2025 - ProceedingsLiverpool, UK
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+MOA
+
+
+                -
+            
+
+                Welcome/Overview and Commissioning
+            
+
+                08 Sep 2025, 09:00 -
+                10:10
+            
+
+
+            Chair: Carsten Welsch (University of Liverpool)
+        
+
+
+
+MOAI01Experience with proton beam instrumentation during commissioning of the ESS superconducting linacIn March 2025, the beam commissioning of the entire ESS linac commenced, supported by a diverse suite of instrumentation systems. This campaign followed the 2023 commissioning of the normal-conducting linac, which accelerated protons to 70 MeV. During the intervening period, the entire superconducting linac and the transport line to the tuning dump were installed. Several instrumentation systems underwent expansion, including the deployment of new position and phase measurement devices, current monitors, and beam loss detectors. In addition, various types of instruments saw beam for the first time, such as ionization profile monitors, fast wire scanners, beam stops, imaging systems, and an aperture monitor. The commissioning campaign culminated in the acceleration of first protons through the final drift tube linac tank (to 90 MeV), the superconducting spoke structures (to 216 MeV), and the medium-beta and high-beta elliptical structures (to >800 MeV). In this paper, we present the initial beam measurements, as well as verification of the protection functions and lessons learned from the experience.T. Shea  European Spallation SourceCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+MOAKN01Keynote talk: UK Accelerators and Beam InstrumentationThe UK accelerator community has established itself as an international leader in beam instrumentation R&D, contributing cutting-edge technologies and methodologies to accelerator science across the world. An overview of UK achievements in beam instrumentation will be presented, spanning developments in non-invasive diagnostics, advanced sensor technologies, and innovative data science, while highlighting the collaborations across national laboratories, universities, and international research infrastructures which have shaped this success. Looking ahead, this talk will highlight emerging directions in smart diagnostics, such as AI-enabled instrumentation, alongside growing priorities around sustainability and knowledge valorisation. Emphasis will be placed on translating R&D into wider benefit through industry collaboration, innovation, and skills development.J. Wolfenden  Cockcroft InstituteCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+MOAWOR01Welcome & Opening Remarks
+
+
+
+
+

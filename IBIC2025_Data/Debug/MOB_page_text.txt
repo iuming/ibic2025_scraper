@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+
+        Beam Charge and Current Monitors
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        IBIC2025 - ProceedingsLiverpool, UK
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+MOB
+
+
+                -
+            
+
+                Beam Charge and Current Monitors
+            
+
+                08 Sep 2025, 10:50 -
+                12:00
+            
+
+
+            Chair: Kevin Jordan (Thomas Jefferson National Accelerator Facility)
+        
+
+MOBC01Measurement of nanoampere beam intensities at FAIR1Like standard beam transformers the cryogenic current comparator (CCC) measures the intensity of particle beams via the azimuthal magnetic field. The superior performance of the CCC derives from a superconducting magnetometer (SQUID - Superconducting Quantum Interference Device), which detects fields in the fT range. This enables for current resolution in the nA range but in return needs extremely careful protection from external influences like stray fields and mechanical vibrations. The CCC therefore requires an elaborated superconducting magnetic shielding and is housed in a specially developed, vibration damped He bath cryostat. We have recently achieved half a year of non-stop operation in stand-alone (closed Helium circuit) mode. The nA resolution has been demonstrated earlier during several beamtimes, in CRYRING as well as with slow extracted beams from SIS18. Among the CCC types, which have been investigated, the 'Dual Core' (DCCC) version showed the best performance with respect to bandwith and current resolution. The DCCC and its cryostat therefore mark a provisional closure of CCC development for FAIR. In this contribution we present the latest results and system status.T. Sieber, H. Braeuning, M. Schwickert  GSI Helmholtz Centre for Heavy Ion ResearchL. Crescimbeni  GSI Helmholtz Centre for Heavy Ion Research, Friedrich Schiller University Jena; GSI Helmholtz Centre for Heavy Ion Research, Friedrich Schiller University JenaT. Stoehlker  Helmholtz Institute Jena; GSI Helmholtz Centre for Heavy Ion Research; Institute for Optics and Quantum Electroncs, GSI Helmholtz Centre for Heavy Ion Research, Helmholtz Institute Jena, Institute for Optics and Quantum ElectroncsV. Tympel  Helmholtz Institute Jena, GSI Helmholtz Centre for Heavy Ion Research, Helmholtz Institute Jena; GSI Helmholtz Centre for Heavy Ion ResearchR. Stolz  Technische Universität Ilmenau, Leibniz Institute of Photonic Technology, Leibniz Institute of Photonic Technology; Technische Universität IlmenauV. Zakosarenko  Leibniz Institute of Photonic Technology, Leibniz Institute of Photonic Technology; supracon AG, supracon AGG. Khatri, T. Koettig, J. Tan  European Organization for Nuclear ResearchS. Kolbe, B. Voss  Ernst Abbe University of Applied Sciences JenaPaper: MOBC01DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOBC01About:  Received: 01 Sep 2025 — Revised: 05 Sep 2025 — Accepted: 09 Sep 2025 — Issue date: 29 Sep 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+MOBC02Performance study of Fast Beam Current Transformer calibration in the LHC7Fast Beam Current Transformers (FBCTs) are essential devices for measuring bunched beam intensities in the Large Hadron Collider (LHC). A cross-calibration of these devices against DC Beam Current Transformers (DC-BCTs) is used in the LHC ring, but this method relies on assumptions that introduce inaccuracies. FBCTs are also used in the LHC transfer lines, where DC-BCTs are unavailable, making absolute calibration crucial for transmission studies. To allow absolute calibration, the FBCTs are equipped with a pulsed current source to perform a calibration before each fill. However, a systematic underestimation in the calculated scaling factors has been observed when comparing them to the cross-calibration with the DC-BCTs. This work characterizes the calibrator performance, evaluates different algorithms for calculating the scaling factors and reports on issues found linked to processing chain modeling inaccuracies, ghost/satellite bunches, and the FPGA-based digital integration. A revised model of the processing chain improved calibration accuracy by 0.4%, while an initial test of a batch-by-batch baseline in the digital integration seems to explain the remaining 3% underestimation.J. Marafuz Gaspar  Instituto Superior Técnico, European Organization for Nuclear ResearchT. Levens, D. Alves, M. Gasior, K. Lasocha  European Organization for Nuclear ResearchPaper: MOBC02DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOBC02About:  Received: 03 Sep 2025 — Revised: 06 Sep 2025 — Accepted: 06 Sep 2025 — Issue date: 29 Sep 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+MOBI01Transverse Momentum Measuring Systems: The Cryogenic Momentatron and the TESS12Photocathode performance optimization is crucial to the operation of X-ray Free Electron Laser (FEL) facilities such as LCLS-II and the future UK XFEL as the initial photoelectron phase-space distribution directly impacts x-ray generation efficiency in the undulator. Key photocathode parameters such as transverse emittance and quantum efficiency are routinely measured to monitor and improve performance; metrics that are influenced by the photocathode material, operating temperature, vacuum and RF environmental conditions, and the characteristics of laser illumination (e.g., wavelength, and pulse energy, duration, and repetition rate). To better understand these factors, SLAC has developed a laboratory-based cryogenic Momentatron system to measure the emission properties of photocathodes from 30 K to 300 K using 200-800 nm wavelength-tunable light. The system’s design and initial commissioning performance have been validated through simulations and error analysis, confirming its reliability for photocathode characterization. We present measurements taken at SLAC, along with complementary data for Cs-Te obtained using the TESS system at Daresbury Laboratory - a similar photocathode characterization tool. These results provide valuable insights into photoemission physics that may be leveraged to optimize photocathode performance and thus that of X-ray FELs.G. Adhikari, T. Vecchione  SLAC National Accelerator LaboratoryI. Shan, W. Schroeder  University of Illinois ChicagoL. Jones, H. Churn  Science and Technology Facilities CouncilPaper: MOBI01DOI: reference for this paper: 10.18429/JACoW-IBIC2025-MOBI01About:  Received: 03 Sep 2025 — Revised: 04 Sep 2025 — Accepted: 06 Sep 2025 — Issue date: 29 Sep 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

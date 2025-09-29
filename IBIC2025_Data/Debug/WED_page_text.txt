@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+
+        Beam Position Monitors
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        IBIC2025 - ProceedingsLiverpool, UK
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+WED
+
+
+                -
+            
+
+                Beam Position Monitors
+            
+
+                10 Sep 2025, 14:50 -
+                16:00
+            
+
+
+            Chair: Marco Marchetto (TRIUMF)
+        
+
+WEDC01Design, characterization, and validation of a pulsed RF burst source for In-situ beam position monitor calibrationBeam Position Monitors are the essential diagnostics tools in any accelerator facility. They enable precise beam orbit measurements with nanometer-level resolution which are crucial for the operation of modern linac-based Free Electron Lasers and future linear colliders. In this work we present the development and implementation of a pulsed RF burst source synchronized with accelerator timing for BPM calibration. This source was installed and characterized at the ATF2 facility in KEK, Japan. The system injects tailored RF pulses into the BPM cavity via one of the two output ports present for each axis. With the capability to adjust frequency and pulse width, to emulate beam pulses, the system demonstrated nearly complete cancellation of beam-generated signals when the injected RF pulse overlapped with the beam pulse. This source has the potential for in-situ BPM calibration without relying on motion systems or "dog-leg" orbit bumps. Beyond calibration, it provides a method to mitigate static signal contributions caused by cavity misalignments and shows potential for compensating wakefield effects, offering a versatile tool for improving beam diagnostics and accelerator performance.K. Kruchinin  SLAC National Accelerator LaboratoryA. Lyapin, M. McCallum  Royal Holloway University of LondonCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+WEDC02Sub-micron ultra thin SiC free standing membranes for soft X-rays beam monitoring604Conventional X-ray beam monitors, such as gold meshes and conductive diamond films, often suffer from significant drawbacks, as diffraction effects, non-uniform transparency, low signal levels, and poor spatial resolution, particularly when applied to soft and tender X-ray beams. To address these limitations, we explore the use of ultra-thin (&LT2 µm) free-standing Silicon Carbide (SiC), developed by SenSiC GmbH, membranes as in-line, minimally invasive beam position monitors*. These devices offer high lateral resolution and minimal beam perturbation, making them particularly suitable for synchrotron radiation applications. Preliminary beam tests were conducted at the NanoMAX beamline (MAX IV) using highly focused (&LT1 µm FWHM) soft X-ray beams. SiC devices with 4-quadrant layouts demonstrated clear beam detection capability, though limitations emerged at the quadrant interfaces due to charge collection losses and charge multiplication under high electric fields. These effects were further investigated using Sentaurus TCAD simulations, which highlighted the potential for optimized sensor geometries to mitigate such issues. Results from a related SiC membrane intensity monitor, tested at the PTB four-crystal monochromator beamline at BESSY II demonstrated compatibility with tender and hard X-rays**. This device features a 3 mm diameter membrane consisting of a 0.3 µm p⁺ layer, 1.5 µm n⁻ active region, and a 370 µm n⁺ substrate, with Al contacts. Transmission tests in the 1.75 - 10 keV range confirmed excellent transparency (up to 97.55%) and uniform photocurrent response under 8 keV raster scans. The measured photocurrent at zero bias was 0.586 nA with 86% charge collection efficiency. Together, these results highlight the promising role of sub-2 µm SiC membranes for high-precision, in-line monitoring of X-ray beams across a wide spectral range, with ongoing developments targeting even thinner devices for optimized performance in soft X-ray applications.G. Trovato  STLab srl, SenSiC GmbH, Istituto Nazionale di Fisica Nucleare, Sezione di Catania, Institute for Microelectronics and Microsystems, University of CataniaM. Camarda  STLab srl, Institute for Microelectronics and Microsystems; STLab srl; SenSiC GmbH, SenSiC GmbH, Institute for Microelectronics and MicrosystemsN. La Rosa  University of CataniaS. Finizio  Swiss Light Source, Paul Scherrer Institute, Swiss Light Source; Paul Scherrer InstituteK. Desjardins, M. Andrae  Synchrotron soleilPaper: WEDC02DOI: reference for this paper: 10.18429/JACoW-IBIC2025-WEDC02About:  Received: 02 Sep 2025 — Revised: 10 Sep 2025 — Accepted: 11 Sep 2025 — Issue date: 29 Sep 2025 Cite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+WEDI01Summary of the workshop on BPMs buttons for synchrotron light sourcesIn the context of building the next generation of synchrotron light sources, significant effort has been directed towards developing BPM buttons. The design of these components needs to consider several factors related to the miniaturization of the beam pipe and the broadening of the beam spectrum, while still guaranteeing high resolution for commissioning and feedback purposes. A workshop was held in December 2024 at ALBA light source organized in collaboration with DESY, aiming to bring together experts from various light sources to share their experiences on the different stages of the deployment process, from simulation to manufacturing and characterization. This presentation reviews the key topics presented at the workshop.L. Torino, U. Iriso  ALBA Synchrotron (Spain)D. Lipka, S. Vilcins  Deutsches Elektronen-Synchrotron, Deutsches Elektronen-Synchrotron DESYG. Kube  Deutsches Elektronen-Synchrotron DESY, Deutsches Elektronen-Synchrotron DESY at ZeuthenCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

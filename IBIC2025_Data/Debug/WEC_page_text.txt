@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+
+        Transverse Profile and Emittance Monitors / Machine Parameter Measurements
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        IBIC2025 - ProceedingsLiverpool, UK
+
+
+Home
+        — Session
+        — Classification
+        — Authors 
+Institutes
+        — DOI of Institutes
+        — Keywords
+
+
+
+
+
+
+
+
+
+WEC
+
+
+                -
+            
+
+                Transverse Profile and Emittance Monitors / Machine Parameter Measurements
+            
+
+                10 Sep 2025, 13:00 -
+                14:20
+            
+
+
+            Chair: Gero Kube (Deutsches Elektronen-Synchrotron DESY)
+        
+
+WECC01Minimally Invasive Nano-Fabricated Wire Scanner for FEL OperationsAt the Paul Scherrer Institute (PSI), a minimally invasive wire scanner with sub-micrometer spatial resolution has been developed with a twofold objective: enabling real-time monitoring of the SwissFEL (Free Electron Laser) electron beam transverse size during lasing operation while also paving the way for a new generation of customizable wire scanners. These scanners are designed to be suitable for low and ultra-low emittance beams highly demanded by FEL developments and advanced acceleration concepts. Building on previous experience, nanotechnology has been further explored, utilizing photolithography to fabricate low-stress silicon nitride (Si₃N₄) wires suspended on a C-shaped silicon fork. Each fork hosts two perpendicular wires, allowing for the reconstruction of the beam profile in both the x and y directions. The wires are 2,4 and 6 µm wide and only 200 nm thick, and their length is tailored to match the SwissFEL beam clearance. Several prototypes have been successfully produced and installed at SwissFEL. This work presents the wire scanner's design and fabrication process, along with initial beam measurements at SwissFEL under lasing operations at 10 pC.F. Addesa, A. Gobbo, A. Foskolos, E. Prat, G. Orlandi, P. Dijkstal, R. Ischebeck, S. Reiche, V. Guzenko  Paul Scherrer InstituteCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+WECI01Machine Learning-based beam sculpting and measurement using a multileaf collimator and emittance exchangeThis paper presents a novel, rapidly reconfigurable multileaf collimator (MLC) for high-fidelity beam shaping. The MLC, compatible with ultra-high vacuum, features independently actuated leaves to tailor mask profiles. Coupled with an emittance-exchange (EEX) beamline at the Argonne Wakefield Accelerator, transverse profiles are transformed into custom longitudinal distributions, including ramped beams. We demonstrate various measurements of tailored beam profiles, both transverse and longitudinal. A new, rotor-based design increases flexibility, and a feed-forward control algorithm enables on-demand shaping. Machine learning optimizes MLC degrees of freedom for applications like FEL gain or wakefield accelerator performance, and adapts beam parameters in real-time to changing accelerator conditions. This versatile beam sculpting instrument has broad relevance for next-generation accelerators across FEL, AAC, and hadron-beam communities.N. Majernik  SLAC National Accelerator LaboratoryCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+WECI02Experimental demonstration of a single-shot, nondestructive electron beam diagnostic based on the ionization of a low-density pulsed gas jet7 MeV electron bunches from a radiofrequency photoinjector, carrying up to 100 pC of charge, traversed a localized distribution of nitrogen gas (N2). The interaction of the electron bunches with the N2 gas generated a correlated signature in the ionized particle distribution, which was spatially magnified using a series of electrostatic lenses and recorded with a microchannel-plate detector. Various modalities, including point-to-point imaging and velocity mapping, are investigated. A temporal trace of the detector current enabled the identification of single- and double-ionization events. The characteristics of the ionization distribution, dependence on gas density, total bunch charge, and other parameters, are described. Approaches to scaling to higher electron bunch density and energy are suggested. Additionally, the instrument proves useful for comprehensive studies of the ionization process itself.P. Denham  Particle Beam Physics LabCite: reference for this paper using: BibTeX, LaTeX, Text/Word, RIS, EndNote
+
+
+
+
+

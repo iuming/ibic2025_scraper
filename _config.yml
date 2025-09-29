@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: IBIC2025 Conference Data Scraper
+description: Web scraper for extracting papers and abstracts from IBIC2025 conference
+show_downloads: true
+github:
+  repository_url: https://github.com/iuming/ibic2025_scraper

@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IBIC2025 Data Explorer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f7fa;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .filter-bar {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .filter-bar input,
+        .filter-bar select {
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            font-size: 14px;
+        }
+
+        .papers-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 20px;
+        }
+
+        .paper-card {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s ease;
+        }
+
+        .paper-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .paper-header {
+            border-bottom: 2px solid #eee;
+            padding-bottom: 15px;
+            margin-bottom: 15px;
+        }
+
+        .paper-id {
+            background: #3498db;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: bold;
+            display: inline-block;
+            margin-bottom: 8px;
+        }
+
+        .paper-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 8px;
+        }
+
+        .session-tag {
+            background: #e74c3c;
+            color: white;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 11px;
+            display: inline-block;
+        }
+
+        .paper-meta {
+            font-size: 13px;
+            color: #7f8c8d;
+            margin-bottom: 10px;
+        }
+
+        .paper-abstract {
+            font-size: 14px;
+            line-height: 1.5;
+            color: #555;
+            margin-bottom: 15px;
+            max-height: 100px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .paper-abstract.expanded {
+            max-height: none;
+        }
+
+        .expand-btn {
+            color: #3498db;
+            cursor: pointer;
+            font-size: 12px;
+            text-decoration: underline;
+        }
+
+        .paper-links {
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .pdf-link {
+            background: #27ae60;
+            color: white;
+            padding: 6px 12px;
+            border-radius: 4px;
+            text-decoration: none;
+            font-size: 12px;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .pdf-unavailable {
+            background: #95a5a6;
+            cursor: not-allowed;
+        }
+
+        .doi-link {
+            background: #9b59b6;
+            color: white;
+            padding: 6px 12px;
+            border-radius: 4px;
+            text-decoration: none;
+            font-size: 12px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 50px;
+            font-size: 18px;
+            color: #7f8c8d;
+        }
+
+        .stats-summary {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>IBIC2025 Data Explorer</h1>
+            <p>Interactive Conference Papers Database</p>
+        </div>
+
+        <div class="stats-summary">
+            <div id="stats-display">Loading statistics...</div>
+        </div>
+
+        <div class="filter-bar">
+            <input type="text" id="search-input" placeholder="Search papers, authors, abstracts...">
+            <select id="session-filter">
+                <option value="">All Sessions</option>
+            </select>
+            <select id="pdf-filter">
+                <option value="">All Papers</option>
+                <option value="available">PDF Available</option>
+                <option value="unavailable">PDF Unavailable</option>
+            </select>
+            <button onclick="clearFilters()"
+                style="padding: 10px 15px; background: #e74c3c; color: white; border: none; border-radius: 6px; cursor: pointer;">Clear
+                Filters</button>
+        </div>
+
+        <div class="loading" id="loading">Loading IBIC2025 conference data...</div>
+        <div class="papers-grid" id="papers-grid" style="display: none;"></div>
+    </div>
+
+    <script>
+        let allPapers = [];
+        let filteredPapers = [];
+
+        // Load data from GitHub
+        async function loadData() {
+            try {
+                const response = await fetch('https://raw.githubusercontent.com/iuming/ibic2025_scraper/master/IBIC2025_Data/IBIC2025_Complete_Index.json');
+                const data = await response.json();
+
+                // Extract papers from sessions
+                allPapers = [];
+                data.sessions.forEach(sessionData => {
+                    sessionData.papers.forEach(paper => {
+                        paper.session_name = sessionData.session_info.name;
+                        paper.session_prefix = sessionData.session_info.prefix;
+                        allPapers.push(paper);
+                    });
+                });
+
+                filteredPapers = [...allPapers];
+                updateStats();
+                populateFilters();
+                renderPapers();
+
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('papers-grid').style.display = 'grid';
+
+            } catch (error) {
+                document.getElementById('loading').innerHTML = 'Error loading data: ' + error.message;
+            }
+        }
+
+        function updateStats() {
+            const totalPapers = allPapers.length;
+            const availablePdfs = allPapers.filter(p => p.pdf_available).length;
+            const filteredCount = filteredPapers.length;
+
+            document.getElementById('stats-display').innerHTML = `
+                <strong>Showing ${filteredCount} of ${totalPapers} papers</strong> | 
+                ${availablePdfs} PDFs available (${((availablePdfs / totalPapers) * 100).toFixed(1)}%)
+            `;
+        }
+
+        function populateFilters() {
+            const sessionFilter = document.getElementById('session-filter');
+            const sessions = [...new Set(allPapers.map(p => p.session_name))].sort();
+
+            sessions.forEach(session => {
+                const option = document.createElement('option');
+                option.value = session;
+                option.textContent = session;
+                sessionFilter.appendChild(option);
+            });
+        }
+
+        function renderPapers() {
+            const grid = document.getElementById('papers-grid');
+            grid.innerHTML = '';
+
+            filteredPapers.forEach(paper => {
+                const card = createPaperCard(paper);
+                grid.appendChild(card);
+            });
+        }
+
+        function createPaperCard(paper) {
+            const card = document.createElement('div');
+            card.className = 'paper-card';
+
+            const abstractPreview = paper.abstract ?
+                (paper.abstract.length > 200 ? paper.abstract.substring(0, 200) + '...' : paper.abstract) :
+                'No abstract available';
+
+            const authorsText = paper.authors && paper.authors.length > 0 ?
+                paper.authors.join(', ') : 'Authors not specified';
+
+            const institutionsText = paper.institutions && paper.institutions.length > 0 ?
+                paper.institutions.join('; ') : 'Institutions not specified';
+
+            card.innerHTML = `
+                <div class="paper-header">
+                    <div class="paper-id">${paper.paper_id}</div>
+                    <div class="paper-title">${paper.title}</div>
+                    <span class="session-tag">${paper.session_prefix}</span>
+                </div>
+                
+                <div class="paper-meta">
+                    <div><strong>Authors:</strong> ${authorsText}</div>
+                    ${institutionsText !== 'Institutions not specified' ? `<div><strong>Institutions:</strong> ${institutionsText}</div>` : ''}
+                    ${paper.page_number ? `<div><strong>Page:</strong> ${paper.page_number}</div>` : ''}
+                </div>
+                
+                <div class="paper-abstract" id="abstract-${paper.paper_id}">
+                    ${abstractPreview}
+                    ${paper.abstract && paper.abstract.length > 200 ?
+                    `<div class="expand-btn" onclick="toggleAbstract('${paper.paper_id}')">Read more</div>` :
+                    ''}
+                </div>
+                
+                <div class="paper-links">
+                    <a href="${paper.pdf_url}" 
+                       class="pdf-link ${!paper.pdf_available ? 'pdf-unavailable' : ''}"
+                       ${!paper.pdf_available ? 'style="pointer-events: none;"' : 'target="_blank"'}>
+                        📄 ${paper.pdf_available ? 'Download PDF' : 'PDF Unavailable'}
+                    </a>
+                    ${paper.doi ? `<a href="${paper.doi}" class="doi-link" target="_blank">🔗 DOI</a>` : ''}
+                </div>
+            `;
+
+            return card;
+        }
+
+        function toggleAbstract(paperId) {
+            const abstractEl = document.getElementById(`abstract-${paperId}`);
+            const paper = allPapers.find(p => p.paper_id === paperId);
+
+            if (abstractEl.classList.contains('expanded')) {
+                abstractEl.classList.remove('expanded');
+                abstractEl.innerHTML = paper.abstract.substring(0, 200) + '...' +
+                    '<div class="expand-btn" onclick="toggleAbstract(\'' + paperId + '\')">Read more</div>';
+            } else {
+                abstractEl.classList.add('expanded');
+                abstractEl.innerHTML = paper.abstract +
+                    '<div class="expand-btn" onclick="toggleAbstract(\'' + paperId + '\')">Show less</div>';
+            }
+        }
+
+        function applyFilters() {
+            const searchTerm = document.getElementById('search-input').value.toLowerCase();
+            const sessionFilter = document.getElementById('session-filter').value;
+            const pdfFilter = document.getElementById('pdf-filter').value;
+
+            filteredPapers = allPapers.filter(paper => {
+                const matchesSearch = !searchTerm ||
+                    paper.title.toLowerCase().includes(searchTerm) ||
+                    paper.paper_id.toLowerCase().includes(searchTerm) ||
+                    (paper.authors && paper.authors.join(' ').toLowerCase().includes(searchTerm)) ||
+                    (paper.abstract && paper.abstract.toLowerCase().includes(searchTerm));
+
+                const matchesSession = !sessionFilter || paper.session_name === sessionFilter;
+
+                const matchesPdf = !pdfFilter ||
+                    (pdfFilter === 'available' && paper.pdf_available) ||
+                    (pdfFilter === 'unavailable' && !paper.pdf_available);
+
+                return matchesSearch && matchesSession && matchesPdf;
+            });
+
+            updateStats();
+            renderPapers();
+        }
+
+        function clearFilters() {
+            document.getElementById('search-input').value = '';
+            document.getElementById('session-filter').value = '';
+            document.getElementById('pdf-filter').value = '';
+            filteredPapers = [...allPapers];
+            updateStats();
+            renderPapers();
+        }
+
+        // Event listeners
+        document.getElementById('search-input').addEventListener('input', applyFilters);
+        document.getElementById('session-filter').addEventListener('change', applyFilters);
+        document.getElementById('pdf-filter').addEventListener('change', applyFilters);
+
+        // Load data when page loads
+        loadData();
+    </script>
+</body>
+
+</html>

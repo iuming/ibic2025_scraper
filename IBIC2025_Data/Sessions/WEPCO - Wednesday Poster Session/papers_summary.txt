@@ -1,0 +1,274 @@
+Session: WEPCO - Wednesday Poster Session
+Session ID: 1226-wepco
+URL: https://meow.elettra.eu/90/session/1226-wepco/index.html
+Scrape time: 2025-09-29 18:38:14
+Paper count: 38
+Available PDFs: 29/38
+================================================================================
+
+1. Paper ID: WEPCO01
+   Title: Single-shot electron bunch profile monitor based on coherent transition radiation imaging608The development of longitudinal diagnostics for short-pulse electron accelerators is challenging but necessary to provide high-brightness electron bunches. This is equally true in novel plasma accelerators and for free electron lasers. The gold standard for such measurements is the transverse deflecting cavity (TDC); however, these devices are typically invasive and costly to produce and operate. As an alternative, a THz-based reflective imaging system has been designed and installed at the MAX IV short pulse facility (SPF) for imaging coherent transition radiation (CTR) for bunch profile reconstruction. This contribution presents the progress towards applying transfer learning to deep learning models for evaluating the reconstruction of bunch profiles from experimentally acquired CTR images, building on previous successes in profile prediction using simulated data. Practical resolution limits and the next steps in the development of the monitor are also discussed, where the reconstructions of the longitudinal profile will be achieved using single-shot CTR images and benchmarked against the TDC bunch profiles.A. Guisao Betancur  Cockcroft Institute, University of LiverpoolC. Welsch, J. Wolfenden  Cockcroft Institute, University of Liverpool, University of Liverpool; Cockcroft InstituteO. Grimm, E. Mansten, S. Thorin  MAX IV LaboratoryJ. Lundquist  Lund University, MAX IV LaboratoryPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO01.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO01
+------------------------------------------------------------
+2. Paper ID: WEPCO02
+   Title: Study of XBPM diagnostic parameters in the TPS frontend612The XBPM installed in the TPS frontend determines the center position of the photon beam using four CVD diamond blades. The combination of XBPM and upstream/downstream EBPM readings of the insertion device enables verification of the photon beam’s alignment along the correct trajectory. Significant changes in the beam position or profile, as well as prolonged periods without recalibration, may cause the XBPM measurement data to lose its reliability. Therefore, evaluating the reliability of the XBPM measurement data is of critical importance. By analyzing the deviation between the theoretical and measured blade intensities and calculating the standard deviation of the similarity percentage among the four blades, a reliability indicator is established. The variation of this indicator is analyzed under different conditions and compared with the corresponding Q values.C. Cheng, Y. Yang, Y. Cheng, Y. Hsiao, B. Chen, C. Shueh, C. Chan  National Synchrotron Radiation Research CenterPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO02.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO02
+------------------------------------------------------------
+3. Paper ID: WEPCO03
+   Title: Results of HESR BPM Testing615For the HESR diagonally cut BPMs were designed, with 64 manufactured and tested with a purpose-built BPM test-stand. This test-stand had to host BPMs of various lengths, the overall length of the complete vacuum system varies from 450 mm to 1585 mm. For all BPMs several properties, e.g. the geometric factors or the electrical center in relation to the geometric center, were measured utilizing the test stand. The results of these measurements will be presented together with the challenges resulting from the design choices made for the layout of the test stand.C. Boehme  Forschungszentrum JülichA. Halama, V. Kamerdzhiev, G. Koch  GSI Helmholtz Centre for Heavy Ion ResearchPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO03.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO03
+------------------------------------------------------------
+4. Paper ID: WEPCO04
+   Title: H- Bunch Shape Measurements at LANSCE619A Feschenko-style Bunch Shape Monitor (BSM) was used to measure the longitudinal profile of H- bunches at the Los Alamos Neutron Science Center (LANSCE) accelerator. The measurements were taken in the 201.25-MHz drift tube linac (DTL), where the design beam energy is 72.72 MeV. The results of the measurements are presented, and several unexpected features of the measurements are discussed.M. Kay, C. Taylor, P. Anisimov  Los Alamos National LaboratoryPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO04.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO04
+------------------------------------------------------------
+5. Paper ID: WEPCO05
+   Title: Design of spectrometer energy measurement setups for the future EuPRAXIA@SPARC_LAB and SSRIP linacs623EuPRAXIA@SPARC_LAB is a FEL user-facility currently under construction at INFN-LNF in the framework of the EuPRAXIA collaboration. The electron beam will be accelerated to 1 GeV by an X-band RF linac followed by a plasma wakefield acceleration stage. This high-brightness linac requires diagnostic tools able to measure the beam parameters with high accuracy and resolution. To monitor the beam energy and its spread, magnetic dipoles and quadrupoles will be installed along the linac, together with viewing screens and CCD cameras. Macroparticle beam dynamics simulations were performed to determine the optimal energy measurement setup in terms of accuracy and resolution. Similar diagnostics evaluations were carried out for the spectrometer installed at the 100 MeV RF linac of the beam facility SSRIP (IFIN-HH, Romania), whose commissioning planned for 2026 will be performed by INFN-LNF in collaboration with IFIN-HH. Optics measurements were performed to characterize the resolution and magnification of the optical system foreseen to be used at EuPRAXIA@SPARC_LAB and SSRIP for beam energy monitoring.D. Quartullo, L. Sabbatini  Istituto Nazionale di Fisica Nucleare, Istituto Nazionale di Fisica Nucleare, Laboratori Nazionali di FrascatiD. Alesini, F. Demurtas, L. Faillace, G. Franzini, A. Ghigo, A. Giribono, R. Pompili, A. Stella, C. Vaccarezza, A. Vannozzi  Istituto Nazionale di Fisica Nucleare, Laboratori Nazionali di FrascatiL. Verra  European Organization for Nuclear Research, Istituto Nazionale di Fisica Nucleare, Laboratori Nazionali di FrascatiA. Cianchi  University of Rome Tor VergataPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO05.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO05
+------------------------------------------------------------
+6. Paper ID: WEPCO06
+   Title: Performance analysis of the RF analog frontend for Diamond–II electron beam position monitors627Diamond-II is a major upgrade to the current synchrotron facility, Diamond Light Source. The low emittance electron beam requires more stable, low drift beam position mon- itor electronics which are also essential for the Fast Orbit Feedback system. This paper presents simulated results of the analog frontend for the electron beam position monitors. This work aims to deliver an analog frontend with stable gain and high linearity that meets the dynamic range and noise figure requirements effectively to capture beam positions for single and multi-bunch operation. Performance evaluations have been conducted using the SystemVue simulation suite.H. Malik, M. Abbott, L. Bobb, M. Zeeshan  Diamond Light SourcePaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO06.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO06
+------------------------------------------------------------
+7. Paper ID: WEPCO07
+   Title: Fast beam-based alignment of BPMs and quadrupole magnets for SPring-8-II630In modern low-emittance electron storage rings, precise beam orbit control is crucial to ensure the beam passes through the magnetic center of each high-gradient multipole magnet, with an accuracy of 10 μm or even better. Accurate alignment of a BPM with the center of the neighboring magnet is imperative, a critical requirement for SPring-8-II. With a total of 340 BPMs, efficient beam commissioning of SPring-8-II necessitates a fast beam-based alignment (BBA) method. To assess the feasibility of this method, we conducted a fast BBA experiment at the current SPring-8 storage ring utilizing new BPM readout electronics based on MicroTCA.4, enabling a data acquisition rate at 10 kHz. We varied the strength of a quadrupole magnet adjacent to a BPM head connected to the new fast readout. We scanned the electron beam across the quadrupole center by adjusting a steering dipole magnet. The BPM offset from the quadrupole center was then determined by analyzing data from all BPMs connected to the fast readout. This contribution will detail the proposed fast BBA procedure for SPring-8-II and present the results obtained from the feasibility test at the existing SPring-8 storage ring.H. Maesaka  RIKEN SPring-8 Center, Japan Synchrotron Radiation Research Institute, SPring-8M. Masaki, H. Dewa  Japan Synchrotron Radiation Research InstituteS. Takano  Japan Synchrotron Radiation Research Institute, SPring-8Paper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO07.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO07
+------------------------------------------------------------
+8. Paper ID: WEPCO08
+   Title: Determination of detector frequency ranges for an electron bunch length monitor for AWAKE run 2c633The AWAKE 150 MeV electron beamline at CERN is used to provide a witness bunch for plasma wakefield acceleration, with a bunch length shorter than the plasma wavelength to ensure efficient capture and acceleration. To accomplish this, a real-time, non-invasive bunch length monitor is essential. A monitor is being studied to calculate the RMS bunch length by measuring coherent Cherenkov diffraction radiation with 3 Schottky diodes across different frequency ranges. In this paper, we present theoretical bunch length calculations based on the polarization current approach (PCA) to determine the appropriate frequency ranges for the Schottky diodes. Results show that while higher frequencies are more sensitive to variations in bunch length, they are also influenced by the skewness of a Gaussian longitudinal bunch profile.J. McGunigal  University of Manchester, European Organization for Nuclear Research, Cockcroft InstituteG. Xia  University of Manchester, University of Manchester; Cockcroft Institute, Cockcroft InstituteC. Davut  Türkiye Enerji Nükleer ve Maden Araştırma KurumuP. Karataev  John Adams Institute for Accelerator Science, Royal Holloway University of London, Royal Holloway University of London; John Adams Institute for Accelerator ScienceT. Lefevre, S. Mazzoni  European Organization for Nuclear ResearchPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO08.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO08
+------------------------------------------------------------
+9. Paper ID: WEPCO09
+   Title: Bunch by bunch measurement at the HEPS by oscilloscope637By directly sampling the BPM signals with a high sampling rate oscilloscope, the bunch-by-bunch position and phase were calculated. With the help of injection trigger signal, oscilloscope was utilized to capture the injection process. The energy mismatch of the injection transient process and the residual oscillation of the injection bunch were studied. The longitudinal tune and oscillation amplitudes can be inferred. The bunch-by-bunch transverse position and longitudinal phase were analyzed by principal component analysis (PCA). The method also can be used to study the instability of the coupled bunches.J. He, D. Zhu, F. Huang, J. Yue, T. Xu, Y. Zhao  Institute of High Energy PhysicsJ. Cao  Institute of High Energy Physics, University of Chinese Academy of Sciences, Institute of High Energy Physics; University of Chinese Academy of SciencesY. Sui  Institute of High Energy Physics, University of Chinese Academy of SciencesPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO09.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO09
+------------------------------------------------------------
+10. Paper ID: WEPCO10
+   Title: Button BPM development and prototyping for ALBA II641As part of the ongoing ALBA II upgrade, which aims to significantly enhance the performance of the ALBA Synchrotron Light Source, a new design for button Beam Position Monitors (BPMs) is under investigation. In this contribution, we present the results of a characterization study conducted on button prototypes supplied by two different manufacturers. Furthermore, we introduce the preliminary design of an alternative button BPM intended for direct welding to the copper vacuum chamber of the upgraded machine.L. Torino, J. Alvarez, U. Iriso, O. Traver Ramos  ALBA Synchrotron (Spain)Paper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO10.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO10
+------------------------------------------------------------
+11. Paper ID: WEPCO11
+   Title: Beam Diagnostic for the DALI acceleratorDALI is an envisioned suite of advanced accelerator-based THz sources that are continuously tunable over the frequency range from 0.1 THz to 30 THz. The THz sources will provide radiation with high pulse energy (up to 100 µJ – 1 mJ) at a high but flexible repetition rate up to 1 MHz. An MeV ultra-fast electron diffraction (UED) source will complement this facility. The contribution will illustrate the machine design as well as discuss the foreseen diagnostic systems used for every machine part. Bunch position, arrival time and bunch compression state are crucial properties of the generated beams. Especially the low-charge operation (< 1 pC) of the UED beamline is a challenge for every non-invasive diagnostic systems.M. Kuntzsch, K. Zenker, U. Lehnert  Helmholtz-Zentrum Dresden-RossendorfA. Penirschke, B. Scheible, R. Yadav  Technische Hochschule Mittelhessen
+   Page: 
+   PDF Status: ✗ Not available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO11.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO11
+------------------------------------------------------------
+12. Paper ID: WEPCO12
+   Title: Development of a rectangular diagonal cut-plane BPM for the CSNS-II injection upgrade645As part of the CSNS-II upgrade, an improved injection scheme will be implemented to mitigate the space charge effect. To precisely measure the transverse beam position during injection, painting, and storage in the Rapid Cycling Synchrotron (RCS), a large-aperture (260 mm × 180 mm) Beam Position Monitor (BPM) is essential. The rectangular cut-plane BPM was selected for its excellent linearity over a large area and high signal-to-noise ratio (SNR). Due to limited space in the injection section, the BPMs must be integrated into the AC steering magnet. To prevent thermal heating from eddy current flow, a rib structure has been incorporated into the BPM's outer body. The BPM was designed using numerical simulation codes and subsequently manufactured. This paper details the simulation, design, and calibration results of the diagonal cut-plane BPM.M. Rehman, F. Li, B. Zhang  Institute of High Energy Physics, China Spallation Neutron SourceX. Nie, Z. Xu, R. Liu, R. Yang  Institute of High Energy Physics, China Spallation Neutron Source, Institute of High Energy Physics; China Spallation Neutron SourceM. Liu  Institute of High Energy Physics, China Spallation Neutron Source, Chinese Academy of SciencesR. Yang  Institute of High Energy Physics, Spallation Neutron Source Science Center, Institute of High Energy Physics; Spallation Neutron Source Science CenterPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO12.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO12
+------------------------------------------------------------
+13. Paper ID: WEPCO14
+   Title: Spiral beam position monitor for heavy ion beams649Our heavy ion beams are slow, short, and thick. For such beams, spiral beam position monitors(BPMs) are expected to provide good linearity and multiple information readouts despite their small size. At the RIKEN Nishina Center, various ion beams are accelerated using linacs and cyclotrons. However, the beams handled are slow enough compared to relativistic speeds, the bunch length is only about the same as the electrode size, and the beam diameter may be close to the electrode spacing. Conventional “diagonal cut” or “cosine two-theta cut” (for quadratic moments) BPMs produce deviations in wave height*. To solve this problem, it is expected that the wave height deviation can be eliminated by cutting the electrode in a spiral shape. Furthermore, by cutting in a spiral shape, multiple cuts can be placed in one BPM, and it is expected that beam intensity, horizontal position, vertical position, and second moment can be read out at a single location. The performance shown by simulations of the spiral BPM and the development of a prototype will be presented.T. Adachi, T. Nishi, T. Watanabe, O. Kamigaito  RIKEN Nishina CenterPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO14.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO14
+------------------------------------------------------------
+14. Paper ID: WEPCO15
+   Title: Influence analysis of dipole magnet design and beam collimation in the high-precision energy spectrometry system651The high-precision energy spectrometry system, as a key electron beam diagnostic, enables accurate measurement of beam energy distribution and supports injector performance optimization. Beam collimation prior to the system affects measurement accuracy. For electron injectors operating at a few MeV, a high-precision spectrometry system based on the magnetic deflection method is developed, and an energy spectrum model is established to study the design and magnetic field optimization of the key dipole magnet (D-magnet) as well as the influence of upstream beam collimation on beam trajectory accuracy. Simulation results indicate that the optimized D-magnet enhances performance, and beam collimation analysis verifies effective trajectory control, improving system precision and providing technical support for high-precision energy measurements.Y. Zeng, D. Xiao, D. Lu, Y. Wang, H. Hu, K. Liu, T. Hu  Huazhong University of Science and TechnologyW. Han  Institute of High Energy PhysicsPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO15.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO15
+------------------------------------------------------------
+15. Paper ID: WEPCO16
+   Title: The FERMI FEL2 electro optical sampling design and operational experience655This paper reports on the design and operational experience of an electro optical sampling (EOS) diagnostics based on the same femtosecond laser used for the seeding process of the FERMI FEL2. This design allows operating in parallel with the FEL2, minimizing time jitter with respect to the seed laser which is the main time marker of the FEL process by removing the time jitter contributions related to the use of an external laser. In our setup a fraction of the energy from the seed laser amplifier is extracted and delivered via a dedicated low vacuum transport system to the EOS setup in the tunnel with beam pointing stabilization actively obtained by piezo actuators. The laser beam size, pulse compression management, polarization cleaning and selection are performed in the tunnel prior to injecting the laser beam in the vacuum chamber. The spatial encoding scheme is employed, with a 100-micron thick GaP crystal and a detection performed in cross polarizers setup using a CMOS camera. The EOS has been characterized in terms of temporal resolution, jitter and drift. Finally, its capability to operate as longitudinal feedback system is also reported.M. Veronese, A. Abrami, E. Allaria, M. Bossi, P. Cinquegrana, M. Danailov, A. Demidovich, G. Gaio, S. Grulja, G. Pangon, G. Penco, P. Sigalotti, C. Spezzani, M. Trovo, M. Tudor  Elettra-Sincrotrone Trieste S.C.p.A.Paper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO16.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO16
+------------------------------------------------------------
+16. Paper ID: WEPCO17
+   Title: Innovative resistive X-ray beam position monitors based on Silicon Carbide free-standing membraneSolid State X-ray beam position monitors (XBPMs) are an established reality for in-line, real-time monitoring for X-ray beams. Commercial products are available in different materials, such as diamond (CIVIDEC, DECTRIS) and Silicon Carbide (SenSiC GmbH)*. One issue related to this class of devices is the presence of a separation cross in the center of the device, used to obtain four independent diodes to reconstruct the position of the beam. When dealing with monochromatic highly focused beams, diffraction effects could occur. To overcome this issue, a device inspired by Position Sensitive Diodes (PSD) is currently under study by SenSiC. This device, named “resistive-XBPM”, consists of a thin (1 um – 10 um), 5mm wide, 4H-SiC single-crystal free standing membrane. An additional thin resistive layer allows, for the four metallic contacts on the edges of the device, to collect charge which is proportional to the position of the beam onto the surface of the device. A dedicated electronic system has been optimized to have the simultaneous reading of the four channels, thus achieving real-time reconstruction of the beam position without the limits of the “standard” XBPM-type sensors.G. Trovato  STLab srl, Institute for Microelectronics and Microsystems, Istituto Nazionale di Fisica Nucleare, Sezione di Catania, University of CataniaF. La Via, S. De Luca  Institute for Microelectronics and MicrosystemsF. Romano, G. Milluzzo  Istituto Nazionale di Fisica Nucleare, Sezione di CataniaL. Lanzanò, N. La Rosa  University of CataniaM. De Napoli  Istituto Nazionale di Fisica Nucleare, Sezione di Catania, University of Catania; Istituto Nazionale di Fisica Nucleare, Sezione di Catania, University of CataniaM. Camarda  STLab srl, Institute for Microelectronics and Microsystems, SenSiC GmbH, Institute for Microelectronics and Microsystems; SenSiC GmbH; STLab srlS. Moscato  University of Catania; STLab srl, STLab srl, University of Catania
+   Page: 
+   PDF Status: ✗ Not available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO17.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO17
+------------------------------------------------------------
+17. Paper ID: WEPCO18
+   Title: Theoretical and experimental Investigation, and resolution optimization, of Semiconductor-Based Sensors for Non-Fully Intercepting Whitebeam Monitoring of Synchrotron BeamsIn this study we present an extensive theoretical investigation, and lateral resolution optimization, into the use of semiconductor-based sensors (*semicon-sensors*) for real-time monitoring of high-intensity synchrotron whitebeams. Leveraging *internal photoemission*, these sensors can give critical advantages over conventional metal-based blade monitors that rely on *surface photoemission*[1]. Notably: (i) *semicon-sensors* generate signals up to three orders of magnitude higher, unaffected by surface contamination; (ii) they can intrinsically suppress low-energy background from bending magnet radiation, greatly improving signal fidelity[2]; (iii) through a novel optimization strategy termed *harmonic-tuning*—which uses spectral filters to selectively enhance detection of specific harmonics from insertion devices—*semicon-sensors* can achieve up to 10× superior spatial resolution. These capabilities enable precise, stable beam diagnostics upstream of monochromators in modern 4th-generation synchrotron facilities. At the conference, we will present comparative modelling results across multiple beamlines, facilities and gap/K-values, demonstrating/establishing performances gains. Furthermore we will present first experimental results of these sensors tested at the Swiss Light Source (SLS) in Switzerland and at IHEP synchrotron in ChinaM. Camarda  STLab srl, SenSiC GmbH, Institute for Microelectronics and Microsystems; University of Catania; STLab srl; SenSiC GmbH, Institute for Microelectronics and Microsystems, University of CataniaB. Wang, Y. Liu  High Energy Photon Source (HEPS)G. Trovato  STLab srl, Institute for Microelectronics and Microsystems, Istituto Nazionale di Fisica Nucleare, Sezione di Catania, University of CataniaM. Birri  Paul Scherrer InstituteN. La Rosa, S. Moscato  University of Catania; STLab srl, STLab srl, University of Catania
+   Page: 
+   PDF Status: ✗ Not available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO18.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO18
+------------------------------------------------------------
+18. Paper ID: WEPCO19
+   Title: Functionalization of SiC diodes for soft X-ray opticsIn scanning transmission X-ray microscopy (STXM) beamlines, precise control of X-ray beam position and intensity (I₀) is crucial to minimize imaging artefacts and improve spectral quality. However, limited working distances in STXM setups restrict the integration of conventional diagnostics. To address this, we have developed a center-stop-based Silicon Carbide (SiC) device that integrates beam position sensitivity directly into the optical path, by functionalizing the order sorting aperture (OSA). The device was fabricated from a 20 µm thick single-crystalline SiC membrane using plasma focused ion beam (PFIB) lithography, enabling accurate microstructuring while preserving front-side electrode integrity. Live recording of beam position and I₀ during measurements is enabled through the 4-sector diode geometry patterned around the center stop. Validation experiments at the PolLux beamline (Swiss Light Source) demonstrate the device’s suitability for real-time correction of beam-induced artefacts in next-generation STXM. Additional fabrication details and characterization will be presented at the conferenceM. Camarda  STLab srl, Institute for Microelectronics and Microsystems, SenSiC GmbH, Institute for Microelectronics and Microsystems; SenSiC GmbH; STLab srlS. Finizio, J. Reuteler, J. Raabe  Paul Scherrer InstituteG. Trovato  STLab srl, Istituto Nazionale di Fisica Nucleare, Sezione di Catania, University of Catania; Institute for Microelectronics and Microsystems; Istituto Nazionale di Fisica Nucleare, Sezione di Catania; STLab srl, Institute for Microelectronics and Microsystems, University of CataniaN. La Rosa, S. Moscato  University of Catania; STLab srl, STLab srl, University of Catania
+   Page: 
+   PDF Status: ✗ Not available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO19.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO19
+------------------------------------------------------------
+19. Paper ID: WEPCO20
+   Title: Development of Novel, Radiation-Hard, Ultra-Compact Active Beamstops with Integrated 4-Quadrant X-ray Sensors for Scattering Experiments on High-Brilliance Undulator Beamlines659SenSiC GmbH, a spin-off from the Swiss Light Source (SLS), has developed a new class of beamstopper sensors, termed Beamstopper Integrated Sensors (BIS)[1,2], based on Silicon Carbide (SiC) semiconductor technology. Using custom processing and assembly methods, BIS devices achieve ultra-compact footprints below 1 mm and are designed for both real-time intensity monitoring and four-quadrant beam position sensing. The choice of SiC enables extreme radiation hardness and intrinsic insensitivity to visible light, enhancing sensitivity and signal fidelity by suppressing stray light contributions. BIS sensors have been successfully validated in operational environments: intensity-monitoring devices were tested at the SLS, while position-sensitive variants were deployed at MaxIV. These results demonstrate the robustness and precision of the BIS technology, offering a compact, radiation-resistant solution for integrated beam diagnostics in high-brilliance synchrotron beamlines.G. Trovato  STLab srl, Institute for Microelectronics and Microsystems, Istituto Nazionale di Fisica Nucleare, Sezione di Catania, University of CataniaK. nygard  MAX IV LaboratoryM. Camarda  STLab srl, Institute for Microelectronics and Microsystems; STLab srl; SenSiC GmbH, SenSiC GmbH, Institute for Microelectronics and MicrosystemsD. Grolimund, D. Ferreira Sanchez, M. Birri  Paul Scherrer InstituteN. La Rosa  STLab srl, University of CataniaS. Moscato  University of Catania; STLab srl, STLab srl, University of CataniaPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO20.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO20
+------------------------------------------------------------
+20. Paper ID: WEPCO21
+   Title: Experiments on a BSM test bench for CSNS-II linac upgrade662A test bench for commissioning the 324 MHz RF deflectors used in BSMs has been in use for the upgrade project CSNS-II linac. The pulsed 10keV electron beam produced by a Kimball focusable electron gun has been captured by a YAG:Ce screen and imaged by an industrial camera installed vertically right above the view port of the screen after passing through the body of the RF deflector undertest. This paper introduces the verificating experiments of static electric lens, RF deflections and bending magnet, also with the postprocessing of the beam spot images. Results of theoretical analysis and the tests were compared and agreed very well. The experiments verified the feasibility of the BSM test bench, playing a critical role in shortening the future commissioning time of BSM equipment in the tunnel.X. Yang  Institute of High Energy Physics, University of Electronic Science and Technology of ChinaW. Huang, L. Zeng, Q. Liu, X. Liu, X. Nie, Y. Wang, B. Tan, J. liang, J. Wei, F. Li, Z. Xu, R. Qiu, M. Rehman, R. Yang, Y. Sui  Institute of High Energy PhysicsPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO21.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO21
+------------------------------------------------------------
+21. Paper ID: WEPCO22
+   Title: High-resolution longitudinal beam diagnostics with a Fast Faraday Cup at the UNILAC accelerator666At the heavy ion accelerator UNILAC at GSI Helmholtz Center for Heavy Ion Research in Darmstadt, measurements were carried out with a Fast Faraday Cup (FFC) in order to precisely measure the time structure of the particle beam. The FFC offers a highly accurate time-resolved recording of the charge distribution along the longitudinal beam profile. The data obtained in combination with a dipole magnet is used to determine the longitudinal phase space and emittance of the beam. After analyzing the measurement results, the method is integrated into the regular beam diagnostics to ensure continuous monitoring and control of the particle beam during operation. Measurement procedure and results are presented.N. Schmidt  Technical University of Darmstadt, GSI Helmholtz Centre for Heavy Ion ResearchM. Miski-Oglu, P. Forck, R. Singh, T. Sieber  GSI Helmholtz Centre for Heavy Ion ResearchS. Klaproth  Technical University of Darmstadt, Technische Hochschule Mittelhessen; GSI Helmholtz Centre for Heavy Ion Research; Technical University of Darmstadt, GSI Helmholtz Centre for Heavy Ion Research, Technische Hochschule MittelhessenW. Barth  GSI Helmholtz Centre for Heavy Ion Research; Johannes Gutenberg University Mainz; Helmholtz Institute Mainz, GSI Helmholtz Centre for Heavy Ion Research, Johannes Gutenberg University Mainz, Helmholtz Institute MainzPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO22.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO22
+------------------------------------------------------------
+22. Paper ID: WEPCO23
+   Title: Recent upgrades of longitudinal diagnostics at FLASH670In the framework of the recent FLASH2020+ upgrade program, the longitudinal electron beam diagnostics of the FLASH accelerator had been modernized and extended by additional devices, including an electro-optical bunch length detector (EOD[1]), as well as an additional bunch compression monitor (BCM [2]) and a bunch arrival-time monitor (BAM [3]) in the new direct seeding beamline FLASH1. Also, the THz intensity spectrometer (CRISP [4]) received a modernized control interface that will allow non-experts to perform bunch profile measurements. The paper presents an overview on the current status of the longitudinal electron beam diagnostics at FLASH and the ongoing (re-)commissioning.M. Czwalinna, B. Steffen, J. Roever, J. Kral  Deutsches Elektronen-Synchrotron DESYPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO23.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO23
+------------------------------------------------------------
+23. Paper ID: WEPCO24
+   Title: Compact electro-optical bunch length detector: from an expert device to an operator tool673Laser-based electro-optic detection (EOD) has been a valuable tool to measure the longitudinal electron bunch shape with sub-ps resolution for almost a decade, but it has always been a tool for expert use. Recently, the server and the user interface has been updated allow automated laser locking, time calibration and measurements to prepare for general operator use at the EuXFEL. It is currently prepared for EO Spectral Decoding measurements, but the implementation of advanced reconstruction algorithms (Diversity Enhanced EO Spectral Decoding, DEOS[*]) is ongoing. The paper presents details of the setup and the user interface as well as recent measurements.B. Steffen, D. Rothe, M. Czwalinna, T. Kozak  Deutsches Elektronen-Synchrotron DESYPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO24.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO24
+------------------------------------------------------------
+24. Paper ID: WEPCO25
+   Title: SOLEIL II BPMs development progress676SOLEIL II is the low emittance upgrade project for Synchrotron SOLEIL, targeting an emittance of ~80 pm.rad. The new lattice includes 196 Beam Position Monitors (BPM) distributed in 3 different types depending on the vacuum chamber diameter. To ensure consistent signal levels across varying pipe diameters, two button sizes were selected: 6 mm diameter for 16 mm beam pipes, and 7 mm diameter for the 20 mm and 24 mm sections. To optimize the BPM impedance, button shape is conical. Electromagnetic and thermal simulations have been conducted to validate the proposed designs. In parallel, prototypes have been installed and tested on the existing machine to confirm the simulation results and validate the design. This paper summarizes the simulation outcomes, and the test results obtained on the current machine.M. El Ajjouri, N. Hubert, F. Alves, Z. Fan, A. Gamelin  Synchrotron soleilPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO25.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO25
+------------------------------------------------------------
+25. Paper ID: WEPCO26
+   Title: First measurements of a prototype stripline BPM for PETRA IV comparison with simulation680We present signal and thermal measurements from the first prototype of a stripline Beam Position Monitor (BPM) intended for the PETRA IV synchrotron ring [1]. The monitor was installed at the PETRA III testbed for evaluation and compared against CST Studio Suite [2] simulation results. Initial measurements revealed unexpected signal oscillations and significant heating (up to 135 °C), which were not reproduced in ideal models. For a smooth beam pipe, the expected power loss based on the wake-loss factor would only be 5 W. Including mechanical details such as flanges and copper gaskets in the simulation revealed cavity-induced resonances, which increased the power loss up to 96 W. The updated model showed good agreement with the measured signals in both time (TD) and frequency domains (FD) as well as with thermal data. Replacing the gasket with a RF-sealing variant lowered the measured temperature to 65 °C. This study highlights that multiple mechanical and electromagnetic factors must be understood and included in simulations to predict beam-induced effects in high-frequency diagnostics accurately.S. Strokov, G. Kube, M. Lantschner, D. Lipka  Deutsches Elektronen-Synchrotron DESYPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO26.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO26
+------------------------------------------------------------
+26. Paper ID: WEPCO27
+   Title: MEASUREMENT OF CRABBING ANGLE WITH PHASE INFORMATION FROM BPM684The Electron-Ion Collider is being constructed at the Brookhaven National Laboratory. The crab cavities will be utilized for the increase of the luminosity. While the initial set-up of crab cavities can be based on the orbit measurements during dedicated development time, we need to utilize a less invasive approach for monitoring the longitudinal beam tilt during operations. We propose to measure a phase shift between two beam position monitor channels for this purpose. The signal can be easily incorporated into the RF system feedback to suppress noise in the system. Theoretical considerations as well as tests with the electron beams are presented.I. Pinayev  Brookhaven National LaboratoryPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO27.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO27
+------------------------------------------------------------
+27. Paper ID: WEPCO28
+   Title: Measurement of two beams positions with button BPM687Modern BPM processors utilize digital processing of the beam induced signals. The information on the signal amplitudes is used for the delta over sum calculation of the beam position, while the readily available phase information is usually discarded. We have experimentally tested measurement of the individual positions of two beams propagating in the common beampipe utilizing both phase and amplitude data. The proposed method can be used for the energy recovery linacs and colliders.I. Pinayev  Brookhaven National LaboratoryPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO28.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO28
+------------------------------------------------------------
+28. Paper ID: WEPCO29
+   Title: Development of analog front-end module for the BPM signal processor at SSRF690A new BPM processor is being developed to address the ageing of BPM signal processors and the new demand for synchronised data acquisition at the storage ring of Shanghai Synchrotron Radiation Facility (SSRF). The BPM processor consists primarily of a digital carrier board and an analog front-end (AFE) module. The AFE is responsible for the conditioning of the BPM output RF signal and for the compensation of long-term drift. This paper presents the design of the AFE module and gives an evaluation of its performance. The experimental results show that the AFE module under development fully satisfies the high resolution and high stability requirements of the upgraded SSRF BPM processor.H. Jiang  Shanghai Advanced Research Institute, Chinese Academy of Sciences, Nanchang University; Shanghai Advanced Research Institute, Chinese Academy of Sciences, Nanchang UniversityL. Lai  Shanghai Advanced Research InstituteQ. Yan  Nanchang UniversityZ. Tang  Shanghai Advanced Research Institute, Chinese Academy of Sciences, Shanghai Institute of Applied Physics, Chinese Academy of Sciences, Nanchang UniversityZ. Xu, S. Wang  Shanghai Advanced Research Institute, Chinese Academy of Sciences, Nanchang Universityy. Xu  Shanghai Institute of Applied Physics, Chinese Academy of SciencesPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO29.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO29
+------------------------------------------------------------
+29. Paper ID: WEPCO31
+   Title: Development and evaluation of an RFSoC based stripline BPM readout hardware prototype693We have developed a Stripline BPM readout device based on an AMD/Xilinx RFSoC chip which integrates multiple ADCs, DACs, a large scale FPGA, and an ARM processor in a single package. The developed device is intended for use at the beam transfer line connecting the KEK injector Linac to the SuperKEKB collider rings. SuperKEKB will operate at unprecedented luminosities requiring very high beam currents. To reach and maintain such currents, high injection efficiency is essential which in turn requires precise tuning of the injection process. The RFSoC based BPM will provide a highly flexible platform for beam orbit measurements near the injection point required for the tuning. One objective is to enable the separate resolution of the orbit of both bunches in the two-bunch injection mode, where two bunches are accelerated and injected with 96 ns spacing. Additionally, we plan to utilize resulting measurements as inputs for real-time automated injection tuning and feedback to the upstream steering in the beam transport line. Here, we present the status of the development including results from prototype tests conducted at the KEK injector Linac.B. Urbschat  Nagoya UniversityG. Mitsuka  High Energy Accelerator Research OrganizationL. Ruckman  SLAC National Accelerator LaboratoryPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO31.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO31
+------------------------------------------------------------
+30. Paper ID: WEPCO32
+   Title: Upgrade of beam position diagnostics System at FELiChEM697The FELiChEM is a user facility dedicated for energy chemistry research, developed at University of Science and Technology of China in Hefei. The beam position diagnostics system at FELiChEM are upgraded recently. The facility operates with a special mode: macropulses at 1 Hz repetition rate with microsecond duration, each containing micropluses at 59.5 MHz repetition rate. The key advancement of beam position monitor (BPM) system lies in the upgraded which now achieves micropluse-level resolution. This enhancement enables real-time measurement of transverse position deviations for individual micropluses, providing essential diagnostics for investigating intra-macropulse instabilities. Post-upgrade characterization demonstrates a transverse position resolution better than 20 μm, satisfying design specifications. The upgraded BPM system has been successfully integrated into routine beam tuning operations.Y. Deng, Y. Leng, X. Yang, D. Wang  University of Science and Technology of ChinaPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO32.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO32
+------------------------------------------------------------
+31. Paper ID: WEPCO33
+   Title: Electro-optic sampling based measurement of near field of RF-compressed relativistic electron beamsWe present an improved electro-optic sampling technique that extends the sensitivity and temporal resolution of beam diagnostics beyond conventional limits. Through precise calibration of the detection system, we reconstruct the spatio-temporal profile of the near-field generated by a relativistic electron beam in a ZnTe crystal. This allows for accurate retrieval of the beam’s peak current with temporal resolution exceeding the nominal THz bandwidth of the electro-optic response. The method is validated at the UCLA Pegasus Laboratory, enabling single-shot detection of electron beams with charges below 100 fC.M. Lenz  Particle Beam Physics Lab (PBPL), University of California, Los AngelesB. Schaap, P. Musumeci  University of California, Los AngelesM. Ota  National Institute for Fusion Science
+   Page: 
+   PDF Status: ✗ Not available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO33.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO33
+------------------------------------------------------------
+32. Paper ID: WEPCO34
+   Title: Ultrashort Relativistic Electron Bunch Characterization via High-Gradient THz StreakingWe report progress on a THz streaking experiment at the UCLA Pegasus Laboratory enabling femtosecond-resolution electron bunch length measurements. Single-cycle, 50 µJ THz pulses centered at 0.6 THz are coupled into a metallic horn structure, enhancing field strengths to several hundred MV/m while simultaneously establishing boundary conditions for a strong streaking gradient. A multi-frequency RF photoinjector system produces ultralow-emittance, high-brightness electron beams, which are compressed to sub-femtosecond durations at MeV energies. This setup enables demonstration of THz streaking-based longitudinal point-spread function measurements with femtosecond resolution.M. Lenz  Particle Beam Physics Lab (PBPL)P. Musumeci  University of California, Los Angeles
+   Page: 
+   PDF Status: ✗ Not available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO34.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO34
+------------------------------------------------------------
+33. Paper ID: WEPCO35
+   Title: Accurate offline calibration and simulation analysis of various types of BPM position sensitivityBeam Position Monitors (BPMs) are the most commonly used non-destructive diagnostics for almost all linear accelerators, cyclotrons, and synchrotrons. It is very important for BPM to provide accurate beam position for closed-orbit correction, and etc. Meanwhile, it is necessary to accurately offline calibrate the BPM position sensitivity and evaluate whether the result is correct or not. In this paper, a method based on the principle of microwave multi-port network in the field of electromagnetic field is proposed to efficiently simulate the BPM position sensitivity; a large number of various BPMs (capacitive , linear-cut and stripline type) for HIAF and PREF projects were calibrated; comparing the calibration and simulated position coefficients, combined with the three-dimensional field distribution analysis, an in-depth and systematic study was carried out on various types of BPM calibration, during which some key points that determine whether the calibration results were accurate after the BPM was launched were found.P. He  Institute of Modern Physics, Chinese Academy of SciencesJ. Wu, H. Xie, L. Li, J. Yin, Z. Du, Z. Li, R. Tian, J. Yang, J. Xia  Institute of Modern Physics
+   Page: 
+   PDF Status: ✗ Not available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO35.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO35
+------------------------------------------------------------
+34. Paper ID: WEPCO36
+   Title: Bead Test Result of Cavity Beam Position Monitor for PAL-XFELA bead test was conducted to measure the shunt impedance (R/Q) of the cavity beam position monitor (BPM) for PAL-XFEL. R/Q is an important parameter of a cavity BPM because it relates to the signal strength, which determines the resolution of the beam position measurement. In the bead test, a dielectric and metal bead were used to assess the frequency change at various bead positions. The measurement results of the two beads from the monopole cavity were similar, but the results from the dipole cavity differed significantly. This discrepancy can be explained by considering the distribution of the electric and magnetic fields in the cavity structure and the materials of the two beads.C. Kim  Pohang Accelerator Laboratory
+   Page: 
+   PDF Status: ✗ Not available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO36.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO36
+------------------------------------------------------------
+35. Paper ID: WEPCO37
+   Title: Study of beam position monitors for PERLE700PERLE is an Energy-Recovery Linac (ERL) to be constructed at IJCLab in Orsay. It will be the First multi-turn ERL with superconducting RF (SRF) with the ambition to reach 10MW beam operation (20mA beam current and 500MeV beam energy) Diagnostics are a key element for PERLE operation and among diagnostics, the salient feature for Beam position monitors (BPMs) is the presence of multiple beams which need to be individually diagnosed and controlled. This document describes the design and the operation of PERLE BPMs with particular attention given to how these BPMs will handle multiple beams during commissioning and under normal operation of PERLES. Ben Abdillah  Université Paris-Saclay, CNRS/IN2P3, IJCLabPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO37.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO37
+------------------------------------------------------------
+36. Paper ID: WEPCO38
+   Title: Current profile and longitudinal phase space measurement using a corrugated structureWe present preliminary experimental results on the measurement of the current profile and longitudinal phase space (LPS) of an ultrarelativistic electron beam using a corrugated structure at the Pohang Accelerator Laboratory X-ray Free-Electron Laser (PAL-XFEL). The electron bunch is streaked by the transverse wakefield induced by the corrugated plates, resulting in a correlation between the transverse and longitudinal beam distributions. By analyzing the transverse distribution of the streaked beam, we reconstructed the current profile and the LPS. Tracking simulations were performed to validate the reconstruction method, showing good agreement between the reconstructed and actual beam profiles. Based on these simulations, we applied the method to experimental data and characterized the longitudinal beam properties at PAL-XFEL. This paper presents our preliminary results on current profile reconstruction and LPS characterization with the high temporal resolution.C. Sung, C. Shim, H. Yang, K. Moon, M. Cho, S. Kim  Pohang Accelerator Laboratory
+   Page: 
+   PDF Status: ✗ Not available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO38.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO38
+------------------------------------------------------------
+37. Paper ID: WEPCO39
+   Title: Development of bunch selector modules for double bunch operation in PAL-XFEL BPM systems704PAL-XFEL plans to begin double-bunch operation in 2027, with two electron bunches separated by 25 ns. The existing beam position monitor (BPM) electronics were designed for single-bunch operation, so the two signals overlap and bias the position measurement. To support this mode without modifying the electronics, we developed an external radio-frequency (RF) switch-based bunch selector that routes only the selected bunch to the BPM input. We built a prototype and conducted laboratory and on-site tests. This paper presents the hardware and experimental results.D. Shin, G. Kim, C. Kim, H. Yang, S. Jang, H. Heo  Pohang Accelerator LaboratoryPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO39.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO39
+------------------------------------------------------------
+38. Paper ID: WEPCO40
+   Title: Fibre-Coupled Oscillator-Driven Electro-Optic Spectral Interferometry as a Longitudinal Bunch Profile Monitor707Electro-optic (EO) diagnostics offer non-destructive methods to resolve the longitudinal charge profile of highly relativistic bunches without the need for complex calibrations or ambiguous phase recovery techniques. The most common technique, EO spectral decoding (EOSD), is favoured for its simplicity, reliability, and straightforward output interpretation, however its resolution is constrained to the geometric mean of the transform-limited and chirped probe laser durations. We have introduced a new technique utilising spectral interferometry (EOSI), which overcomes this limitation by adding a single optical element to an EOSD setup, with successful measurements shown previously on the CLARA accelerator at Daresbury Laboratory. To further explore this technique, we have performed EOSI on the CLEAR accelerator at CERN (160-200 MeV, 15-150 pC and 0.2-1.5 ps RMS) utilising a nJ oscillator and optical fibre-coupled transport. Our results highlight the potential for low power, turn-key operation and flexible integration of EOSI systems for single-shot ultrashort bunch length and arrival time monitoring.C. Pakuza, T. Lefevre  European Organization for Nuclear ResearchD. Graham, M. Hibberd, S. Norman  University of ManchesterD. Walsh  Cockcroft Institute, Science and Technology Facilities Council, Daresbury LaboratoryPaper:
+   Page: 
+   PDF Status: ✓ Available
+   PDF URL: https://meow.elettra.eu/90/pdf/WEPCO40.pdf
+   DOI: https://doi.org/10.18429/JACoW-IBIC2025-WEPCO40
+------------------------------------------------------------
